@@ -1,0 +1,28 @@
+The group responsible for a cyberattack on the Newfoundland and Labrador health-care system last year is one of the major global threats in the digital realm, says one cybersecurity expert.
+Mark Sangster, author and chief of strategy at cybersecurity firm Adlumin, told CBC News the group acts like any other business.
+"Hive is one of the Russian ransomware gangs. In fact, they're sort of in the top five of the threat actors that we've seen in the last year or so," Sangster said Friday.
+"They have crippled thousands of companies and they work across the globe and they operate like a very sophisticated business. I like to call these groups the 'Misfortune 500.'"
+On Tuesday, the provincial government revealed the Hive Ransomware Group was responsible for the cyberattack in 2021.
+The heist jammed resources and services for months and wreaked havoc on an already stretched public sector in the middle of a pandemic. Personal information of more than 58,000 people was compromised in the siege. 
+The province released a report on the attack on Tuesday, identifying Hive as the culprit and outlining how the attack happened and how it hopes to protect private information going forward.
+The report says the attacker successfully initiated a VPN connection to the environment managed by the Newfoundland and Labrador Centre for Health Information while using compromised credentials of a legitimate user account.
+Officials still don't know how the credentials were compromised.
+Sangster said groups like Hive hire employees like another other company, with a range of expertise in criminal activity.
+"They have people who are very good at writing those phishing emails that we're all told about and we're all tested on, but ones that are very convincing. And they have other people who are really good at knowing how to exploit that," he said.
+"They really do create this ecosystem of expertise that at all stages of an attack they know how to exploit it. They know how to use those skills to maximize whatever return they're looking for."
+Sangster said health-care organizations are one of the more lucrative systems the groups target, given how much personal information they hold.
+He said Hive, along with other groups, has been targeting health-care systems for years. The groups will then resell private data on the dark web.
+"Some other people will buy them because they know how to defraud insurers. They can also use the financial information in there to steal identities," said Sangster.
+"If your social insurance number and your, what we call 'personally identifiable information' or PII [is in there] … they can then go out and apply for credit cards."
+The breach continued over two weeks before ransomware was deployed.
+Justice Minister John Hogan wouldn't say, citing "security purposes," if the provincial government paid a ransom to Hive.
+Sangster said he doesn't know what security reason Hogan was referring to.
+"At the end of the day, there will be no retaliation if you were to say what happened. In fact, these gangs kind of want you to talk about it," he said.
+U.S. law enforcement officials said Hive targeted more than 1,500 victims around the world and received over $100 million in ransom payments, beginning in June 2021. In January, officials announced had dismantled the Hive ransomware network.
+Read more from CBC Newfoundland and Labrador
+With files from The St. John's Morning Show
+Audience Relations, CBC P.O. Box 500 Station A Toronto, ON Canada, M5W 1E6 
+Toll-free (Canada only): 1-866-306-4636
+It is a priority for CBC to create products that are accessible to all in Canada including people with visual, hearing, motor and cognitive challenges.
+Closed Captioning and Described Video is available for many CBC shows offered on CBC Gem.
+

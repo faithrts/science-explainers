@@ -1,0 +1,175 @@
+Massive en español
+Noticias de ciencia
+COVID-19
+The facts about COVID-19, straight from scientists
+Butt Month
+The science of butts, poop, and intestines
+Surviving the Anthropocene
+Adapting to endure humanity's impact on the world
+Science Heroes
+Women in STEM you may not have heard of
+Mind Control
+Dispatches from the frontiers of neuroscience
+Food for Thought
+Making agriculture safe, healthy, and sustainable
+Breakthroughs
+Interviews with cutting-edge scientists
+Wikimedia Commons
+Fungal communities are negatively affected by the frequent, intense forest fires that climate change has brought us
+
+Olivia Box
+
+
+Natural Resources
+
+and Forest Ecology
+
+
+University of Vermont
+
+Wildfire season keeps getting worse. As more and more acres burn, charred skeletons of trees blanket the landscape and more human lives and livelihoods are threatened. The effect of wildfires has hit hard, with the 2019 fire season starting early in Alberta, Canada. There, ten thousand people had been evacuated by the end of May, and the effects of the smoke were felt across the country and into the United States. The fire season predictions for the American West are unparalleled in recent history, and point to a future with even more severe fires.
+While the aboveground effects of wildfires have been devastating, new research suggests that damage is also occurring beneath the smoke and flames, impacting the diversity of fungal communities belowground.
+This year has already seen severe wildfires in Alberta, Canada
+Cameron Strandberg on Wikimedia Commons
+A team of scientists from the Wilfrid Laurier University in Ontario, Canada surveyed the boreal forest in Canada’s Northwest Territory area after the 2014 fire, which burned 2.85 million hectares. This was the largest fire ever recorded in that area. They found that fungal communities, including mushrooms and mycorrhiza (a common symbiotic relationship between fungi and plant roots), in burned areas were less diverse than communities in unaffected areas. This could impact future plant growth and hamper the process of forest regeneration. “When the fires are very severe, it’s difficult to predict what might happen,” explains Dr. Nicola Day, one of the co-authors on the study.
+Boreal forests are situated at northern latitudes and characterized by their cool climates and picturesque evergreen trees, with fire as a regular disturbance agent that helps maintain normal ecosystem function. But wildfires in Alberta have been increasing in severity and frequency. Many species of fungi have evolved to rely on fire in small quantities to grow, but the intensification of fires due to climate change may cause long-term effects on these delicate communities. 
+Some fungi in the boreal forests, like morel mushrooms, spring forth abundantly from the ground after wildfires, potentially because they prefer the chemistry and pH of burned soils. Others, like the aptly named genus Pyronema, rely on their ability to grow faster than their competitors to regenerate post-fire. But extreme repeated heat and fires can wear down an ecosystem's ability to recover from disturbances, even that of fire-adapted boreal forests. Recent studies have shown that mycorrhizas can wither post-fire and can take up to 15 years to recover, creating lasting effects even in a fire-adapted system.
+The team of scientists behind this study sampled soil pH and total soil nitrogen and carbon in burned and unburned sites. Measuring these indicators of soil health was important because all of them influence fungal diversity. Within the burned sites, the team took samples from areas of different burn severity — characterized by the number of organic layers removed — to better understand exactly how fires impact soil fungi. 
+ Fungi are an important, but often-overlooked, component of biodiversity
+ Photo by Ramamoorthy Kumar on Unsplash
+The research team also sequenced DNA of fungal samples taken from the burned sites to identify which fungi were present. They used FUNGuild, a database where fungal identities can be matched with their functions, like the ability to act as a mycorrhiza, to encourage plant growth, or to participate in nutrient cycling. Determining both species type and ecological role constructs a more complete picture of the diversity and function of boreal forest fungi.
+They found that changes in soil pH linked to the wildfire was the driving factor determining fungal community diversity. Increased fire severity also resulted in an overall decline in total forest fungi. These findings suggest that wildfires do affect belowground communities, and consequently will shape long-term growth patterns of Canada's boreal forests.
+When we hear the word “forest” we tend to think of trees, but this research points to the importance of belowground biodiversity as an indicator of forest health. Fungal diversity, especially of mycorrhizal species, plays a key role in understory plant recovery post-fire, and lower fungi richness could lead to less speciose plant communities in the future. 
+There is an ongoing debate as to how many fungi species nature holds, with estimates ranging from 1-10 million species. “Mycologists have barely scratched the surface in terms of how many fungal species there are in the world,” Dr. Day commented, “let alone what they do and how they contribute to healthy ecosystems”.
+Untold fungal diversity lies beneath these trees, and we need to understand more about it to preserve healthy ecosystems
+Similar patterns have been found in Alaska post-fire, and further work is needed to describe the interactions between soil pH, fungal diversity, and fire across other areas. With increased incidences of wildfire and other climate change-related disturbances, more research is needed to examine the relationships between fungal diversity and forest health on a longer timeline and across different biomes.
+The effects of climate change on forests are being recorded on both macro and micro scales, from trees to microbes. The term “biodiversity” has largely latched onto charismatic megafauna, but the crises extend across ecosystems and even to the relatively small, out-of-sight organisms like fungi. The loss of belowground diversity cannot be ignored, warns Dr. Day. “We don’t know the implications of fungal extinctions.”
+We ask other scientists from our Consortium to respond to articles with commentary from their expert perspective.
+
+Alice Theibault
+
+
+Environmental Science
+
+and Biotechnology
+
+
+Rochester Institute of Technology
+
+A really interesting and relevant article that touches upon a number of important points. I also like the way this study incorporates multiple aspects of biology: not just the mushrooms themselves, but the characteristics of the soil and even computer programming (to access DNA databases and, presumably, analyze the soil components they found.) 
+
+
+ Olivia Box responds:
+Thanks for your comment, Alice. It was really interesting to speak with the scientists about their methods, and how new advances have informed their understanding of just how many fungal species there could be in the world! 
+
+Eva Colberg
+
+
+Conservation ecology, 
+
+Botany, 
+
+and Myrmecology
+
+
+University of Missouri - St. Louis
+
+My biggest concern whenever anyone talks about wildfire is a tendency to paint fire itself as the bad guy rather than the external factors that are intensifying and changing the nature of fire (especially climate change!). This does a good job of pointing out how fire is a natural part of boreal forests, but is happening more often and more intensely now than what these ecosystems are adapted for. I do think it might benefit to mention just how infrequently the system is adapted for—we can say fire is a “regular disturbance agent” in boreal forests as well as temperate oak forests, but the frequency of that regularity is vastly different between the two biomes.
+Additionally, soil and fungi aren’t typically charismatic topics, but this article manages to bring attention to and highlight the importance of below-ground processes while also showing the bigger picture.
+
+
+ Olivia Box responds:
+You’re totally right – just because these systems are fire-adapted, doesn’t mean they have the capacity to deal with more extreme and frequent fires. There’s speculation of what that could mean for the future, and it’s definitely concerning.
+
+Marnie Willman
+
+
+Virology
+
+
+University of Manitoba Bannatyne
+
+and National Microbiology Laboratory
+
+The topic of forest fires is one that is both relevant, given the current Amazon Rainforest fires, and largely understudied. Like all biologists, I can appreciate the changes these wildfires can stimulate, which often go far beyond loss of trees. The ecosystem changes, animal habitats are destroyed, the microbiome and constitution of the soil changes, the list goes on. As fires become a more widespread issue globally, hopefully this area of research continues to expand and gain the attention it rightfully deserves. 
+Soil from the surface can smother reefs. A new study creates a map of corals most susceptible to runoff from land 
+Cassie Freund, Wake Forest University
+
+November 22, 2021
+
+Sophia Friesen, University of California, Berkeley
+
+June 24, 2021
+
+Rebecca Dzombak, University of Michigan
+
+September 15, 2020
+
+Kaitlin Sullivan
+
+August 19, 2020
+
+Cheryl Katz
+
+May 3, 2020
+
+Xinwen Zhu, Boston University
+
+February 4, 2021
+
+Dori Grijseels, University of Sussex
+
+October 29, 2020
+
+Hannah Thomasy, University of Washington
+
+August 25, 2020
+
+Andrew J. Whelton, Purdue University
+Caitlin R. Proctor, Purdue University
+
+August 20, 2020
+
+Gretchen C. Daily won the "Nobel Prize for the Environment" for her work on natural capital
+Vanessa Vieites, Florida International University
+
+July 17, 2020
+
+Max Moritz, University of California
+Faith Kearns, University of California
+
+October 24, 2019
+
+Cassie Freund, Wake Forest University
+
+September 4, 2019
+
+Michael Graw, Oregon State University
+
+October 10, 2017
+
+Lila Westreich, University of Washington
+
+February 20, 2020
+
+Cassie Freund, Wake Forest University
+
+October 11, 2019
+
+Gabriela Serrato Marks, Massive Science
+
+September 11, 2019
+
+Colleen J Mulvihill, University of Texas at Austin
+
+December 17, 2020
+
+Debra Miller, University of Tennessee
+Matt Gray, University of Tennessee
+
+March 12, 2021
+
+Fascinating science stories, as told by scientists
+We're a community of scientists telling stories about all the truth and beauty in the universe. Subscribe to get the most interesting, enlightening, and entertaining science writing sent to you.
+We're a community of scientists telling fascinating, true stories about the science that's happening now.
+© 2017 – 2020 Massive Science Inc.

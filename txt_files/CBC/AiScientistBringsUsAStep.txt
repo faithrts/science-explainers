@@ -1,0 +1,24 @@
+Humans are no longer the only ones capable of making scientific discoveries. Kepler's third law of planetary motion has been re-discovered centuries after it was first described – but this time, an artificial intelligence system is taking the credit.
+Dubbed AI-Descartes, this "AI scientist" was developed by a team of researchers from IBM Research, Samsung AI, and the University of Maryland, Baltimore County (UMBC).
+"I think scientists have so many different problems to solve. And if we solve them faster with AI, they just open up brand new questions for us to go after next," Tyler Josephson told Quirks & Quarks host Bob McDonald. 
+Josephson co-authored a paper describing the new system, which was published this week in the academic journal Nature Communications.
+"We are merging a first-principles approach, which has been used by scientists for centuries to derive new formulas from existing background theories, with a data-driven approach that is more common in the machine learning era," Cristina Cornelio, a research scientist at Samsung AI who is first author on the paper, said in a press release.
+While algorithms are very good at finding patterns in a sea of information, most of them aren't capable of the very human task of seeing the big picture – combining those patterns with existing scientific theories to make new discoveries. 
+"What our system is doing is bringing logical reasoning into the mix – and it's doing it in a very rigorous way," explained Josephson, who is an assistant professor of chemical, biochemical and environmental engineering at UMBC.
+Similar to many AI algorithms, AI-Descartes can work with large volumes of data and generate equations that fit that data in a process known as symbolic regression.
+But it has also been programmed with mathematical reasoning, which gives it the ability to see how the reams of generated equations work with existing background theory and identify which ones are useful and valid.
+Like scientists, AI-Descartes has to acquire the background knowledge first – with the help of its human research team. 
+"We take theories that we know as humans, and we write them down in a way that the computer can understand," Josephson explained.
+"Then it will slot in each of these equations to fit data and then logically check, does this equation follow from the theory that we've given it?"
+Through this process, AI-Descartes has also been able to re-discover Einstein's time dilation equation and Langmuir's adsorption law, which governs the behaviour of gases. 
+Researchers already work with AI algorithms to manage large sets of data, and make accurate predictions based on real-world observations. The hope for AI-Descartes is that, eventually, the artificial intelligence system will surpass its human teachers.
+"What our work is really thinking about is, could we use AI to discover new theories, not just applying our old theories in new contexts?" Josephson said. 
+Journalist
+Olsy Sorokina is an online journalist and radio producer, currently sharing fascinating science on CBC Radio's Quirks & Quarks.
+Add some “good” to your morning and evening.
+A variety of newsletters you'll love, delivered straight to you.
+Audience Relations, CBC P.O. Box 500 Station A Toronto, ON Canada, M5W 1E6 
+Toll-free (Canada only): 1-866-306-4636
+It is a priority for CBC to create products that are accessible to all in Canada including people with visual, hearing, motor and cognitive challenges.
+Closed Captioning and Described Video is available for many CBC shows offered on CBC Gem.
+

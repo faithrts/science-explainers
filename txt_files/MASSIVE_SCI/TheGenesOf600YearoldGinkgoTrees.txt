@@ -1,0 +1,159 @@
+Massive en español
+Noticias de ciencia
+COVID-19
+The facts about COVID-19, straight from scientists
+Butt Month
+The science of butts, poop, and intestines
+Surviving the Anthropocene
+Adapting to endure humanity's impact on the world
+Science Heroes
+Women in STEM you may not have heard of
+Mind Control
+Dispatches from the frontiers of neuroscience
+Food for Thought
+Making agriculture safe, healthy, and sustainable
+Breakthroughs
+Interviews with cutting-edge scientists
+Modified from photo by Xiaolong Wong on Unsplash
+Ancient trees reveal the secret to their virtual immortality
+
+Luyi Cheng
+
+
+Molecular Biology
+
+and Structural Biology
+
+
+Northwestern University
+
+On the West Coast of the United States, the coastal redwoods in Northern California can live more than 2,000 years. Giant sequoias in central California routinely reach over 3,000 years in age. The oldest living organism in the world – old Methuselah, a bristlecone pine tree – has survived for over 4,700 years.
+Millenia-old trees have held their place on Earth long and steady, and scientists have been curious about how they’re able to survive for so long. Native to China, the Ginkgo biloba can also survive over 1,000 years. By studying these long-living trees, a team of collaborating scientists between China and the United States identified specific genes that explain how the trees stay virtually immortal and thriving. They published their results in the Proceedings of the National Academy of Sciences.
+Ginkgo trees are biologically unique. Fossils resembling their elegant fan-shaped leaves date back over 200 million years. Paleobotanists have concluded the modern ginkgo tree has “barely changed” throughout their long history. The tree's closest relatives have all died out: “Ginkgos are evolutionarily isolated, [so they’re] the single surviving species of a lineage that completely died out,” explains Judy Jernstedt, a plant anatomist who studies ginkgo shoot architecture at the University of California, Davis and was not involved in the study.
+But out of these distinct qualities, their most intriguing trait remains their longevity.
+“We went to a very local area in Hubei Province,” explains Jinxing Lin, a plant biologist at Beijing Forestry University and a senior author of the study. To try to understand the biological reasons for how the trees could live for so long, the researchers wanted to compare genetic samples between young and old trees to bring back to their lab. However, they had to first determine the trees’ ages and find fitting samples to analyze.
+“Leaves, you know, can fall down every year and could not reflect the real age. So, we used the old vascular cambium,” Lin said.
+The vascular cambium is a ring of cells that form a layer underneath the bark. They’re cells without specialized roles that will continuously divide and grow, either inwards towards the trunk as wood or outwards as bark. Even centuries-old ginkgo trees, “can still divide several cells each year from the cambium,” added Lin.
+As a tree grows, the vascular cambium increases the girth of the trunk. Seasonal changes and growth patterns mean that this growth will produce about one additional ring in the trunk’s patterning every year. 
+“You’ve got to go in there and use a bore to go right into the center of tree and then pull it out,” explains Richard Dixon, a biologist at University of North Texas and a senior author of the study, “and then you’ve got to do the aging of the tree based on the rings.”
+With this method, the researchers collected samples from 34 ginkgo trees between 15- and 667-years old. They compared the ginkgo trees’ RNA in the vascular cambium to observe how their genetic activity changed between different age points.
+In the 600-year old trees, genes associated with defenses against pathogens and disease resistance remained steadily active. The activity of other genes related to producing antioxidants, antimicrobials, and stress-response signals also didn't seem to be declining either. In other words, the older ginkgo trees appeared just as hardy as the younger trees. “We really couldn’t tell the profile for a 600-year old tree from a 20-year old tree,” marvels Dixon.
+Gene activity related to senescence – the stage of life where cells lose their ability to divide and the tree begins to deteriorate and die – also stayed consistent in the older trees, showing no signs of increasing with age. “We thought after several hundred years they should go into senescence,” recalls Lin. But genetically, the old ginkgo trees appeared as youthful as ever. “We found the trees can still produce very good seeds and pollen, and they’re still in a healthy state.”
+These results are some of the first pieces of evidence pointing scientists towards the molecular underpinnings of aging, or a lack of it, in trees. Although the oldest trees in the study were about 600 years old, Dixon believes even older ginkgo trees estimated to be over 1,000 years old would show similar patterns of health and youth.
+Bristlecone pine, redwood, sequioa, and ginkgo trees can all live for thousands of years
+Photo by Juvian Duff on Unsplash
+Similar genetic mechanisms could possibly be responsible for longevity in other long-living trees as well. “Maybe people will now be doing these kinds of experiments in redwoods or in...yew trees or bristlecone pine trees,” says Dixon.
+To add to the ginkgo's list of quirks, the species is also notoriously hardy. They’re unusually resistant to diseases, pests, and pollution, making them popular for city planners in urban settings. Famously, a small stand of ginkgo trees survived the nuclear blast from the atomic bombing of Hiroshima, and even flowered the next spring. 
+This biological phenomenon shapes new questions for Dixon and Lin. They say the next planned step for their research group is to study the somatic mutation rate of ginkgo trees. Somatic mutations are changes in DNA that are not inherited from sperm or egg cells, but rather acquired later on from environmental factors such as ultraviolet light or radiation. What protects the integrity of the ginkgo genome so well? For the genetic profile of a mature ginkgo tree to closely resemble a young one, does that mean somatic mutations are slower to accumulate?
+Or, “does something that lives a thousand years have to have a better DNA repair mechanism?” Dixon wonders, “If it did, that would be phenomenal, I think.”
+We ask other scientists from our Consortium to respond to articles with commentary from their expert perspective.
+
+Allison J Matthews
+
+
+Microbiology
+
+
+Tufts University
+
+This is fascinating! 
+I’m curious if you know why Ginkgo trees are also more resistant to all the other stresses you mentioned (diseases, pests, and pollution)? Do other trees' susceptibility to these stresses tend to correlate with age?
+Also, the final line of your story suggesting this could be due to efficient DNA repair had me intrigued if there is any correlation between the Ginkgo’s agelessness and radiation and desiccation tolerance of the bacterium Deinococcus radiodurans. Part of the bacterium’s success comes from having many copies of its genome to use as a repair template along with efficient DNA repair mechanisms. Do you know how many sets of chromosomes are found in a Ginkgo tree cell?
+
+
+ Luyi Cheng responds:
+To my knowledge, the exact reasons haven’t been exactly 100% figured out. However, Peter Crane, a botanist who wrote a book about ginkgos mentioned in an interview in some more detail that the leaves are pretty unattractive to pests to begin with, and the roots are quite tolerant in urban environments and are able to deal with conditions such as lower levels of oxygen o higher levels of salt. As for other trees, I would say that many, as they grow older, become less efficient at replacing old cells and growing new ones, becoming more susceptible to these stresses.
+Also, interesting point about the bacteria! Gingko trees have been characterized as having two sets of chromosomes.
+
+Caitlyn Finton
+
+
+Behavioral Neuroscience
+
+
+Cornell University
+
+Super interesting article! Similar to Allison, I wonder how Ginkgo trees are so resilient and if it their resilience may be connected to why they live so long. Is resistance to stresses related to DNA expression and/or propensity of DNA to acquire mutations? Are they two sides of the same coin? I also wonder what potentials this research has for agriculture. If we can figure out what makes Ginkgo trees so hardy and never age, can we use that information to create hardier crop plants and trees? 
+
+
+ Luyi Cheng responds:
+It would definitely be interesting to see where the authors go with their future research to see how those two features are related! From this work, it seems to imply that initially and earlier in life, ginkgo trees’ resistance to stress is genetically expressed. I’d be curious to see if/how DNA repair mechanisms play a role in that, especially as the trees age and encounter more chances of picking up mutations.
+Also, interesting idea about applying this research towards genetically modifying other crops or trees. I also wonder if that would be another worthwhile future direction to consider!
+Blue oaks have up to 500 years of climate history written in their rings
+Daniel Ackerman, University of Minnesota 
+
+January 15, 2018
+
+Cassie Freund, Wake Forest University
+
+November 22, 2021
+
+Colleen J Mulvihill, University of Texas at Austin
+
+December 17, 2020
+
+Joan Meiners, Ecology
+
+July 12, 2020
+
+Lila Westreich, University of Washington
+
+May 17, 2020
+
+António Guterres
+
+October 3, 2019
+
+Christina Del Greco, University of Michigan
+
+November 5, 2021
+
+Ornob Alam, New York University
+
+October 13, 2021
+
+Cassie Freund, Wake Forest University
+
+January 14, 2021
+
+New research is making it seem increasingly likely – to a point
+Yewande Pearse, LA Biomed
+
+April 16, 2018
+
+Anastasia Gorelova, University of Pittsburgh
+
+November 15, 2017
+
+Mihaela Bozukova, Max Planck Institute for Biology of Ageing
+
+August 6, 2021
+
+Tara Fernandez, Cell Biology
+
+December 5, 2019
+
+Malosree Maitra, McGill University
+
+November 26, 2021
+
+Charlotte Douglas, Institut Curie Paris
+
+October 19, 2021
+
+Lauren Gandy, Rensselaer Polytechnic Institute
+
+April 26, 2020
+
+David Baranger, University of Pittsburgh
+
+February 11, 2020
+
+Melanie Silvis, UC San Francisco
+
+November 9, 2017
+
+Fascinating science stories, as told by scientists
+We're a community of scientists telling stories about all the truth and beauty in the universe. Subscribe to get the most interesting, enlightening, and entertaining science writing sent to you.
+We're a community of scientists telling fascinating, true stories about the science that's happening now.
+© 2017 – 2020 Massive Science Inc.

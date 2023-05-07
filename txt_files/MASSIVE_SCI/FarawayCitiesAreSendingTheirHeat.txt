@@ -1,0 +1,119 @@
+Massive en español
+Noticias de ciencia
+COVID-19
+The facts about COVID-19, straight from scientists
+Butt Month
+The science of butts, poop, and intestines
+Surviving the Anthropocene
+Adapting to endure humanity's impact on the world
+Science Heroes
+Women in STEM you may not have heard of
+Mind Control
+Dispatches from the frontiers of neuroscience
+Food for Thought
+Making agriculture safe, healthy, and sustainable
+Breakthroughs
+Interviews with cutting-edge scientists
+Paxson Woelber on Wikimedia Commons
+
+A version of this story originally appeared on
+Eos
+
+Even in the remote high latitudes, a new satellite study sees rising temperatures and spreading green belts around cities
+
+Cheryl Katz
+
+Freelance journalist
+Urban heat islands — centers of warmth surrounded by halos of greening fueled by human activities — are an important climate phenomenon. Characterized by raised temperatures and longer growing seasons, these heat islands trigger significantly faster warming in cities than in rural areas. New research using satellite spectral imaging shows that urban heat islands aren’t just a product of metropolises in the planet’s populous temperate zones. They’re also contributing to climate change in the remote Arctic.
+Igor Esau, an atmospheric scientist with the Nansen Environmental and Remote Sensing Center at the Bjerknes Centre for Climate Research in Bergen, Norway, has been gauging the impacts of urban heat islands (UHIs) across the Arctic with satellite observations of land surface temperatures and vegetation density. Reporting in Urban Climate, Esau and his Nansen Center colleague Victoria Miles used the Moderate Resolution Imaging Spectroradiometer (MODIS) to study 57 cities with more than 4,000 residents located above 64°N in Norway, Sweden, Finland, and northwestern Russia, an area known as Fennoscandia. This is the most urbanized part of the Arctic, and the area is expected to grow as the climate warms. The researchers found measurable UHIs surrounding every city in the region.
+The intensity of the UHIs, measured as the difference in land surface temperatures within and outside a 10-kilometer radius of a city, varies by season, location, and surrounding terrain. The strongest UHIs were seen in Murmansk, Russia, and Oulu, Finland, and ranged from +3°C to +5°C.
+ In another study, to be published as a chapter in the forthcoming book The Arctic: Current Issues and Challenges, Esau and colleagues looked at 11 cities across the High North, including Fairbanks, Alaska; Tromsø, Norway; and Norilsk, Russia. Again, every city showed a strong and persistent heat island. Overall, including earlier studies of the Eurasian Arctic, western Siberia, and elsewhere, the researchers find that 70% to 80% of the Arctic towns and cities analyzed to date have significant UHIs, with 15% topping 3°C. The average temperature increase is +1.5°C.
+That amount of additional warming may not feel like much in the Arctic, where winter temperatures can be −25°C or −30°C, Esau said in a recent presentation at the Arctic Frontiers conference in Tromsø. “But when it accumulates, year after year, then this lack of cold starts to change the environment, starts to change the soil properties.” Over time, that extra thermal output can lead to big environmental changes.
+The research finds the effects of Arctic UHIs are already apparent. “The most obvious impact is the so-called urban greening — a belt of more productive vegetation and more southerly plant communities in and around the cities,” Esau said.
+Satellite observations measuring plant growth with the normalized difference vegetation index found cities surrounded by rings of abnormally verdant vegetation 2 to 3 times larger than the city itself. And places such as the Siberian taiga are now sprouting plants more appropriate to climates up to 600 kilometers south.
+“The other important impact is the declining soil stability and widespread infrastructure and building damage in the permafrost zones,” Esau said. As much as 80% of runways, roads, and other infrastructure in some parts of the Arctic have already been damaged.
+Permafrost thawing disturbs soil, Ellesmere Island, Nunavut, Canada. 
+ A. Cassidy on Flickr.
+The new Urban Climate paper is “a nice contribution on several levels,” said University of Alaska Fairbanks climate scientist Uma Bhatt, who was not involved in the study. “It makes us think about the impact of urban heat islands in the Arctic in the story of warming temperatures.”
+Overall, the heat flux to the surrounding environment is up to 10 times larger per capita for Arctic cities than for temperate ones because of the Arctic’s long cold seasons and more compact urban footprint, Esau said. Current data sets severely underestimate the heat output of Arctic UHIs, which may reach 100 watts per square meter.
+ The Arctic, home to 4 million people, has warmed 3 times faster than the rest of the planet over the past half century, according to the January 2020 climate report by the National Oceanic and Atmospheric Administration and NASA. Arctic UHIs stand to warm the region even further, impacting the nearly 8 in 10 Arctic residents who live in cities experiencing more than 1.5°C of additional heating. 
+How climate change floods, boils, and leaves gentrification in its wake
+Angely Mercado
+
+June 23, 2021
+
+Clayton Aldern, Grist
+Christopher Collins, Texas Observer
+Naveena Sadasivam, Grist
+
+April 18, 2021
+
+Keira Monuki, University of California, Davis
+
+March 28, 2021
+
+Dan Samorodnitsky, Senior Editor
+
+February 20, 2021
+
+Cassie Freund, Wake Forest University
+
+January 31, 2021
+
+Julie Hollis, Government of Greenland
+
+November 3, 2020
+
+Sophia Friesen, University of California, Berkeley
+
+June 24, 2021
+
+Max G. Levy, Science and Health Journalism
+
+November 23, 2020
+
+Ariel Zych, Science Friday
+
+May 21, 2020
+
+Reintroducing animals to break up insulating snow patches could save permafrost layers
+Jeff Berardelli
+
+April 21, 2020
+
+Farah Qaiser, University of Toronto
+
+November 20, 2020
+
+Elisa Bonnin, University of Washington
+
+December 8, 2020
+
+Mario Alejandro Ariza, Yale Environment 360
+
+December 10, 2020
+
+Laura Lyon, McGill University
+
+November 25, 2020
+
+Krishna Sharma, Ecology
+
+August 10, 2021
+
+Kristen Vogt Veggeberg, University of Illinois at Chicago
+
+July 27, 2021
+
+Cassie Freund, Wake Forest University
+
+July 19, 2021
+
+Olivia Bernard
+
+August 16, 2020
+
+Fascinating science stories, as told by scientists
+We're a community of scientists telling stories about all the truth and beauty in the universe. Subscribe to get the most interesting, enlightening, and entertaining science writing sent to you.
+We're a community of scientists telling fascinating, true stories about the science that's happening now.
+© 2017 – 2020 Massive Science Inc.
