@@ -1,0 +1,6 @@
+Sign Up or Sign In to Read
+It takes 13 milliseconds to process a picture. When you take more time to look, what you find may surprise you.
+Every day, fake pictures are getting more realistic. Today, anyone can access a web-based program like Midjourney or Dall-e and create artificial or manipulated images without much effort.
+The good news is that humans have a natural instinct for sniffing them out, according to Siwei Lyu, professor of computer science and engineering at the University at Buffalo. Lyu belongs to a group of researchers battling AI with AI—they’ve found the best way to teach an AI to find synthetic images is to show them how humans do it.
+We’ve been dealing with falsified images for a very long time. Image manipulation has been around just about as long as photography itself. Take, for example, this photo from 1860 with Abraham
+Copyright © 1996-2015 National Geographic SocietyCopyright © 2015-2023 National Geographic Partners, LLC. All rights reserved

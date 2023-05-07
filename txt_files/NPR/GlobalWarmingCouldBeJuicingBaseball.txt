@@ -1,0 +1,60 @@
+
+
+   Ari Daniel
+  
+
+
+        A new study finds that climate change is causing more home runs.
+        
+          
+          Dylan Buell/Getty Images
+          
+        
+hide caption
+
+A new study finds that climate change is causing more home runs.
+As baseball season heats up, here's something to know: Global warming could be raising your chances of seeing a home run ball sail to the bleachers. 
+A new study published in the Bulletin of the American Meteorological Society looked at some 60 years of baseball data and daily temperatures, finding that air made thinner by warmer conditions accounted for 1% of home runs on average from 2010-2019.
+That small share is expected to grow to up to 10% by the year 2100 as temperatures climb over the course of this century — making the baseball diamond a kind of prism into the many ways our lives will be impacted by a changing climate, from recreation to health to civic infrastructure.
+"Climate change is not just heat waves or hurricanes," explains Christopher Callahan, a climate science PhD student at Dartmouth College. "It's these subtle changes in our leisure activities that are going to start affecting people more and more in ways that we may not realize yet."
+The idea that home runs could be enhanced by global warming has been batted around for a few years. In April 2012, baseball commentator Tim McCarver said this on television:
+"I think ultimately it will be proven that the air is thinner now, there have been climatic changes over the last 50 years in the world. And I think that's one of the reasons that balls are carrying much better now than I remember. The ball that Ramirez hit out, the ball that Freese hit out, I didn't think either one was going to be a home run, and yet they made it."
+That observation did not play well with all viewers.
+"He got savaged for this," Callahan says. "He was widely mocked for making this statement on air. People being like, 'Ha ha ha, this can't possibly be climate change.'"
+Callahan is a die-hard Cubs fan. He grew up within walking distance of Wrigley Field and his dad hooked him on the game at a young age.
+"You don't know why it's embedded in your soul in the way that it is," he says, "but I'm never gonna be able to get it out."
+McCarver's on-air comment also generated a few articles that did some back-of-the-envelope calculations — and found that maybe the idea wasn't so far-fetched after all.
+"I had read some of those and said, 'Hey, look, we could try and find this in the actual data,'" Callahan recalls. "We could take the scientific methods that [I use] for my other work and bring them to bear on this issue."
+And if there's one thing that Major League Baseball has, it's mountains of data. That includes home run counts for every player on every team going back decades — the kinds of figures emblazoned on baseball cards.
+Callahan considered the number of home runs from 114,417 MLB games over 60 years, combined with temperature data. They looked specifically at the days that were unseasonably warm and cold for the time of year. 
+"Instead of saying, 'Is it warm or cold?,' we say, 'Is it unseasonably warm for that location at that time?'" he says. 
+This is a question that's independent of other, potentially confounding factors like what the bat's made of, alterations to baseball stitching, or whether players were doping.
+Then, Callahan says, they asked: "Are there unusually more home runs than there are normally?"
+The answer, according to their analysis, is yes. 
+Scientists say they have a pretty good idea of why balmier temps seem to add a little extra juice to home runs.
+"Warmer air is less dense than cooler air," says Justin Mankin, a climate scientist at Dartmouth who worked with Callahan. This means there's "more space between the air molecules, and so a ball is just going to encounter less air resistance and it's going to fly farther."
+Michael Mann, the director of the Penn Center for Science, Sustainability and the Media, wasn't involved in the research. He says the analysis was solid but suggests that heat stress may be another way to explain the phenomenon that the researchers observed.
+Hotter temperatures may take a higher toll on pitchers, who have to throw a ball at high speed over and over, Mann explains.
+"But a hitter just has to get up there once and hit the ball and then they're done for a while," Mann says. "And so hitters have more of an advantage over pitchers."
+The thinking goes that on warmer-than-usual days, wearier pitchers would allow batters to hit more home runs. But that's where a second dataset steps up to the plate: Statcast.
+Statcast is a system that uses a set of high-speed, high-accuracy cameras to track baseballs and players throughout the game.
+Since being installed at MLB stadiums in 2015, this system "has been used to track individual baseballs coming off the bat in really high-resolution ways," says Callahan.
+Take this clip from a Yankees home game against the Cubs last June. After Giancarlo Stanton sends a ball flying, the announcer shouts, "That is a missile! And it's two-nothing, Yankees. I know we're gonna get the stats on this. That's one of the fastest home runs I've seen here at Yankee stadium."
+Within seconds, the exiting velocity of Stanton's homer appears on screen — 119.8 miles per hour. This measurement is courtesy of Statcast. "So we have the launch speed and launch angle of individual baseballs coming off the bat," explains Callahan.
+And at this point, all the other factors — including pitcher fatigue — don't matter. All that matters is the speed and angle of a ball at the moment that it's hit. Callahan compared 223,337 Statcast measurements from a five-year span to see whether air temperature had a measurable effect.
+And sure enough, "we can say that the same ball leaving the same bat ends up being a home run more often in warm conditions," says Callahan, due to reduced air density. 
+As for Tim McCarver, these results have "vindicated his perspective that climate change plays a role," Callahan says. 
+Mankin agrees. 
+"McCarver clearly had an intuition for all aspects of the game," says Mankin, "including its physics." The sports analyst died this past February, less than two months before the findings were published. 
+Callahan says that since 2010, more than 500 home runs can be chalked up to warmer temperatures. And he says that if things continue to heat up, by 2100 we're likely to see several hundred more home runs per baseball season.
+Andrew Solow, Senior Scientist Emeritus at the Woods Hole Oceanographic Institution, says the new research makes a good case for the connection between warming and more home runs.
+Still, he added, "there are some technical issues that would need to be addressed before I would be really confident that they're right."
+Marshall Shepherd, an atmospheric scientist at the University of Georgia who wasn't involved in the research, says that this is just one study, and he'd like to see more work confirm these new findings before jumping to any sweeping conclusions. But the research looks sound, he says — and if it holds up, it has broader implications.
+"It's more than just the novelty of baseballs traveling further and more home runs," says Shepherd. "I think it does raise a caution flag about the health and safety of both players and fans at these games."
+A couple possible fixes may help bring stadium temperatures down. "Maybe you want to consider a dome," says Mankin, "or maybe you want to consider overturning ordinances to allow day games to be played at night."
+He adds that revealing this connection between home runs and temperature deviations was only possible because of the vast amounts of data that the MLB collects.
+"Baseball is obsessed with itself," says Callahan. "It's obsessed with collecting data on itself."
+And this suggests, says Mankin, that these kinds of impacts are lurking everywhere, if we could only measure them.
+"What these results make clear is that climate change is fundamentally going to restructure our lives and livelihoods and recreation and well-being," Mankin says. "Nothing escapes its touch."
+Sponsor Message
+Become an NPR sponsor
