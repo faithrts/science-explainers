@@ -1,0 +1,124 @@
+Massive en español
+Noticias de ciencia
+COVID-19
+The facts about COVID-19, straight from scientists
+Butt Month
+The science of butts, poop, and intestines
+Surviving the Anthropocene
+Adapting to endure humanity's impact on the world
+Science Heroes
+Women in STEM you may not have heard of
+Mind Control
+Dispatches from the frontiers of neuroscience
+Food for Thought
+Making agriculture safe, healthy, and sustainable
+Breakthroughs
+Interviews with cutting-edge scientists
+kolibri5 / Pixabay
+The multiplayer game tests conservation strategies for farmers interacting with elephants in Gabon, but its lessons reveal a need for human equity
+
+Cassie Freund
+
+
+Ecology
+
+
+Wake Forest University
+
+The ivory trade isn’t the only threat to wild elephants. They travel an average of 25 kilometers (about 15 miles) per day, traversing landscapes inhabited by people — including farmers — who have their own priorities for the land they share with these enormous animals. This is particularly true in Gabon, home to about 2.2 million people and an estimated 50,000 African forest elephants.
+Preventing human-elephant conflict is a key way to ensure that elephants continue to roam African (and Asian) forests and plains. While exact numbers of elephants killed in Gabon after dangerous run-ins with humans are unknown, in 2020 seven elephants were killed outside of Kenya's Amboseli National Park after coming into conflict with humans, and this is just one of a multitude of places where humans and elephants overlap. And in 2017, the World Bank launched a $9 million project to address human-wildlife conflict, specifically human-elephant conflict, in Gabon. 
+But figuring out the best way to mitigate these conflicts, and therefore the best use of such conservation funding, remains a challenge, because it requires just as strong of an understanding human behavior as of elephant ecology. Getting people to honestly self-report how they might react, or have reacted in the past, to elephants trampling their fields isn’t always possible.
+Lope National Park, Gabon. Gabon is home to about 50,000 African forest elephants
+jbdodane / flickr
+New research published in the journal Ecology and Society, led by University of Stirling, UK researcher Sarobidy Rakotonarivo (currently a researcher at Madagascar's University of Antananarivo) used a realistic multiplayer computer game to get around this challenge. Using gameplay to determine how people might act in various situations is not a novel idea; previous studies on pesticide use and irrigation use by farmers, among others, have also used games to examine human behavior. 
+The game Rakotonarivo and her research team used was designed to be played by four participants at a time on tablet computers, connected by mobile hotspot, so the participants could see each other’s decisions. During each round of the game, players had access to nine plots of land. Digital elephants were distributed in and moved across the landscape just as they would in the real world. Participants had four choices each turn, depending on whether or not an elephant was present: they could farm the plot, farm and scare away a visiting elephant, farm and kill a visiting elephant, or decline to farm and set aside a plot as elephant habitat. (No real elephants were harmed in the making of this study.) Each decision incurred its own costs — for example, a participant’s choice to kill an elephant carried some risk of arrest, and choosing to farm without scaring off a nearby elephant cost them some crops. Rakotonarivo and her fellow researchers collected information from 260 farmers for the study.
+Games like this one are uniquely suited to studying human-elephant conflict, particularly in a country like Gabon where retaliatory killings of elephants is illegal. “I was investigating a sensitive activity, elephant killing, and sometimes the participants are wary of revealing their engagement,” Rakotonarivo says. She and her team communicated to the participants that their choices while playing the game were were not seen as good or bad, “but at the same time I encouraged them to think seriously of their choices, as well as the consequences of their choices for their well being.”
+Image of the screen that game players interacted with during the study
+Figure created by Sarobidy Rakotonarivo, 2021 (http://dx.doi.org/10.5751/ES-07368-200151)
+The realistic game set-up allowed the researchers to test a few different potential conservation interventions to see how effective they were at keeping farmers happy and elephants safe. The first intervention involved deterring elephants (there are a few existing technologies for doing so, such as installing electric fencing, but the game didn’t specify which would be used). Another was a financial subsidy for farmers who set aside land for elephant habitat, and the third was a collective payment system designed to reward farmers who worked together to create larger habitat patches. 
+After each group of participants played all four rounds — allowing the researchers to gauge their behavior in a baseline, no-intervention situation plus the three conservation scenarios — Rakotonarivo's team of researchers went through a detailed questionnaire with them to learn more about their thought processes during game play and to ensure the game accurately portrayed how they would act in real life.
+Encouragingly, Rakotonarivo and her fellow researchers discovered that all three conservation interventions decreased the amount of elephant killings, and that both payment scenarios increased the likelihood of participants setting aside habitat for elephants. They also found that the farmers who participated in the study who lived near protected areas were 64 percent less likely to kill elephants than those who lived near logging concessions.
+ Sarobidy Rakotonarivo 
+But the most promising result of this study for wildlife conservation was the important role of perceived social equity in participants’ behaviors. Conservation has a long history of ignoring the needs of Indigenous and local people and sidelining their contributions. Rakotonarivo’s team found that, when social equity levels were higher, elephant deterrent methods and communal payments were more likely to decrease elephant killings. According to Rakotonarivo, for the study participants, social equity means two main things: that they feel they have a voice in policy-making and are treated as equal stakeholders in the process, and that the costs and benefits of various conservation methods are equitably distributed. 
+This discovery provides a roadmap for decreasing human-elephant conflict in Gabon. “Prior to mitigating the material impacts of elephant agricultural conflict, it is really important to address social equity,” Rakotonarivo said, “and this can mean empowering local people in leadership roles, in decision-making, and investing in their capacities as well as in their knowledge.” 
+The future for Gabon’s elephant populations remains murky. As part of an effort to maintain food production in an increasingly urbanized country, the country's government is funding construction of electric fences to protect cropland. On one hand, fences could change the way that elephants experience and use the landscape; on the other, it would also cut down on human-elephant conflicts and, hopefully, prevent elephant killings. And the strategy of paying farmers to protect elephants is part of a wider conservation plan, but study participants didn’t think the implementation to this point had been effective.
+In 2019, after analyzing the data, Rakotonarivo met with officials from Gabon's National Park Authority (Agence Nationale des Parcs Nationaux) to share the research team’s findings and policy recommendations. Two members of her research team, who were co-authors of the study, are also conservation practitioners working for the National Park Authority. 
+Like many industries around the world, wildlife conservation in Africa has been hard-hit by the COVID-19 pandemic. It is difficult to gauge, at this point, whether the project has changed how officials engage with local communities. But Rakotonarivo’s results are clear: Without tackling social equity, conservation interventions might not be enough to save the elephants. That’s a lesson that all types of conservation organizations — no matter what species they focus on — should heed. 
+Cyanobacteria are eating away at eagles' brains
+Irene Zhang, Massachusetts Institute of Technology
+
+July 26, 2021
+
+Maria Gatta, University of the Witwatersrand, Johannesburg
+
+June 23, 2020
+
+Maria Gatta, University of the Witwatersrand, Johannesburg
+
+May 24, 2020
+
+Jenny Howard, Wake Forest University
+
+March 2, 2018
+
+Michael Graw, Oregon State University
+
+October 10, 2017
+
+Vanessa Vieites, Florida International University
+
+July 17, 2020
+
+Seth Sykora-Bodie, Duke University
+
+August 16, 2019
+
+Cassie Freund, Wake Forest University
+
+May 7, 2018
+
+Sarah Heidmann, University of the Virgin Islands
+
+November 4, 2021
+
+"In order to shift power dynamics, somebody has to give up power" 
+Jazmin Murphy, Ecology
+
+June 6, 2021
+
+Eva Colberg, University of Missouri - St. Louis
+
+March 30, 2021
+
+Shi En Kim, University of Chicago
+
+March 4, 2021
+
+Lauren Koenig, Michigan State University
+
+January 14, 2021
+
+Fernanda Ruiz Fadel, Advanced Identification Methods GmbH
+
+October 7, 2021
+
+Kristina Muise, University of Winnipeg
+
+May 11, 2021
+
+Sahana Sitaraman, National Centre for Biological Sciences, India
+
+May 2, 2021
+
+Maria Gatta, University of the Witwatersrand, Johannesburg
+
+February 21, 2021
+
+Anna Robuck, University of Rhode Island
+
+July 25, 2017
+
+Fascinating science stories, as told by scientists
+We're a community of scientists telling stories about all the truth and beauty in the universe. Subscribe to get the most interesting, enlightening, and entertaining science writing sent to you.
+We're a community of scientists telling fascinating, true stories about the science that's happening now.
+© 2017 – 2020 Massive Science Inc.

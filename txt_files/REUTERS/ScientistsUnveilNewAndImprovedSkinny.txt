@@ -13,7 +13,7 @@ The M87 black hole image stems from data collected by seven radio telescopes at 
 The machine-learning technique they used is called PRIMO, short for "principal-component interferometric modeling."
 "This is the first time we have used machine learning to fill in the gaps where we don't have data," Medeiros said. "We use a large data set of high-fidelity simulations as a training set, and find an image that is consistent with the data and also is broadly consistent with our theoretical expectations. The fact that the previous EHT results robustly demonstrated that the image is a ring allows us to assume so in our analysis."
 Our Standards: The Thomson Reuters Trust Principles.
-Hollywood writers and the film and television studios are racing to agree to a new contract to replace the one that expires at 11:59 p.m. Pacific time Monday. If they fail to reach a deal, a strike could begin as soon as Tuesday.
+"The Idol," HBO's much-hyped new series from the creator of "Euphoria" that bills itself as the "sleaziest love story in all of Hollywood," premiered at the Cannes Film Festival on Monday.
 Reuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching billions of people worldwide every day. Reuters provides business, financial, national and international news to professionals via desktop terminals, the world's media organizations, industry events and directly to consumers.
 Build the strongest argument relying on authoritative content, attorney-editor expertise, and industry defining technology.
 The most comprehensive solution to manage all your complex and ever-expanding tax and compliance needs.

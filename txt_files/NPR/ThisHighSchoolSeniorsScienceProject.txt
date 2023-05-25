@@ -1,0 +1,48 @@
+By 
+
+   Abē R. Levine
+  
+ 
+If you or someone you know may be considering suicide, contact the 988 Suicide & Crisis Lifeline by calling or texting 9-8-8, or the Crisis Text Line by texting HOME to 741741. 
+Text messages, Instagram posts and TikTok profiles. Parents often caution their kids against sharing too much information online, weary about how all that data gets used. But one Texas high schooler wants to use that digital footprint to save lives.
+Siddhu Pachipala is a senior at The Woodlands College Park High School, in a suburb outside Houston. He's been thinking about psychology since seventh grade, when he read Thinking, Fast and Slow by psychologist Daniel Kahneman.
+Concerned about teen suicide, Pachipala saw a role for artificial intelligence in detecting risk before it's too late. In his view, it takes too long to get kids help when they're suffering.
+Early warning signs of suicide, like persistent feelings of hopelessness, changes in mood and sleep patterns, are often missed by loved ones. "So it's hard to get people spotted," says Pachipala. 
+For a local science fair, he designed an app that uses AI to scan text for signs of suicide risk. He thinks it could, someday, help replace outdated methods of diagnosis.
+"Our writing patterns can reflect what we're thinking, but it hasn't really been extended to this extent," he said.
+The app won him national recognition, a trip to D.C., and a speech on behalf of his peers. It's one of many efforts under way to use AI to help young people with their mental health and to better identify when they're at risk.
+Experts point out that this kind of AI, called natural language processing, has been around since the mid-1990s. And, it's not a panacea. "Machine learning is helping us get better. As we get more and more data, we're able to improve the system," says Matt Nock, a professor of psychology at Harvard University, who studies self-harm in young people. "But chat bots aren't going to be the silver bullet."
+Colorado-based psychologist Nathaan Demers, who oversees mental health websites and apps, says that personalized tools like Pachipala's could help fill a void. "When you walk into CVS, there's that blood pressure cuff," Demers said. "And maybe that's the first time that someone realizes, 'Oh, I have high blood pressure. I had no idea.' "
+He hasn't seen Pachipala's app but theorizes that innovations like his raise self-awareness about underlying mental health issues that might otherwise go unrecognized.
+Building SuiSensor
+Pachipala set himself to designing an app that someone could download to take a self-assessment of their suicide risk. They could use their results to advocate for their care needs and get connected with providers. After many late nights spent coding, he had SuiSensor.
+
+        Siddhu Pachipala
+        
+          
+          Chris Ayers Photography/Society for Science
+          
+        
+hide caption
+
+Using sample data from a medical study, based on journal entries by adults, Pachipala said SuiSensor predicted suicide risk with 98% accuracy. Although it was only a prototype, the app could also generate a contact list of local clinicians.
+In the fall of his senior year of high school, Pachipala entered his research into the Regeneron Science Talent Search, an 81-year-old national science and math competition.
+There, panels of judges grilled him on his knowledge of psychology and general science with questions like: "Explain how pasta boils. ... OK, now let's say we brought that into space. What happens now?" Pachipala recalled. "You walked out of those panels and you were battered and bruised, but, like, better for it." 
+He placed ninth overall at the competition and took home a $50,000 prize.
+The judges found that, "His work suggests that the semantics in an individual's writing could be correlated with their psychological health and risk of suicide." While the app is not currently downloadable, Pachipala hopes that, as an undergraduate at MIT, he can continue working on it.
+"I think we don't do that enough: trying to address [suicide intervention] from an innovation perspective," he said. "I think that we've stuck to the status quo for a long time."
+Current AI mental health applications
+How does his invention fit into broader efforts to use AI in mental health? Experts note that there are many such efforts underway, and Matt Nock, for one, expressed concerns about false alarms. He applies machine learning to electronic health records to identify people who are at risk for suicide.
+"The majority of our predictions are false positives," he said. "Is there a cost there? Does it do harm to tell someone that they're at risk of suicide when really they're not?"
+And data privacy expert Elizabeth Laird has concerns about implementing such approaches in schools in particular, given the lack of research. She directs the Equity in Civic Technology Project at the Center for Democracy & Technology (CDT).
+While acknowledging that "we have a mental health crisis and we should be doing whatever we can to prevent students from harming themselves," she remains skeptical about the lack of "independent evidence that these tools do that."
+All this attention on AI comes as youth suicide rates (and risk) are on the rise. Although there's a lag in the data, the Centers for Disease Control and Prevention (CDC) reports that suicide is the second leading cause of death for youth and young adults ages 10 to 24 in the U.S.
+Efforts like Pachipala's fit into a broad range of AI-backed tools available to track youth mental health, accessible to clinicians and nonprofessionals alike. Some schools are using activity monitoring software that scans devices for warning signs of a student doing harm to themselves or others. One concern though, is that once these red flags surface, that information can be used to discipline students rather than support them, "and that that discipline falls along racial lines," Laird said.
+According to a survey Laird shared, 70% of teachers whose schools use data-tracking software said it was used to discipline students. Schools can stay within the bounds of student record privacy laws, but fail to implement safeguards that protect them from unintended consequences, Laird said.
+"The conversation around privacy has shifted from just one of legal compliance to what is actually ethical and right," she said. She points to survey data that shows nearly 1 in 3 LGBTQ+ students report they've been outed, or know someone who has been outed, as a consequence of activity monitoring software.
+Matt Nock, the Harvard researcher, recognizes the place of AI in crunching numbers. He uses machine learning technology similar to Pachipala's to analyze medical records. But he stresses that much more experimentation is needed to vet computational assessments.
+"A lot of this work is really well-intended, trying to use machine learning, artificial intelligence to improve people's mental health ... but unless we do the research, we're not going to know if this is the right solution," he said.
+More students and families are turning to schools for mental health support. Software that scans young peoples' words, and by extension thoughts, is one approach to taking the pulse on youth mental health. But, it can't take the place of human interaction, Nock said.
+"Technology is going to help us, we hope, get better at knowing who is at risk and knowing when," he said. "But people want to see humans; they want to talk to humans."
+Sponsor Message
+Become an NPR sponsor

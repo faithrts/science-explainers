@@ -1,0 +1,31 @@
+A penguin rover approaches a brooding emperor penguin with its chick.
+Studying penguins with camouflaged rovers is less stressful on the birds than other methods.
+If it looks like a penguin and acts like a penguin—well, sometimes it's not a penguin.
+A remote-controlled rover designed to sneak undetected into penguin colonies in Antarctica works better than other research methods, a new study says.
+The penguin-camouflaged technology is so realistic, it even fools live emperor penguins into trying to communicate with the electronic interloper.
+Such a discovery may be invaluable as scientists work to observe rapid changes in these birds as climate change impacts their habitat on the southernmost continent, experts say. (Related: "Penguins That Weathered Past Climate Change Suffer This Time.")
+Scientists have traditionally studied penguins in Antarctica's harsh, remote climate by tagging them with radio-frequency tags, which offer valuable feedback but come with many limitations.
+For instance, capturing and tagging the birds stresses them out and can lead to fights within the colony when birds cross into each other's territories after being released.
+The tagging technology is also constrained: Penguins need to be within about 2 feet (0.6 meter) of an antenna in order to transmit data. That means they need to be near a stationary antenna, or humans need to walk around the area with handheld antennas. Also, the penguins can't be individually identified once they move away from the antennas.
+So study author Yvon Le Maho, of the University of Strasbourg in France, and colleagues decided to think beyond humans.
+Breaking the Ice
+In 2010, Le Maho and his team placed heart-rate monitors on 34 king penguins in Antarctica's Possession Islands. They were all incubating eggs and had not previously been tagged or studied.
+They let the penguins recover overnight, then tested their reactions to both an approaching person and an approaching rover (not yet camouflaged as a penguin), according to the new study, published November 2 in the journal Nature Methods.
+The incubating penguins reacted to the rover the same way they'd react to an intruding penguin: They displayed defensive behaviors and their heart rates increased—an indicator of heightened stress. (See more pictures of king penguins.)
+When the person came around, though, the birds got more anxious: Their heart rates increased four times more than they had in reaction to a rover.
+No matter how quickly the rover approached, the penguins stopped reacting to it as soon as it stopped moving. When the person showed up, though, the birds didn't stop reacting until the human left the area. (Also see "Explorer Returns to Emperor Penguin Colony in Search of a True Count.")
+What's more, the incubating penguins were less likely to move when a rover approached, which means their eggs stayed more secure.
+A Bird of a Different Feather
+When the scientists repeated the same experiment with emperor penguins, which are shyer than king penguins, about half of the emperor subjects did not react at all, while 28 percent reacted anxiously and 25 percent showed curiosity toward the rover.
+Intrigued, Le Maho wanted to know what would happen if the rover was camouflaged as a penguin.
+At first, he created a "really bad" penguin disguise, he recalls, and the birds treated it the same way they treated the rover.
+Next, he worked with designers to create two more authentic disguises: one of an emperor adult and one of a chick. This time, the new-and-improved penguin rovers fit in so well that almost all of the emperor penguins actually attempted to communicate with them.
+Based on these results, he said, "we know now that it is better to use a rover than a human."
+Rovers Have Limitations, Too
+P. Dee Boersma, director of the Center for Penguins as Ocean Sentinels at the University of Washington in Seattle, said that this research advances the field, though she tempers Le Maho's excitement.
+"Scientists have sought for decades to minimize and understand their impacts on systems they study," she wrote in an email.
+Such rovers will be useful in areas where they can navigate the terrain, but the machines can't handle some of the steep slopes where penguins often live. (See "Animals From Space: Polar Bears, Penguins Tracked Via Satellite.")
+"Even with rovers, scientists will still have to capture or get close and manipulate the study subject to place transponders, take blood, or attach devices used to learn more about the penguins."
+Meanwhile, Le Maho's team is continuing to study the efficiency of rovers, including working with self-navigating robots.
+Follow Danielle Elliot on Twitter and Facebook.
+Copyright © 1996-2015 National Geographic SocietyCopyright © 2015-2023 National Geographic Partners, LLC. All rights reserved

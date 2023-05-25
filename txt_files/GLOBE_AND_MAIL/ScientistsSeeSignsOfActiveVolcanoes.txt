@@ -1,0 +1,25 @@
+This computer-generated 3D model of Venus’ surface based on radar data shows the volcano Maat Mons (vertical scale exaggerated). A new analysis has found evidence of a recent lava flow in a small region on the north flank of the mountain.NASA/JPL-Caltech
+It’s not exactly a smoking gun – or smoking cone – but scientists working with data captured by a NASA spacecraft say they have uncovered new evidence for active volcanoes on the surface of Venus.
+If correct, the result sheds new light on Earth’s closest planetary neighbour and near-identical twin in terms of overall mass and size. Scientists are showing renewed interest in Venus as plans take shape for a new wave of robotic explorers that is set to visit the planet a decade from now.
+Venus is notoriously difficult to study despite being the brightest object in the night sky after the moon. (It is currently visible above the western horizon right after sunset). Its surface is perpetually hidden by a thick layer of cloud that has thwarted generations of astronomers. Because of its highly acidic atmosphere, 475-degree surface temperature and crushing air pressure, no spacecraft sent to land on Venus has lasted more than about two hours.
+Radar measurements made by the Magellan spacecraft, which orbited Venus over a four-year period in the early nineties, reveal that the planet has a hellish-looking surface studded with large shield volcanoes and relatively few craters, suggesting recent geologic activity.
+The problem is that “recent” could mean many thousands or even millions of years ago. Showing that volcanoes are active on Venus right now has been a long-standing challenge.
+In the latest effort, Robert Herrick of the University of Alaska Fairbanks and Scott Hensley at the Jet Propulsion Laboratory in Pasadena re-examined Magellan radar data to see whether they could find physical changes in the landscape between passes of the orbiting spacecraft.
+They spotted a 2.2 kilometre wide circular feature north of a large volcano called Maat Mons. It was first imaged by radar in February, 1991, but it had a markedly different shape when it was observed a second time in October of the same year.
+However, that time, the feature was seen from the opposite side, which means the apparent change might simply be due to viewing angle.
+“This is still a manual task,” said Dr. Hensely. “When you’re looking at data from the opposite side there’s no automatic algorithm that will allow you to search for those changes.”
+To be certain that what they were seeing was real, the researchers employed a method known as orthorectification to transform the radar images into how they would look if the feature was seen from directly overhead each time. The two views were still very different, with the second version looking suggestively like lava had flowed out of the circular feature and spilled down an incline.
+The scientists said it would be too much of a coincidence to have seen such a change in that period of time if volcanic activity on Venus is rare.
+“Extrapolating from a data set of one is dangerous,” said Dr. Herrick. “But I think most people would say that this is pretty good evidence that … in order for us to catch an eruption occurring over an eight-month interval means that probably eruptions occur on Venus relatively regularly, maybe on a few months time frame.”
+The results were presented this week at the Lunar and Planetary Science Conference in Houston, and published Wednesday in the journal Science.
+Richard Ernst, a volcanologist based at Carleton University in Ottawa who works with Magellan data but was not involved in the study, said the finding provided a new way to address the question of Venus’s volcanic nature.
+“It adds to the argument,” he said, “but it’s not conclusive.”
+In 2015, scientists working with Europe’s Venus Express spacecraft reported that they detected hot spots through the clouds that changed over time and were in the same general region as Maat Mons.
+Dr. Ernst sad that NASA’s VERITAS spacecraft, which is currently set to launch in 2031, is among the mostly likely to finally resolve the question.
+“Everybody’s going to look closely at the surface during that mission and then compare that with what Magellan saw,” he said.
+Follow Ivan Semeniuk on Twitter: @ivansemeniukOpens in a new window
+Report an error
+Editorial code of conduct
+Build your personal news feed
+© Copyright 2023 The Globe and Mail Inc. All rights reserved.
+Phillip Crawley, Publisher

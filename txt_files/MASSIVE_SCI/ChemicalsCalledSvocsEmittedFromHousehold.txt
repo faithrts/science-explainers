@@ -1,0 +1,150 @@
+Massive en español
+Noticias de ciencia
+COVID-19
+The facts about COVID-19, straight from scientists
+Butt Month
+The science of butts, poop, and intestines
+Surviving the Anthropocene
+Adapting to endure humanity's impact on the world
+Science Heroes
+Women in STEM you may not have heard of
+Mind Control
+Dispatches from the frontiers of neuroscience
+Food for Thought
+Making agriculture safe, healthy, and sustainable
+Breakthroughs
+Interviews with cutting-edge scientists
+Photo by Tanaphong Toochinda on Unsplash 
+SVOCs are found in plastics, flooring, furniture, and more
+
+Lila Westreich
+
+
+Pollinator Ecology
+
+
+University of Washington
+
+The chemicals in our environments, while sometimes useful, can also hurt us. Materials like asbestos fibers can move through the air and into the lungs in the form of tiny particles, causing long-term damage to human tissues. But free-floating, harmful chemicals are also emitted from the furniture, wallpaper, flooring, and household items around us. And these chemicals are entering our bodies, damaging them in many different ways.
+In a recent paper published in Environmental Science and Technology Letters, researchers from Duke University found a connection between bacteria and fungi in the digestive tracts of children and the amount of volatile household chemicals found in their homes. A healthy gut microbiome has been linked to improved nutrient absorption and stronger immunity, among other few benefits. An imbalance in the flora of the gut has been linked to gastrointestinal conditions, obesity, diabetes, and more. 
+Children's health is an important area of research for studying the effects of harmful chemicals, because young children are typically more exposed to chemicals than older children and adults. Young babies and toddlers crawl, exposing them to more surfaces, generating more dust for inhalation, and they are more likely to put objects into their mouths. Children are also at a higher risk for impacts of harmful chemicals, since they are still in early, fragile stages of development.
+Photo by Caleb Woods on Unsplash 
+The thousands of chemicals present as gases in human environments are called volatile organic compounds, or VOCs. These chemicals are given off by common building materials, furnishings such as wallpapers or flooring, cleaning materials, toiletries, and even by cooking without proper ventilation. Vinyl wallpaper and vinyl flooring contain retardants which reduce the threat of fire in the home, but also give off VOCs that enter our lungs or settle on food surfaces. 
+VOCs are also found in outdoor air, but at much lower concentrations. A subgroup of VOCs with a higher molecular weight and boiling point temperature are called semi-volatile organic compounds, or SVOCs. Some examples of SVOCs include flame retardants, plasticizers (substances added to material to make them softer and more flexible), and pesticides.
+Volatile compounds are a ubiquitous part of our indoor environments. Extremely small quantities of dangerous inhalants settle on surfaces all around you, and can be inhaled and carried into the lungs on tiny dust particles, or settle on surfaces used for food preparation and accidentally eaten. Intense household cleaning can lead to a build up of potentially dangerous chemicals, reducing beneficial microbial communities found around our homes – even while reducing harmful bacteria and viruses. 
+These chemical particles enter our bodies through breathing the air around us, eating food that particles may have settled on, and through skin contact from touching materials in our homes. Health effects associated with VOCs and SVOCs include allergies, altered semen quality, lower birth weight and delayed development in children, and even cancer. But what are the specific communities of bacteria that are affected by chemical ingestion, and how could these levels affect human health?
+During their study, the researchers collected urine and fecal samples from young children (between the ages of 3 and 6) and analyzed them for SVOCs, bacteria, and fungi. The researchers could detect beneficial bacteria as well as a snapshot of the microbiome of each child. Their analysis allowed them to understand which microbes were living happily in each child's gut, helping digest their food and keeping them healthy, and which bacteria were missing.
+The researchers found a relationship between the amount of bacteria and fungi in the gut microbiome and the level of SVOC exposure the children experienced, with some gut microbes declining in abundance with increasing exposure to these indoor chemicals. The most common types of bacteria, such as Clostridiales and Bifidobacteroidiales, found in the human gut did not seem to be heavily affected by the presence of SVOCs, indicating that the largest drivers of microbiome health are safe from harm from indoor chemicals.
+However, less common but equally important taxa such as Thermogemmatisporales, Stigonematales, and Legionelles – which play a pivotal role in nutrient absorption in humans – were harmed by the presence of PFAS, a type of man-made chemical used in manufacturing, including food packaging, commercial household products such as polish, wax, cleaning products, and even drinking water. PFAS, many of which are types of SVOCs, are compounds that do not break down and can build up in our homes and our bodies over time. 
+The important bacteria species in these taxa such as Bacteroides, Prevotella, and Ruminococcus are only present in small numbers in the gut and so may be much more sensitive to chemical ingestion, with SVOCs lowering the diversity of life in the digestive system. Ruminococcus is responsible for protecting our immune system and regulating our metabolism. Bacteroides responds to rich environments, breaking nutrients down for easy digestion. At normal, healthy levels, these bacteria are responsible for keeping our systems working properly – at extremely high or very low levels, they can cause much more harm. Overall, researchers found that these beneficial bacteria species are reduced with increased accumulation of SVOCs in the body, potentially reducing overall human health and causing an imbalance of bacteria in the gut.
+The results of the study found that there is a connection between the amount of SVOCs and a decline in gut microbiota, leading to a potentially less effective immune system, poor digestion, and the more severe effects of an imbalanced microbiome. Much of the work around ingested SVOCs and their effect on bacteria imbalance in the gut has previously been performed in experiments on mice. This study was extremely comprehensive, giving us a much clearer understanding of the connections between a loss diversity of gut microbes and the everyday chemical compounds that work their way into our systems in the human body.
+Considering the potential for SVOCs to build up in our bodies over time, since many of us are subject to prolonged exposure to them in our homes, it is crucial to understand more about SVOCs and human health so that we can work on solutions. 
+We ask other scientists from our Consortium to respond to articles with commentary from their expert perspective.
+
+Karen Kemirembe
+
+
+Entomology
+
+Great article, I've learned a lot about volatile exposure in the home by reading this. One question I had was, do you know if the researchers collected any data on the children’s diets in addition to SVOC and bacterial abundance in the stool samples? I am curious about how a diet high in probiotics could potentially counter the negative effects of SVOCs on beneficial bacteria.
+
+
+ Lila Westreich responds:
+Thanks for the question - they did not collect data on the children’s diet for this specific study. There were 79 children in the study, so I assume it was outside their capacity to collect this data, but they also were doing more of an exploratory look this time around. If they had been testing the hypothesis you brought up, they may have set up a blind study where one group took probiotics and another didn’t, effectively testing whether probiotics altered the effects of SVOCs. I’m sure those studies are in progress, as the authors mentioned the potential for diet to impact the levels of volatile compounds in the system. 
+
+Krystal Vasquez
+
+
+Atmospheric Chemistry
+
+
+California Institute of Technology
+
+I was so excited when I saw this article! 
+Indoor air pollution is definitely a growing field of interest but there’s so much more work that can be done to learn how these indoor air pollutants affect our health. I often think about the health effects from the perspectives of the lung function. It’s really interesting to know they can impact gastrointestinal health as well.
+I’m surprised that SVOCs don’t all break down when entering the body. That’s really fortunate when doing this type of analysis. Do you happen to know if they’re just inert compounds or if there’s something about their high low volatility that keeps them from reacting?
+
+
+ Lila Westreich responds:
+Great question! I know that volatile compounds can react with specific chemicals, SVOCs can react with indoor oxidants like hydroxl (OH), nitrate (NO3), and other radical particles. VOCs can cause cancer, damaging central nervous systems and other organs, but not all are severe in their health effects. I’m no expert on volatility, but I think it varies pretty widely between different chemicals. Some are definitely more harmful than others, and may be more reactive inside the body, while others simply pass through and exit without causing harm. 
+Sewer systems can signal outbreaks before they start. If you're worried, poop is safe as long as it's in the right hands
+Jennifer Tsang, Microbiology
+
+September 14, 2020
+
+Wendy Wagner
+Will Walker
+
+May 13, 2020
+
+Elisa Bonnin, University of Washington
+
+January 23, 2019
+
+Iflah Shahid, University of Waterloo
+
+October 14, 2021
+
+Max G. Levy, Science and Health Journalism
+
+October 22, 2020
+
+Anna Robuck, University of Rhode Island
+
+July 5, 2020
+
+Max G. Levy, Science and Health Journalism
+
+April 16, 2020
+
+Max G. Levy, Science and Health Journalism
+
+April 30, 2021
+
+Lauren Sara McKee, KTH Royal Institute of Technology
+
+June 22, 2020
+
+This development should make chemistry and industry a little greener
+Teresa Ambrosio, University of Nottingham
+
+December 20, 2019
+
+Anna Robuck, University of Rhode Island
+
+January 2, 2020
+
+Devang Mehta, University of Alberta
+Anna Robuck, University of Rhode Island
+Massive Staff
+
+February 1, 2019
+
+Luyi Cheng, Northwestern University
+
+January 30, 2020
+
+Kay McCallum, McMaster University
+
+November 9, 2021
+
+Mihaela Bozukova, Max Planck Institute for Biology of Ageing
+
+November 15, 2021
+
+Elise Cutts, Massachusetts Institute of Technology
+
+July 30, 2021
+
+Madeline Barron, University of Michigan
+
+April 11, 2021
+
+Sruthi Sanjeev Balakrishnan, National Centre for Biological Sciences
+
+January 26, 2021
+
+Fascinating science stories, as told by scientists
+We're a community of scientists telling stories about all the truth and beauty in the universe. Subscribe to get the most interesting, enlightening, and entertaining science writing sent to you.
+We're a community of scientists telling fascinating, true stories about the science that's happening now.
+© 2017 – 2020 Massive Science Inc.

@@ -1,0 +1,174 @@
+Massive en español
+Noticias de ciencia
+COVID-19
+The facts about COVID-19, straight from scientists
+Butt Month
+The science of butts, poop, and intestines
+Surviving the Anthropocene
+Adapting to endure humanity's impact on the world
+Science Heroes
+Women in STEM you may not have heard of
+Mind Control
+Dispatches from the frontiers of neuroscience
+Food for Thought
+Making agriculture safe, healthy, and sustainable
+Breakthroughs
+Interviews with cutting-edge scientists
+ Photo by Katya Austin on Unsplash
+New research finds that you would need between 10 and 1000 plants per meter squared to gain any real air quality benefits
+
+Luyi Cheng
+
+
+Molecular Biology
+
+and Structural Biology
+
+
+Northwestern University
+
+In the United States, we spend an average of about 90 percent of our time indoors. Unfortunately, air pollutants accumulate easily in indoor spaces and can cause health issues like eye and throat irritation, headaches, and respiratory diseases, and even potentially impact student performance in school. Among the rapidly growing number of indoor houseplant enthusiasts, plant owners and sellers are sharing catchy listicles of the many purported benefits of houseplants. Some include the claim that plants can help purify indoor air by removing air pollutants.
+Americans spend, on average, 90% of their time indoors
+Photo by Zach Lucero on Unsplash
+But in a recent study published in the Journal of Exposure Science & Environmental Epidemiology, Drexel University researchers Bryan Cummings and Michael Waring took a closer look at past studies that tested plants’ abilities to remove air pollutants. They analyzed 196 experiments from 12 previously published studies and concluded that indoor houseplants don’t actually improve air quality enough to make a difference in the amount of volatile organic compounds polluting indoor air.
+Volatile organic compounds, or VOCs, are a class of chemicals that can be “off-gassed,” or emitted as gases, and negatively impact our health. VOCs are found in household products such as paints, cleaners, disinfectants, and air fresheners, as well as office equipment like printers, glues, and permanent markers. Some examples of specific VOCs are formaldehyde (used in resins in some wood or building materials), methylene chloride (a component in paint strippers or adhesive removers), and benzene (found in tobacco smoke). While trace amounts of these chemicals can be found in the air outdoors, a study that measured the amount of VOCs indoors found levels of these pollutants between two and five times higher than in the air outside.
+Besides using less of these products, following product label instructions, and increasing ventilation in indoor spaces, an aesthetically pleasing and green solution – like growing houseplants – to help clean indoor air sounds incredibly appealing. But is it too good to be true? 
+In 1989, a report on using plants for mitigating indoor air pollution was published by Bill Wolverton, an indoor air quality researcher, as part of the NASA Clean Air Study. The study aimed to find ways to purify the air inside space stations. The researchers placed 12 different plant species in sealed chambers: these included ficus, peace lily, mother-in-law's tongue, and others. They tested three types of VOCs (formaldehyde, benzene, and trichloroethylene) by adding them to the chamber with each plant species and recording how much of the gas was left after 24 hours. Wolverton reported that across all of the trials, between 10-70 percent of the added VOCs were removed. Wolverton's report has since become a model for other research to follow, and some plant stores even reference it in their advertising.
+But Cummings and Waring, in their recent study, pointed out that the results from these studies can’t realistically translate to their impacts on actual indoor spaces. The plants in previous studies were grown in very small chambers. How small? Typically, around a cubic meter in volume, or about the space a large armchair takes up. That doesn’t reflect the sizes of the rooms we typically spend our time in. Also, most of the studies introduced VOCs into these small chambers and then sealed them up so the gas could not escape. While that allowed for conveniently controlled experiments, they contrast with the typical indoor spaces that are constantly bombarded in flux as people and pets walk in and out and air flows from the outside, through the room, and back out again. Rooms are just not the same as tiny, sealed chambers.
+To address this, Cummings and Waring wanted to re-examine previous studies to better predict the effectiveness of houseplants for purifying air. But they had an added challenge in that all of the previous studies used different metrics to report their results. To accurately compare the results, they developed a standardized metric called clean air delivery rate (CADR) for the plants from each experiment. By digging into the setup of each of these studies, they could calculate a CADR value that reflected the amount of air pollutants that a given plant could remove from a given space (a cubic meter) each hour. Once they compiled the results and accounted for larger spaces, even the best CADR value from the plants was less than 1 percent of the capacity of an air purifier.
+This is a lot of plants, but this new study suggests that it would take many times this number to make a dent in indoor air quality
+So, houseplants seem to be able to remove VOCs. But not very much – you’d have to somehow stuff between 10 and 1000 plants per meter squared in a room for them to even be comparable to air exchange from indoor-outdoor air flow.
+This might sound disappointing, but houseplants aren’t just taking up money and space and doing nothing either. While this study shows that houseplants might not play a role in removing VOCs to improve indoor air quality, other studies have shown that houseplants can alter the indoor microbiome, increasing microbial abundance and diversity and potentially preventing harmful bacteria from settling in. This is among the many other documented studies of how houseplants can improve our productivity by increasing workplace satisfaction and mental wellness by lowering stress and anxiety. To all the houseplant-doting #plantparents out there, that’s probably still quite worthwhile.
+We ask other scientists from our Consortium to respond to articles with commentary from their expert perspective.
+
+Dori Grijseels
+
+
+Neuroscience
+
+
+University of Sussex
+
+As a lover of plants, this was a great read. I think this article perfectly illustrates how scientific findings that came from very controlled laboratory environments don’t always apply to the real world. We see this a lot in studies on diseases, for example, just because substance X reduces the marker of Alzheimer’s disease in cell cultures, doesn’t mean it can cure the disease in humans. I think Luyi did a great job of explaining why the old studies were wrong and how they found this out. And it is great to see scientists going back on these old findings and challenging them. Also, I’m glad for the reassurance that plants are still good for me! 
+
+Victoria DeLeo
+
+
+Plant Biology
+
+
+Pennsylvania State University
+
+I love to see scientists asking questions about how plants interact with their environment, and this was a great summary of the recent review by Cummings and Waring.
+While it’s disappointing to read that houseplants might not be as much of a positive influence on our indoor air quality as we thought, I think it’s important to remember that VOCs aren’t just man-made pollutants. In fact, plants create and release organic compounds on their own. The smell of a pine forest, for example, mostly comes from terpenes, a type of VOC. These chemicals serve critical functions in how plants respond to stress, interact with insects, and mount chemical defenses. Houseplants probably aren’t going to save us from air pollution, but studying VOC uptake in houseplants might help us to understand the complex chemical conversations plants are having outdoors.
+
+Harini Nagendra
+
+
+Sustainability
+
+
+Azim Premji University
+
+This is a great piece. A different but related take on it: the “solution” of addressing air pollution by growing indoor plants feeds into the idea that we must all invest our resources in individual action, rather than systemic efforts to change the root of the problem, such as in demanding policy change and better enforcement of regulation. For example, see an earlier editorial I wrote for an Indian newspaper - https://www.deccanherald.com/opinion/bumbling-along-in-the-smog-772961.html - where I point out that air is a public resource - it moves around, while indoor plants stay in the same place. Having plants around is good for all kinds of reasons such as lifting your spirits, and rekindling a connection with nature in the city - but they’re not going to fix air pollution problems unless we also live in an environment with recirculated air, keeping our windows closed. Nope. If we want to fix the problem of air pollution, we need to get together as larger groups and invest in civic action to demand systemic change. 
+
+Fabiola De Marchi
+
+
+Chemistry
+
+
+University of Padua
+
+Great to see this legend finally demystified. Moreover, from a broader perspective, indoor chemistry is revealing to be far more complicated than one or more plants placed in a closed room. Volatile and semivolatile compounds are emitted from different sources and are not inert molecules, they can react and be transformed in other molecules that can be harmful or not; we can even create them when we cook anything. The presence of volatile compounds depends on many variables, e.g. what is inside the room and what you are doing in it, perhaps cooking or cleaning, etc., and on the room itself, the walls and furniture emit VOCs, too. Chemicals can deposit and collect on a large variety of surfaces, not only plants; think about textiles, for example carpets are both a sink and a source for volatiles that can be reemitted later. There are more surfaces able to absorb VOCs inside than outside so there should not be much surprise that VOCs are higher indoor. Atmospheric chemists are doing a really good job to understand what affects air quality indoor, so you should have a look to the Alfred P. Sloan Foundation program. In addition, great to know that plants improve microbiome diversity indoor. 
+
+Lowell Iporac
+
+
+Marine Biology
+
+and Marine Ecology
+
+
+Florida International University
+
+This is a really interesting piece. As someone who’s getting into the #plantparent hobby, I think it’s also important to be skeptical on some of the claims like plants purifying indoor air quality that may arise as part of this hobby.
+Even if these houseplants do provide other benefits backed up by more recent studies, and how this one benefit has been debunked, I wonder how the houseplant-keeping community would respond to this demystification. The group, as I would imagine, is pretty diverse and we keep plants for different reasons. There may be some pushback or curiosity at first, especially since we’re led to believe the air-purifying myth through popular web sources. However, I’m also hopeful that this would be a learning opportunity for many of us involved in the hobby.
+Scientists have modeled possible plant behavior on alien worlds
+Briley Lewis, University of California, Los Angeles
+
+October 26, 2021
+
+Elyse DeFranco
+
+March 21, 2021
+
+Brittany Kenyon-Flatt, North Carolina State University
+
+February 9, 2021
+
+Attabey Rodriguez Benitez, Science Friday
+
+January 20, 2021
+
+Max G. Levy, Science and Health Journalism
+
+November 29, 2020
+
+Hayley McKay , University of Toronto
+
+October 13, 2020
+
+Christina Del Greco, University of Michigan
+
+November 5, 2021
+
+Ornob Alam, New York University
+
+October 13, 2021
+
+Derek Smith, University of Michigan
+
+July 16, 2021
+
+The gas can be a proxy for stagnant air — but the answer is complicated
+Krystal Vasquez, California Institute of Technology
+
+April 20, 2021
+
+Cassie Freund, Wake Forest University
+
+November 22, 2021
+
+Cassie Freund, Wake Forest University
+
+June 30, 2021
+
+Angely Mercado
+
+June 23, 2021
+
+Sarah Brumble, Journalism
+
+April 21, 2021
+
+Allison Fritts-Penniman, Ecology
+
+April 21, 2021
+
+Maria Gatta, University of the Witwatersrand, Johannesburg
+
+February 21, 2021
+
+Robin Garcia, Marine Science
+
+September 25, 2021
+
+Joanne Littlefair, Queen Mary University of London
+
+August 31, 2021
+
+Fascinating science stories, as told by scientists
+We're a community of scientists telling stories about all the truth and beauty in the universe. Subscribe to get the most interesting, enlightening, and entertaining science writing sent to you.
+We're a community of scientists telling fascinating, true stories about the science that's happening now.
+© 2017 – 2020 Massive Science Inc.

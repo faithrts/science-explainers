@@ -1,0 +1,32 @@
+OAKLAND, Calif., April 17 (Reuters) - Quantum computers promise to be millions of times faster than today's fastest supercomputers, potentially revolutionizing everything from medical research to the way people solve problems of climate change. The wait for these machines, though, has been long, despite the billions poured into them.
+But the uncertainty and the dismal stock performance of publicly-listed quantum computer companies including Rigetti Computing Inc (RGTI.O) have not scared investors away. Some are turning to startups who are pivoting to using powerful chips to run quantum-inspired software on regular computers as they bide their time.
+Lacking quantum computers that customers can use today to get an advantage over classical computers, these startups are developing a new breed of software inspired by algorithms used in quantum physics, a branch of science that studies the fundamental building blocks of nature.
+Once too big for conventional computers, these algorithms are finally being put to work thanks to today's powerful artificial intelligence chips, industry executives told Reuters.
+QC Ware, a software startup that has raised more than $33 million and initially focused only on software that could run on quantum computers, said it needed to change tack and find a solution for clients today until the future quantum machines arrive.
+So QC Ware CEO Matt Johnson said it turned to Nvidia Corp's (NVDA.O) graphic processing units (GPU) to "figure out how can we get them something that is a big step change in performance ... and build a bridge to quantum processing in the future."
+GPUs are microchips that were made to process video for gaming and became so powerful that they do the bulk of AI computing today. They are now being used in quantum development, as well.
+This week, QC Ware is unveiling a quantum-inspired software platform called Promethium that will simulate chemical molecules - to see how they interact with things like protein - on a traditional computer using GPUs.
+The software can cut simulation time from hours to minutes for molecules of 100 atoms, and months to hours for molecules of up to 2000 atoms, compared with existing software solutions, said QC Ware's head of quantum chemistry Robert Parrish.
+Big-name investors and funds are backing the future, such as Alphabet Inc's (GOOGL.O) former chairman Eric Schmidt, asset manager T. Rowe Price (TROW.O), Samsung Ventures, and the venture arm of U.S. intelligence agencies In-Q-Tel.
+The startups receiving the largesse say they are able to generate revenue as customers are lining up to be ready for when quantum computing's "iPhone" moment arrives. That, in turn, is luring investors.
+In the past 18 months, quantum software startups including SandBoxAQ - an Alphabet spinoff - raised about $1 billion, according to data firm PitchBook. To be sure, development of this technology is nascent and these startups must work hard to convince some prospective clients.
+SandBoxAQ CEO Jack Hidary said it was only 24 months ago that AI chips became powerful enough to simulate hundreds of thousands of chemical interactions simultaneously.
+It developed a quantum-inspired algorithm for biopharma simulation on Google's AI chip called a Tensor Processing Unit (TPU) that generates revenue today. SandBoxAQ told Reuters in February it raised $500 million.
+Jason Turner, who founded Entanglement Inc in 2017 to be a "quantum only lab," became impatient with the slow pace of quantum hardware development.
+"It's been ten years away for what, 40 years now, right?" he said. He finally relented, turning to Silicon Valley AI chip startup Groq to help him run a cybersecurity quantum-inspired algorithm.
+Ultimately, the software inspired by quantum physics won't perform well on quantum computers without some changes, said William Hurley, boss of Austin-based quantum software startup Strangeworks.
+Still, he said companies that start using them will have engineers "learning about quantum and the phenomenon and the process, which will better prepare them to use quantum computers at the point that they do so." That moment could arrive suddenly, he said.
+Strangeworks, which also operates a cloud with over 60 quantum computers on it, raised $24 million last month from investors including IBM (IBM.N).
+Our Standards: The Thomson Reuters Trust Principles.
+Thomson Reuters
+Reports on global trends in computing from covering semiconductors and tools to manufacture them to quantum computing. Has 27 years of experience reporting from South Korea, China, and the U.S. and previously worked at the Asian Wall Street Journal, Dow Jones Newswires and Reuters TV. In her free time, she studies math and physics with the goal of grasping quantum physics. 
+Sony Group Corp said on Thursday its semiconductor subsidiary would buy land in the southern Japanese prefecture of Kumamoto to produce image sensors.
+Reuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching billions of people worldwide every day. Reuters provides business, financial, national and international news to professionals via desktop terminals, the world's media organizations, industry events and directly to consumers.
+Build the strongest argument relying on authoritative content, attorney-editor expertise, and industry defining technology.
+The most comprehensive solution to manage all your complex and ever-expanding tax and compliance needs.
+The industry leader for online information for tax, accounting and finance professionals.
+ Access unmatched financial data, news and content in a highly-customised workflow experience on desktop, web and mobile.
+ Browse an unrivalled portfolio of real-time and historical market data and insights from worldwide sources and experts.
+Screen for heightened risk individual and entities globally to help uncover hidden risks in business relationships and human networks.
+All quotes delayed a minimum of 15 minutes. See here for a complete list of exchanges and delays.
+© 2023 Reuters. All rights reserved
