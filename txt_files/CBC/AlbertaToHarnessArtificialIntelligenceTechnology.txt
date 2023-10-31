@@ -1,0 +1,30 @@
+Alberta is investing in artificial intelligence in an effort to predict where a wildfire may ignite before it happens, a move its tech partners say could save up to $5 million a year.
+Ed Trenchard, a provincial wildfire management specialist, does long-term planning with communities and industry on how to mitigate risk, and also works on the ground.
+"When we have large escaped fires like we had this year, I actually go out to the fires and plan where resources are going to fight the fires, and inform communities of potential evacuations," Trenchard said.
+"In the past and currently, we know what we have for fuels [like trees], we know what's available to burn, and we know through our weather forecasting how bad the weather is going to be."
+Federal officials have said Canada has seen an unprecedented wildfire season this year, with nearly 17,900,000 hectares burned as of late September, versus the 10-year average of about 270,000 hectares for that time of year.
+In Alberta this year, fires forced the evacuation of several communities, including Edson, Drayton Valley and Fort Chipewyan.
+Trenchard said looking at the interaction between the fuels and the weather helps to predict the risk to an area.
+"The problem that we've been faced with is we don't know where the next fire is going to start," he said.
+Alberta's wildfire agency has partnered with software company AltaML to try to predict where fires are going to start the day before they happen so they can better plan resources.
+The partnership is part of a larger grants program called GovLab, which was founded as a collaboration between AltaML, the Alberta government and Mitacs, a non-profit innovation hub.
+"It's a next-day fire-likelihood forecast," said Graham Erickson, senior lead machine learning developer with AltaML, which uses Microsoft's Azure AI technology to build its own software.
+Erickson said wildfire officers put people, equipment, aircraft and other resources in place as part of pre-suppression efforts in case of a fire breakout.
+"So every day, they have duty officers whose job is to figure out for the next day, what pre-suppression resources they have on retainer," Erickson said. "In the past, this was purely based on fire severity."
+Erickson said Alberta has historically had a "risk averse" culture and would spend a lot of money on resources that don't end up being used, costing $2 million to $5 million a year. The new software could change that, he said.
+"It's developed with machine learning, which is a subtype of AI technology that basically analyzes tons of data that they've collected over the past couple of decades about fires in the province," Erickson said.
+Trenchard said "working with AltaML has given us an opportunity to bridge the knowledge gap from an experienced person to maybe a less experienced duty officer able to have that tool available to them."
+The AI software provides additional information to duty officers, enabling them to make crucial decisions more quickly.
+Trenchard said Alberta keeps an intensive database going back decades of where fires have started, what the weather conditions were at the time, what type of trees were burning and how the fire started.
+"Using that history, combined with weather forecasting, that's what the model is using essentially," he said. "And it's building on itself, so every calendar year, we dump that last calendar year of data into the black box of AI to improve the prediction over time."
+Trenchard said right now, the predictions have shortcomings in location accuracy.
+"The future vision of this is actually going to be like a pinpoint location on a map for where the next fires are going to start tomorrow, and then we will place resources close or as close as we can to those predictions."
+John Weigelt, national technology officer at Microsoft Canada, said the company is partnering with a number of governments and organizations across the country to adopt AI. He said this is an attempt to solve "the big challenges that we're facing in Canada."
+Weigelt added Microsoft has partnered with the City of Kelowna in the B.C. Interior in a similar capacity to try and battle local forest fires.
+"This technology has matured dramatically over time, and people have got more comfortable with how to deploy it," he said.
+Story by Jamin Mike with The Canadian Press
+Audience Relations, CBC P.O. Box 500 Station A Toronto, ON Canada, M5W 1E6 
+Toll-free (Canada only): 1-866-306-4636
+It is a priority for CBC to create products that are accessible to all in Canada including people with visual, hearing, motor and cognitive challenges.
+Closed Captioning and Described Video is available for many CBC shows offered on CBC Gem.
+

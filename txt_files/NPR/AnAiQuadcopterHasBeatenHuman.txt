@@ -1,0 +1,41 @@
+
+
+   Geoff Brumfiel
+  
+
+
+        The drone uses a mix of artificial intelligence and more conventional programming to fly through a race course.
+        
+          
+          Leonard Bauersfeld
+          
+        
+hide caption
+
+The drone uses a mix of artificial intelligence and more conventional programming to fly through a race course.
+Today researchers in Switzerland unveiled a small drone powered by artificial intelligence that can outfly some of the best human competitors in the world.
+A quadcopter drone equipped with an AI brain whipped its way around an indoor race course in a matter of seconds. In 15 out of 25 races it was able to beat its human rival, according to research published today in the journal Nature.
+"This is the first time that an AI has challenged and beaten human champions in a real-world competitive sport," says Elia Kaufmann, an autonomy engineer at Skydio, a drone company based out of Redwood City, California, who worked on the drone while at the University of Zurich in Switzerland.
+Computers have been beating humans at their own games for quite a while now. In 1997, IBM's Deep Blue bested Garry Kasparov at chess. In 2016 Google built a program using artificial intelligence that could beat world champion Lee Sedol at the game of Go. AI programs have also bested humans at poker and several video games.
+
+        Using reinforcement learning, the drone (blue) taught itself a faster way around the course than its human opponent (red).
+        
+          
+          Leonard Bauersfeld
+          
+        
+hide caption
+
+Using reinforcement learning, the drone (blue) taught itself a faster way around the course than its human opponent (red).
+But every one of these competitions has taken place on a board or at a desk. The computers haven't been able to beat people in real-world competitions. Kaufmann says that's because it's much harder to simulate real-world conditions if you're flying a drone than if you're playing a game on a board. "This is called the sim-to-real gap," he says.
+The team overcame the gap using a variety of AI and conventional programing strategies. Kaufmann taught the drone what racing gates looked like by hand-identifying the fabric gates in tens of thousands of images — a technique known as "supervised learning." The team also used more conventional code to help the drone triangulate its position and orientation based on visual cues from its cameras.
+But the real secret to the drone's success came from a relatively new technique known as "reinforcement learning." The team put the drone's control code into a virtual version of the race course and sent it around and around in virtual space for the equivalent of 23 days (one hour of computing time). The code kept practicing until it learned the best route.
+"That means as fast as possible, and also all gates in the correct sequence," says Leonard Bauersfeld, a Ph.D. student at the robotics and perception group at the University of Zurich.
+The final version of the code allowed the drone to best its human rivals 60% of the time.
+The drone has plenty of limitations. It only works for the specific course it's been trained on and in a specific environment. Moving the course from inside to outdoors, for example, would throw the drone off due to changes in lighting. And the slightest things can send it spinning. For example, if a rival accidentally bumps it, "it has no idea how to handle this and crashes," says Bauersfeld.
+Bauersfeld says that lack of flexibility is part of the reason this kind of technology can't be easily fashioned into a killer military drone anytime soon.
+In an accompanying commentary in Nature, Guido de Croon, a researcher at Delft University in the Netherlands says that the new technology has a way to go.
+"To beat human pilots in any racing environment, the drone will have to deal with external disturbances such as the wind as well as with changing light conditions, gates that are less clearly defined, other racing drones and many other factors," he writes.
+Still, the little drone does show that AI is ready to make that jump from the virtual world into the real one — regardless of whether its human opponents are ready or not.
+Sponsor Message
+Become an NPR sponsor

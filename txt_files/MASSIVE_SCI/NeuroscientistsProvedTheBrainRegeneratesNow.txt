@@ -1,0 +1,115 @@
+Massive en español
+Noticias de ciencia
+COVID-19
+The facts about COVID-19, straight from scientists
+Butt Month
+The science of butts, poop, and intestines
+Surviving the Anthropocene
+Adapting to endure humanity's impact on the world
+Science Heroes
+Women in STEM you may not have heard of
+Mind Control
+Dispatches from the frontiers of neuroscience
+Food for Thought
+Making agriculture safe, healthy, and sustainable
+Breakthroughs
+Interviews with cutting-edge scientists
+Illustration by Allan Lasser
+Defying common knowledge lead us to a theory of neurogenesis.
+
+Kirsi Goldynia
+
+In 1962, Dr. Joseph Altman published a study titled “Are New Neurons Formed in the Brains of Adult Mammals?” which sparked a 30 year debate by providing a simple answer to an old question — yes.
+Altman, a neurobiologist at MIT, had discovered that neurogenesis (the generation of new neurons) occurs in the adult brain, a fact that the scientific community had previously believed to be false. This paradigm was upheld by evidence; much of what scientists knew about the brain pointed to the cruel reality that one of our most valuable organs was also one of the most vulnerable, unable to regenerate neurons. It was known, for instance, that neurons lacked mitotic function, or the ability to divide and proliferate. It was understood, too, that these non-mitotic neurons were of differentiated cell types, specific to the brain region they belonged to and its function. 
+What scientists had failed to consider, however, was the possibility that neural stem cells, the precursors to neurons, might play a primary role in the growth of new neurons. What if neural stem cells could proliferate, forming new cells prior to migrating to their destined brain region and differentiating? This proliferation of neural stem cells could be a form of neurogenesis, albeit occurring in a different location and at a different stage of cell growth than previously proposed.
+Altman, suspecting this might be the case, conducted several experiments in the early ’60s to test this theory. Using a thymidine incorporation assay, he injected 3H-thymidine, a radioactive marker, into the brains of living rats. The marker was designed to integrate into the DNA of dividing cells, and serve as an indicator that neurogenesis had taken place. Sure enough, when Altman checked, not only was the label present, but two regions in particular, the olfactory bulbs and the dentate gyrus of the hippocampus, were home to populations of newly born cells.
+Hippocampal neurogenesis bewildered scientists. One of the most complex structures in the brain, the hippocampus is nestled deep within layers of cortical tissue and is responsible for high-level cognitive processing — learning and memory. It seemed impossible that cells of such complexity could undergo cell division and even more puzzling that humans could retain memories, or any information for that matter, if the brain’s population of cells changed.
+Altman’s studies also presented a methodological roadblock. Though neural stem cells had been clearly marked as proliferating cells, there was no way to know whether they were destined to mature into differentiated neurons that have cognitive functions, or glial cells, which support the brain but aren’t directly responsible for cognition. Still, Altman’s findings had cast enough doubt to prompt a further barrage of studies over the next two decades, some of which supported his theory and some of which contradicted it, yielding little progress.
+Then, in the late ’80s, Fred Gage emerged on the scene. “At that time people were pretty skeptical that there were any forms of neurogenesis anywhere,” said Gage. But this belief was about to change. In 1988 a new method of studying neurogenesis, Bromodeoxyuridine (BrdU) labeling, provided a clearer look at the fate of dividing cells. Like 3H-thymidine, BrdU integrates into the DNA of dividing cells, but unlike 3H-thymidine, it can be co-labeled with a marker that exclusively labels neurons.
+With this new method, Gage and his colleagues at the Salk Institute decided to look for neurogenesis in the human brain. They found, as Altman had, that the dentate gyrus undergoes this process in adulthood and that newly generated cells indeed mature into differentiated types of neurons. With the specificity of the newly minted technique, their findings were hard to dispute.
+Meanwhile, Gage’s lab and Elizabeth Gould’s lab at Princeton University had begun pioneering behavioral studies in rats to evaluate how environmental and lifestyle factors could impact neurogenesis. Gould had shown that by increasing adrenal hormones, the molecules released when stress is induced, it was possible to decrease the number of new neurons created. This response proved to hold true when stress was induced environmentally — by exposing male rats to the scent of a predator, they found that within just 24 hours hippocampal neurogenesis had been reduced.
+The Gage lab was intrigued. It seemed logical that if stress negatively impacts neurogenesis, then positive experiences could increase it. “We simply asked ourselves ‘What’s the opposite of stress?’ And the answer was positive stimulation. The classic paradigm to test it is environmental enrichment, so that’s what we used,” said Gerd Kempermann, who joined the Gage lab in 1995 as a postdoc. “Of course the irony is that environmental enrichment is a little bit stressful.”
+The environmental enrichment paradigm was simple. Gage and his team replaced standard laboratory cages with a spacious cage, containing toys to explore and other mice to socialize with. When Gage looked at each mouse’s hippocampus after 40 days, he found that mice exposed to this stimulating environment had significantly more new neurons than their counterparts who had been housed in standard cages.
+The findings from the behavioral studies marked a turning point in scientists’ understanding of neurogenesis. Never before had it been so easy to verify that neurogenesis was taking place. “In an enriched environment, the total number of neurons in the brain increased, so you didn’t need to do any fancy methodology, simply look at the volume of the brain,” said Gage.
+After their paper’s publication, Kempermann moved to Germany to work as a clinical neurologist, but the science community’s growing fascination with neurogenesis, in part due to his findings, had reached a feverish pitch, so he decided after a few years to return to research. He currently studies the reciprocal impact of neurogenesis and behavior at the German Center for Neurodegenerative Diseases.
+“The main idea of my current work is to try and understand how activity-dependent regulation of adult hippocampal neurogenesis works and how it contributes to hippocampal brain function,” said Kempermann. In addition to environmental factors, his lab looks at the effect that physical activity has on adult neurogenesis, which has led to a holistic understanding of its mechanism. “It’s not a single factor mechanism,” he said, “rather there is a feedback loop in which adult neurogenesis is changed by behavior and then behavior is changed because of the new neurons being present.” Through his research, Kempermann has come to think of neurogenesis as a fine-tuner, or a modulator of hippocampal function.
+Gage refers to this fine-tuning process as memory resolution. “Imagine you’re sitting in a coffee shop,” he told me over the phone (coincidentally, as I was sitting in a coffee shop), “and you look up at the barista and see that it’s your sister. You know your sister very well, so that’s an easy discrimination. But if you look up and the barista is not your sister but someone you’ve seen [only a few times] before, it takes highly functioning neurogenesis to be able to make the connection between her features…and where you know her from.”
+This understanding is an extremely nuanced one compared to what we knew about neurogenesis just a few decades ago, yet there is much more to learn. The expansiveness of the brain — a single hippocampal neuron receiving inputs from over 5,000 other neurons — guarantees that our understanding barely scratches the surface of this process. Still, Gage is confident that our current understanding gives us a pretty clear idea of its importance. “Neurogenesis adds the finer distinctions — the richness — to life,” he said, “which, of course, is what life is about.” 
+Butterfly wings provide the right topography for nerve cells to grow, with an aim towards ameliorating hearing loss 
+Reinack Hansen, Materials Science
+
+November 26, 2021
+
+Pamela Hirschberg, Rutgers University
+
+November 23, 2021
+
+Soren Emerson, Vanderbilt University
+
+November 16, 2021
+
+Julia A Licholai, Brown University
+
+November 12, 2021
+
+Sahana Sitaraman, National Centre for Biological Sciences, India
+
+November 1, 2021
+
+Kelly Cotton, City University of New York
+
+October 29, 2021
+
+Lauren Granata, Northeastern University
+
+September 21, 2021
+
+Dori Grijseels, University of Sussex
+
+September 16, 2021
+
+Soren Emerson, Vanderbilt University
+
+September 20, 2021
+
+How emergency forces innovation & one Italian scientist advanced our understanding of COVID variants.
+Peter Weinberg, Biology
+
+December 17, 2021
+
+Dan Samorodnitsky, Senior Editor
+
+November 30, 2021
+
+Kevin Bird, Michigan State University
+
+November 29, 2021
+
+Matthew Bomkamp, University of Florida
+
+November 29, 2021
+
+Lois Parshley
+
+November 28, 2021
+
+Charlie Wood
+
+November 28, 2021
+
+Malosree Maitra, McGill University
+
+November 26, 2021
+
+Rita Ponce, Polytechnic Institute of Setúbal
+
+November 25, 2021
+
+Derek Smith, University of Michigan
+
+November 23, 2021
+
+We think you'll like this
+Keep your mind sharp with the smartest science around. Get new stories about the science behind brains and mental health delivered right to you.
+We're a community of scientists telling fascinating, true stories about the science that's happening now.
+© 2017 – 2020 Massive Science Inc.

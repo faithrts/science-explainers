@@ -1,0 +1,69 @@
+
+
+   Geoff Brumfiel
+  
+
+
+        AI similar to the kind used to make images is now being used to design synthetic proteins. Scientists say its radically sped up their research.
+        
+          
+          Ian C Haydon/ UW Institute for Protein Design
+          
+        
+hide caption
+
+AI similar to the kind used to make images is now being used to design synthetic proteins. Scientists say its radically sped up their research.
+Susana Vazquez-Torres is a fourth-year graduate student at the University of Washington who wants to someday invent new drugs for neglected diseases.
+Lately, she's been thinking a lot about snake bites: Around a hundred thousand people die each year from snake bites, according to the World Health Organization — and yet, she says, "the current therapeutics are not safe and are very expensive."
+Part of the problem is that developing new drugs for things like snake bites has been a slow and laborious process. In the past, Torres says, it might have taken years to come up with a promising compound.
+But recently, a new tool in her laboratory has rapidly sped up that timeline: Artificial intelligence. Torres started her current project in February and already has some candidate drugs lined up.
+"It's just crazy that we can come up with a therapeutic in a couple of months now," she says.
+Artificial intelligence is promising to upend the knowledge economy. It can already code computer programs, draw pictures and even take notes for doctors. But perhaps nowhere is the promise of AI closer to realization than the sciences, where technically-minded researchers are eager to bring its power to bear on problems ranging from disease to climate change.
+On Thursday, the U.S. National Academies convened a two-day meeting on the potential for AI to change science. "AI scientists can really be more systematic, more comprehensive and not make errors," says Yolanda Gil, director of AI and data science initiatives at the Information Sciences Institute at the University of Southern California, who is attending the event.
+Rather than using AI to do all science, she envisions a future in which AI systems plan and execute experiments, in collaboration with their human counterparts. In a world facing increasingly complex technical challenges, "there's not enough humans to do all this work," she says.
+At the University of Washington, Vazquez-Torres is one of about 200 scientists working in a laboratory to design new therapies using proteins. Proteins are molecules that do much of the day-to-day work in biology: They build muscles and organs, they digest food, they fight off viruses.
+Proteins themselves are built of simpler compounds known as amino acids. The problem is that these amino acids can be combined in a nearly infinite number of ways to make a nearly infinite number of proteins.
+In the past, researchers had to systematically test many thousands of possible designs to try and find the right one for a particular job. Imagine being given a bucketful of keys to open a door — without knowing which one will actually work. You'd end up "just trying them out one at a time, to see what fits the best," says David Baker, the senior scientist who runs the lab.
+AI has changed all that.
+"Rather than having to make a bunch of possible structures on the computer and try them one by one, we can build one that just fits perfectly from scratch," he says.
+
+        Researchers at the University of Washington are using AI to design new kinds of proteins. Then they make them in the lab to see if they'll actually work.
+        
+          
+          Ian C Haydon/UW Institute for Protein Design
+          
+        
+hide caption
+
+Researchers at the University of Washington are using AI to design new kinds of proteins. Then they make them in the lab to see if they'll actually work.
+The particular type of AI being used is known as diffusion modeling. It's the same technology used by popular AI image generators, like DALL-E or Midjourney. The system starts with a field of random pixels, essentially white noise, and then slowly tweaks each one until it creates what the user has asked for. In the case of an AI image generator that might be a picture of a flower. In the case of this lab's AI, it's a protein with a specific shape.
+The shape of a protein often determines how well it will work, so this kind of AI is particularly well-suited for the job, Baker says. The AI also requires examples to learn from, and luckily, scientists have spent decades and billions of dollars developing a massive database full of proteins that it can study.
+"There really aren't many places in science that have databases like that," Baker says.
+And that's part of the reason that it's not yet clear whether every field will benefit equally from AI. Maria Chan is at Argonne National Laboratory in Illinois. She's working on developing new materials for the renewable economy — things like batteries and solar panels.
+She says, unlike the field of proteins, there just isn't that much research on the sorts of materials she's studying.
+"There hasn't been enough sort of measurements or calculations — and also that data is not organized in a way that everybody can use," she says.
+Moreover, materials are different from proteins. Their properties are determined by interactions on many different scales — from the molecular all the way up to large scales.
+The lack of data and complexity of materials make them harder to study using AI, but Chan still thinks it can help. Just about anything is better than the way scientists in the field worked prior to the computer revolution.
+"The previous hundred years of science has to do with a lot of serendipity, and a lot of trial and error," she says. She believes AI will be needed to drive research forward — especially when it comes to the climate crisis, one of the most complicated problems in modern times.
+Materials and proteins are far from the only fields working with AI in various ways. Systems are being actively developed in genetics, climate studies, particle physics, and elsewhere. The goal in many cases is to spot new patterns in vast quantities of scientific data — such as whether a genetic variation will cause a harmful abnormality.
+But some researchers believe that AI could take a more fundamental role in scientific discovery. Hannaneh Hajishirzi, who works at the Allen Institute for Artificial Intelligence in Seattle, wants to develop new AI systems similar to ChatGPT for science. The goal would be a system that could crunch all the scientific literature in a field and then use that knowledge to develop new ideas, or hypotheses.
+Because the scientific literature can span thousands of papers published over the course of decades, an AI system might be able to find new connections between studies and suggest exciting new lines of study that a human would otherwise miss.
+
+        Some researchers hope that AI could be used to find new materials for things like solar cells. There's limited data on these materials, and it's not stored centrally, so results are not guaranteed.
+        
+          
+          Amr Nabil/AP
+          
+        
+hide caption
+
+Some researchers hope that AI could be used to find new materials for things like solar cells. There's limited data on these materials, and it's not stored centrally, so results are not guaranteed.
+"I would argue that at some point AI would be a really good tool for us to make new scientific discoveries," she says. Of course, it would still take human researchers to figure out if the scientific ideas the AI wanted to pursue were worthwhile.
+Yolanda Gil at the University of Southern California wants to develop AI that can do all of science. She envisions automated systems that can plan and carry out experiments by themselves. That will likely mean developing entirely new kinds of AI that can reason better than the current models — which are notorious for fabricating information and making mistakes.
+But if it could work, Gil believes the AI scientists could have a huge impact on research. She envisions a world in which AI systems can continuously reanalyze data, and update results on diseases or environmental change as it's happening.
+"Why is it that the paper that was published in 2012 should have the definite answer to the question?" she asks. "That should never be the case."
+Gil also thinks that AI scientists could also reduce errors and increase reproducibility, because the systems are automated. "I think it would be a lot more trustworthy; I think it could also be more systematic," she says.
+But if AI scientists are the future, Susana Vazquez-Torres at the University of Washington doesn't seem worried about it. She and her labmates are attacking a wide swath of problems using their designer proteins — everything from new drugs, to vaccines, to improving photosynthesis in plants and finding new compounds to help break down plastics.
+Vazquez-Torres says there are so many problems that need to be solved, and that many exciting discoveries lie ahead thanks to AI. "We can just make drugs right now so easily with these new tools," she says. Job security isn't a worry at all. "For me, it's the opposite — it's exciting."
+Sponsor Message
+Become an NPR sponsor

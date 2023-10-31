@@ -1,0 +1,134 @@
+Massive en español
+Noticias de ciencia
+COVID-19
+The facts about COVID-19, straight from scientists
+Butt Month
+The science of butts, poop, and intestines
+Surviving the Anthropocene
+Adapting to endure humanity's impact on the world
+Science Heroes
+Women in STEM you may not have heard of
+Mind Control
+Dispatches from the frontiers of neuroscience
+Food for Thought
+Making agriculture safe, healthy, and sustainable
+Breakthroughs
+Interviews with cutting-edge scientists
+MaxPixel
+A new study says neither have serious positive or negative impacts on childhood well-being
+
+Jack Barton
+
+
+Cognitive Neuroscience
+
+
+University of Manchester
+
+It's easy to worry about the impact of ubiquitous smartphones —doctors have tried to liken the effects of digital technology to serious drug addiction, and platforms like Instagram have been linked to depression and anxiety. Headlines comparing children's phones to cocaine or calling technology the new gateway drug don't help. But despite the panic, the reality is that many of the studies on screen time have been poorly conducted, and their results are inconclusive. 
+Turns out, it's not so easy to discern the effect of technology on children
+ Photo by pan xiaozhen on Unsplash
+In fact, science-conscious clinical psychologists and researchers have been calling screen fears out as unfounded for years. In 2015, an editorial in the British Medical Journal questioned the claims against digital technology and asked for “less shock and more substance.” This has sparked an ongoing debate, confusing well-meaning parents. 
+Now, new research by University of Oxford scientists Amy Orben and Andrew Przybylski attempts to shed some light on the debate. They wanted to highlight the problems in how previous large-scale studies were analysed. So in a study published in Nature Human Behaviour, they investigated the methodology and datasets these conclusions have been drawn from, and found the many variables in these studies have led to potentially false positives.
+To do so, the researchers took three large scale datasets with a sample of 350,000 adolescents, and assessed the impact of technology use on their well-being. But what does "technology use" mean? If I were to ask ten people, I'd likely get ten slightly different answers. This is the issue researchers face with large datasets. For example, ‘tech use’ could be defined as “television use on weekdays,” or “television use on weekends,” or more realistically, "hours per day spent on social media." Changing how you define the key variable allows scientists to answer the same question in a lot of different ways. Orben and Przybylski found that just by changing the definition, they could come up with over 600 million theoretically justifiable analyses. For context, in science we usually say that 1 in every 20 statistical analyses will produce a false positive — meaning demonstrate an effect when there isn’t one. So this many different potential analyses means there are a huge number of false positives in the data. 
+Childhood well-being is an important topic in today's digital age
+ Photo by Caroline Hernandez on Unsplash
+The researchers then listed all of the different ways ‘well-being’ and ‘tech use’ could be defined, and plotted these as a specification curve analysis, a statistical approach which consists of three steps. The first is to identify all the justifiable ways of answering your question of interest based on your data (e.g. if you have a hundred ways of defining tech use you could run a hundred justifiable tests). The second step is to then run these individual analyses to show all the alternate ways of addressing the same question. Finally, statistical tests are run to see whether these analyses, as a whole, support your hypotheses (e.g. tech use negatively affects the well-being of kids). Overall, this is a fairer and more transparent approach to big datasets, as it stops people picking and choosing results they like (also known as cherry picking) and ignoring the rest. 
+It should not come as a surprise that their analysis showed that how you defined well-being and tech use changed this affected whether technology had a positive or negative influence. Just changing how the data was analyzed could produce completely opposite results. Overall, using specification curve analysis to consider all possible analyses together, Orben and Przybylski found a slight negative effect of screen time. But they caution against drawing definitive conclusions of any kind, as grand total of 0.4 percent of adolescents’ well-being was attributable to tech-use. Hardly worth concerted campaigns or detoxes for kids.
+To provide context to the size of this association, Orben and Przybylski pulled out other variables for comparison. Specifically, they examined factors like sleep, known to positively impact everyone, as well as things known to be harmful, like bullying. They also considered random factors which would have no intuitive or theoretical impact, like eating potatoes. I’m sorry to inform you carbohydrate-loving parents this, but their analysis showed that screen time and eating potatoes have an equivalently-sized impact on children's well-being. Just wearing glasses was 1.45 times more strongly associated with well-being than tech use. By contrast, sleep was up to 44 times more strongly associated with well-being.
+Orben says the paper had a dual purpose, looking to find a better way of communicating these methodological flaws, as well as helping answer the question of how technology impacts kids. She says in future studies, measures need to be clearly defined. She also suggests increased collaborations between scientists, and a commitment to transparency in analysing data, would help improve the quality of evidence for these kinds of scientific, public and policy debates.
+Orben's study also highlights a mantra drilled into all first year science students: correlation is not causation. A study that says bacon is killing you might be correlational — meaning it’s hard to identify what factor is causing what impact because they only co-occur, and we can't say which comes first. All these kinds of studies can demonstrate is that some things are associated. For example, there’s an association (quite a big one actually) between the number of films Nicholas Cage appears in and the number of people drowning in swimming pools in a given year. Of course, no one is stopping Nicholas Cage making new films — but it shows that analysis matters.
+Science says that, like most things, technology should be used in moderation
+ Photo by Igor Starkov on Unsplash
+Overall, the University of Oxford study should blunt the argument both for and against screen use. Despite screens being blamed for most of society’s ills, the evidence is just not there to support either side’s claims. Digital technology offers many benefits to children and its influence will affect individuals in different ways. It’s also important to remember that at one point in history, books were seen as the evil threatening our children. Personally, I’m waiting for the day when government ministers claim virtual reality and hoverboards are the scourge of youth. That, or something equally ridiculous, like cheese is like cocaine. (Er, I may have spoken too soon.) Moderation and common sense are probably your best bet until better evidence is available.
+We ask other scientists from our Consortium to respond to articles with commentary from their expert perspective.
+
+David Baranger
+
+
+Neuroscience
+
+
+University of Pittsburgh
+
+I really liked this article, so I’m happy to see someone covering it. First, just want to mention that the first author, Dr. Amy Orben (@ OrbenAmy) has made an open-access version of the paper available on her website (as the Nature one is paywalled), along with all the data and code: https://www.amyorben.com/.
+One caveat, this study had participant’s report on how much they used their phone, but self-report of media use is notoriously inaccurate. I don’t think we can conclude that the effects of screen-time really are very small - but I don’t think that’s the central claim. One of the interesting aspects of this study was that they used the same data that has previously been used to argue that screen-time has a negative impact. So I think their main argument is that there never was good evidence for this effect.
+Looking at the table comparing different variables (Table 3) is interesting. Some of the effects are ones I’d expect - drug use is associated with negative outcomes, eating fruits & veggies is correlated with positive ones. I was surprised to see that ‘listening to music’ is associated with negative outcomes! Just brings home that this is a correlational analysis, we would never believe that listening to music is causally 3x worse for you than binge-drinking.
+Researcher Suchi Saria works to bridge the gap between AI solutions and implementation in healthcare
+Lauren White
+
+October 7, 2021
+
+Cosmo Bjorkenheim
+
+July 22, 2021
+
+Simon Spichak, Neuroscience
+
+July 14, 2021
+
+Hannah Thomasy, University of Washington
+
+December 3, 2020
+
+Farah Qaiser, University of Toronto
+
+December 2, 2020
+
+Matthew Bomkamp, University of Florida
+
+September 22, 2020
+
+Simon Spichak, Neuroscience
+
+August 13, 2021
+
+Simon Spichak, Neuroscience
+
+July 2, 2021
+
+Briley Lewis, University of California, Los Angeles
+
+May 13, 2021
+
+Monoclonal antibodies reveal key vaccine structure
+Georgina To'a Salazar, University of Texas Health Science Center at Houston
+
+November 14, 2021
+
+Claudia López Lloreda, University of Pennsylvania
+
+January 13, 2020
+
+Hannah Thomasy, University of Washington
+
+May 20, 2019
+
+James R. Howe VI, UC San Diego
+
+April 11, 2019
+
+Prabarna Ganguly, National Human Genome Research Institute
+
+August 8, 2018
+
+Jayati Sharma, Johns Hopkins University
+
+March 6, 2021
+
+Sam Zlotnik, University of Florida
+
+November 1, 2020
+
+Joel Michael Reynolds, UMass Lowell
+
+May 16, 2019
+
+Stephanie Santo, Psychology
+
+November 16, 2021
+
+We think you'll like this
+Keep your mind sharp with the smartest science around. Get new stories about the science behind brains and mental health delivered right to you.
+We're a community of scientists telling fascinating, true stories about the science that's happening now.
+© 2017 – 2020 Massive Science Inc.

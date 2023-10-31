@@ -1,0 +1,143 @@
+Massive en español
+Noticias de ciencia
+COVID-19
+The facts about COVID-19, straight from scientists
+Butt Month
+The science of butts, poop, and intestines
+Surviving the Anthropocene
+Adapting to endure humanity's impact on the world
+Science Heroes
+Women in STEM you may not have heard of
+Mind Control
+Dispatches from the frontiers of neuroscience
+Food for Thought
+Making agriculture safe, healthy, and sustainable
+Breakthroughs
+Interviews with cutting-edge scientists
+Kendal James on Unsplash 
+
+A version of this story originally appeared on
+The Conversation
+
+A century of research later, and we're still not sure what causes it
+
+Norman A. Paradis
+
+
+Emergency Medicine
+
+
+Dartmouth College
+
+Biogen recently announced that it was abandoning its late stage drug for Alzheimer’s, aducanumab, causing investors to lose billions of dollars.
+They should not have been surprised.
+Not only have there been more than 200 failed trials for Alzheimer’s, it’s been clear for some time that researchers are likely decades away from being able to treat this dreaded disease. Which leads me to a prediction: There will be no effective therapy for Alzheimer’s disease in my lifetime.
+Clinically, I am an emergency physician. But my research interests include diagnostic biomarkers, which are molecular indicators of disease, and a diagnostic test for Alzheimer’s is something of a holy grail.
+Alzheimer’s sits right at the confluence of a number unfortunate circumstances. Stick with me on this – it’s mostly bad news for anyone middle-aged or older, but there’s a reward of sorts at the end. If you understand why there won’t be much headway on Alzheimer’s, you’ll also understand a bit more why modern medicine has been having fewer breakthroughs on major diseases.
+For decades it was widely believed that the cause of Alzheimer’s was the build-up of abnormal proteins called amyloid and Tau. These theories dominated the field and led some to believe we were on the verge of effective treatments – through preventing or removing these abnormal proteins. But had the theories been correct we would likely have had at least one or two positive clinical trials.
+In retrospect, the multi-decade amyloid fixation looks like a mistake that could have been avoided. Although there is a correlation between amyloid and risk of Alzheimer’s, there are elderly people whose brains have significant amounts of the protein and yet are cognitively intact. Versions of this observation date back to at least the 1960s. That’s one reason why researchers have questioned the enthusiasm for this one hypothesis.
+It was always possible that the classic plaques and tangles first seen by Alois Alzheimer, and now known to be made of abnormal proteins, were epiphenomena of aging and not the cause of the disease. Epiphenomena are characteristics that are associated with the disease but are not its cause.
+But even more convincing that researchers are closer to the beginning than the end in understanding the cause of Alzheimer’s is the long list of alternative theories. This now includes but is not limited to: infection, disordered inflammation, abnormal diabetes-likemetabolism and numerous environmental toxins.
+And the past few years have seen more evidence for viral, bacterial and fungal infections. These viral and bacterial hypotheses were portrayed as eureka moments. But this begs the question: How did powerful tools of epidemiology miss associations with things like cold sores and gum disease?
+When Occam’s razor – the principle that the simplest solution is often the best – is applied to this laundry list of possible causes, it leads to some profound implications. Either Alzheimer’s is not one disease, or many factors can contribute to triggering or promoting it. Some authorities have been trying to make such arguments for some time.
+Either of these would be bad news, since we would need to develop multiple effective treatments, possibly in combination.
+Unfortunately, our biomedical system is designed for the development and testing of one drug at at time. Combinations of drugs dramatically increase the number of clinical trials needed to test for efficacy and toxicity.
+Risk factors for the development of Alzheimer's disease
+iLoveCoffeeDesign on Shutterstock
+For 50 years after Alzheimer described the first patient, the disease was considered relatively rare. Called pre-senile dementia, it struck relatively early and sometimes ran in families. The much more common dementia of old age - senile dementia - was considered part of aging.
+But here’s the thing – regardless of type, Alzheimer’s has a powerful age-related association. This is true even for patients with early-onset inherited form of Alzheimer’s. Give someone the worst possible genome for Alzheimer’s – including the dreaded APOE e4 gene that may be associated with a 10-fold increase in risk - and that person still needs to age a bit before developing the disease.
+Combine the long list of risk factors with the powerful age association and Alzheimer’s comes into focus. Neurons may be the high-wire act of cell types, and the senescence of aging inexorably wears on them. Any one of many cellular insults may accelerate neurons toward earlier cell death. The worst of these may be a particularly bad gene you inherited from your parents, but all are additive to a greater or lesser degree.
+If correct, this conception of the disease means we’re even further away from an effective treatment.
+Aging is not disease. It is the normal arc of life and an ineluctable part of being human (“dust unto dust”). As such, the biology of aging didn’t get the attention that was bestowed on organ systems and diseases during the golden years of research funding.
+In retrospect, I think this may have been a grave mistake. If you list the risk factors for the major diseases of modern life – heart disease, diabetes, dementia – the most powerful is almost always age.
+Bottom line: We also lack an understanding of the basic science of Alzheimer’s most important risk factor.
+Auguste Deter, Alois Alzheimer's patient in November 1901, was the first described patient with Alzheimer's Disease. 
+Public Domain on Wikimedia Commons
+While it is widely known that it is not possible to diagnose Alzheimer’s accurately during life, a dirty little secret of Alzheimer’s research is that a significant fraction of patients cannot be categorized even on autopsy. The classic plaques and tangles that Alois Alzheimer saw through his microscope may not be accurate biomarkers of this disease.
+The single absolute requirement for the development of therapies is an accurate diagnostic. You can’t begin to develop a drug if you can’t accurately identify who has and does not have the disease. Alzheimer’s is the quintessential example of this, as it is very difficult to diagnose. In living patients, diseases like vascular dementia and Lewy body dementia can be indistinguishable from Alzheimer’s. Some of the newest technologies are actually based on imaging amyloid, which some studies show may not be a reliable diagnostic test.
+It takes a long time for the Food and Drug Administration to approve a drug. From the moment a possible drug is first conceived, it is often more than 10 years until it is available.
+The brain has few if any repair mechanisms. So when we talk about Alzheimer’s treatments, we mean prevention not reversal.
+The natural history of Alzheimer’s is such that preventive therapy will need to be started early in the course of the disease. This will add years to the drug development cycle. A decade from discovery to bedside would be good news for an Alzheimer’s drug.
+But history teaches us that the delays could be even worse. Shortly after the discovery of genetic engineering in the early 1980s, it was common to tell patients with diseases like sickle cell that a genetic cure was just a few years away. The sickle cell abnormality and its location in the genome had been known for some time. The organ system involved is easy to access. Thirty years later we have still not successfully cured diseases like sickle cell, and the hubris of those early predictions are painful memories for older physicians like myself.
+The situation with Alzheimer’s looks much worse than sickle cell disease looked back in the 1980s. We don’t know the cause – which is likely multifactorial - and its in a hard to get at organ. And neurological diseases are a particular challenge because the brain is protected behind something called the blood-brain barrier. Even if you have a potentially effective drug, it may not reach its target.
+Add all of these considerations together and the long road stretches out ahead.
+But no drug for the foreseeable future does not mean there’s nothing to do. There is some indication that healthy lifestyle efforts may prevent Alzheimer’s. And even if they don’t, they’re likely effective in preventing vascular dementia, which is almost as common.
+Hot take: caffeine triggers brown fat thermogenesis via the brain
+Pamela Hirschberg, Rutgers University
+
+November 23, 2021
+
+Julia A Licholai, Brown University
+
+November 12, 2021
+
+Kelly Cotton, City University of New York
+
+October 29, 2021
+
+Alyssa Paparella, Baylor College of Medicine
+
+October 12, 2021
+
+Burcin Ikiz, Neuroscience
+
+September 13, 2021
+
+Julia A Licholai, Brown University
+
+August 29, 2021
+
+Josseline Ramos-Figueroa, University of Saskatchewan
+
+August 19, 2021
+
+Shannon Casey, Biology
+
+January 18, 2021
+
+Madeline Barron, University of Michigan
+
+January 12, 2021
+
+An evolutionary anthropologist tackles the mystery of the butt
+Darcy Shapiro, Rutgers University
+
+August 31, 2020
+
+Max G. Levy, Science and Health Journalism
+
+August 28, 2020
+
+Nicole Van Groningen, Cedars-Sinai Hospital
+
+August 6, 2020
+
+Hannah Norman, Kaiser Health News
+
+April 2, 2021
+
+Joris Wijnker, Utrecht University
+Paul Overgaauw, Utrecht University
+
+March 27, 2021
+
+Francesco Zangari, University of Toronto
+
+March 7, 2021
+
+Michele Cohen Marill, Kaiser Health News
+
+February 16, 2021
+
+Carl Philpott, University of East Anglia
+
+October 5, 2020
+
+JoNel Aleccia
+
+February 20, 2020
+
+We think you'll like this
+Keep your mind sharp with the smartest science around. Get new stories about the science behind brains and mental health delivered right to you.
+We're a community of scientists telling fascinating, true stories about the science that's happening now.
+© 2017 – 2020 Massive Science Inc.

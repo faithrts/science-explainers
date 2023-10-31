@@ -1,0 +1,123 @@
+Massive en español
+Noticias de ciencia
+COVID-19
+The facts about COVID-19, straight from scientists
+Butt Month
+The science of butts, poop, and intestines
+Surviving the Anthropocene
+Adapting to endure humanity's impact on the world
+Science Heroes
+Women in STEM you may not have heard of
+Mind Control
+Dispatches from the frontiers of neuroscience
+Food for Thought
+Making agriculture safe, healthy, and sustainable
+Breakthroughs
+Interviews with cutting-edge scientists
+
+A version of this story originally appeared on
+OceanBites
+
+Researchers didn't even realize they had caught one until they bumped into it.
+
+Ashley Marranzino
+
+
+Marine Biology
+
+
+University of Rhode Island
+
+Animals living in every habitat rely on camouflage to blend into their surroundings. Insects and lizards masquerade as leaves on trees, polar bears become one with the snowy landscape, and snakes seem to disappear into a sandy background. Humans have even taken inspiration from the animal kingdom, using disruptive patterns on ships to confuse onlookers and adopting camouflage combat uniforms to help soldiers hide on the battlefront. 
+Ocean creatures are no exception. Most of the incredible mechanisms they have evolved to hide work by tricking the eyes of onlookers. Complex backgrounds (like coral reefs) break up the silhouette of an animal, making the full shape of their body less obvious. But what happens when the seascape is devoid of complex shapes and an animal has to hide in plain sight? 
+A flounder blends into the sandy ocean floor.
+Photo by Roban Kramer via Flickr
+This is the scenario animals that live in the mid waters of the deep sea face. Hundreds of feet below the ocean’s surface, only 1% of the visible sunlight penetrates the waters of the deep sea (waters below 200 m). The small amount of light that makes it through is blue or violet, giving the cold waters the appearance of the night sky at twilight. Far from both the surface and the bottom of the ocean, the midwaters of the “twilight zone” are a sort of cold, dark abyss, devoid of structures animals can use to hide.
+In the twilight zone, animals cannot simply rely on tricking onlookers. They must avoid being seen altogether. For an animal to blend into the background of the deep sea, it has to make sure nothing can see its silhouette. When light travels through water and hits an animal it bends, changing speed and allowing predators to see its silhouette. To blend in with the background, animals need to alter that process, called refraction. Some ocean critters, like the hatchetfish, reflect light like a mirror. Others will try to match the lighting and blend into the backdrop using bioluminescent organs called photophores. But some animals have found a way to make themselves disappear entirely and become essentially invisible!
+This hatchetfish has a mirror-like body that reflects light, making it harder to see.
+Photo by NOAA Photo Library via Flickr
+A few years ago, scientists on a research cruise came across one of these invisible organisms while performing a routine specimen collection. After retrieving the nets they deployed to collect deep-sea animals, the researchers gathered their specimens in a bucket for closer examination. When they went to pull animals out of the bucket, their hand hit against a hard animal that they couldn’t see floating in the water. Except for its large eyes, the specimen of hyperiid amphipod they grabbed appeared completely invisible. 
+These small crustaceans are related to sand fleas and shrimps and rumored to be the inspiration behind the Aliens movies. They’ve long been studied for their remarkable visual adaptations, but the way some species appear invisible remains a mystery. Inspired by the specimen they found by accident, the researchers decided to take a closer look and try to unravel the secret to their invisibility.
+The scientists believed that there might be something about the surface, or cuticle, of the amphipods, that helped the creatures bend light and become invisible. Using extremely high resolution scanning electron microscopes, the researchers started examining the surface of seven different species of hyperiid amphipods that appeared transparent or red in color (another common camouflage tactic used in the deep sea). 
+To their surprise, they found that the amphipods’ cuticles were covered with millions of microscopic structures mere nanometers in size – 100,000 of them could fit in the width of a single human hair. Some species had “nanoprotruberences” that grew out of the cuticle itself, while others were covered with a strange “monolayer” of small cells that researchers suspect might be a symbiotic bacteria living on the amphipods.
+These structures were interesting, but were they responsible for the amphipod’s invisibility? To find out, researchers used computers to model how different wavelengths of light would reflect off amphipod cuticles when viewed from different angles. The model compared these results to a smooth, clean cuticle structure to see if the structures helped to reduce the amphipod’s overall visibility in the environmental conditions typically found in the deep sea. 
+The models revealed that nanoprotuberances and monolayers effect the way light changes speed when hitting amphipods. Instead of refracting suddenly when hitting the body of the creatures, the microscopic, mountain-shaped structures cause the light to slow down much more gradually. Instead of hitting the amphipod and changing speed sharply, the structures act like a sort of “ramp,” decreasing the light’s refraction and minimizing the amphipod’s silhouette so much that the animal becomes nearly invisible.
+This new discovery has scientists looking at if and how other animals may use similar microscopic structures, and possibly symbiotic bacteria, as camouflaging techniques. There are also many possibilities for adapting these findings for human benefit. It wouldn’t be the first time engineers were inspired by ocean organisms. It may not be long before we start seeing amphipod-inspired glare resistant surfaces or invisible armors. Not bad for a study that started with a scientist accidentally grabbing an invisible creature from a bucket.
+Carp can starve out native fish by eating all their food supplies and taking over breeding grounds
+Olivia Box, University of Vermont
+
+May 22, 2020
+
+Ashley Marranzino, University of Rhode Island
+
+March 7, 2018
+
+Kelsey Lucas, University of Michigan
+
+October 5, 2017
+
+Kristopher Benke, University of Illinois at Urbana-Champaign
+
+September 23, 2021
+
+Joshua Peters, Massachusetts Institute of Technology
+
+February 26, 2018
+
+Kelsey Lucas, University of Michigan
+
+February 6, 2018
+
+Janet M. Davis, University of Texas at Austin
+
+July 15, 2021
+
+Keira Monuki, University of California, Davis
+
+March 28, 2021
+
+Laura Lyon, McGill University
+
+November 25, 2020
+
+Mining agencies promise to minimize harm to ocean ecosystems. Scientists say we can't predict its full extent — or how to reverse it
+Ashley Marranzino, University of Rhode Island
+
+October 27, 2020
+
+Max G. Levy, Science and Health Journalism
+
+October 22, 2020
+
+Olivia Bernard
+
+August 16, 2020
+
+Sarah Brown, University of North Carolina - Chapel Hill
+
+November 10, 2021
+
+Elise Cutts, Massachusetts Institute of Technology
+
+May 18, 2021
+
+María Rodríguez-Salinas, Marine Biology
+
+April 17, 2021
+
+Sarah Heidmann, University of the Virgin Islands
+
+November 4, 2021
+
+Sahana Sitaraman, National Centre for Biological Sciences, India
+
+November 1, 2021
+
+Hayden Waller, Cornell University
+
+August 23, 2021
+
+Fascinating science stories, as told by scientists
+We're a community of scientists telling stories about all the truth and beauty in the universe. Subscribe to get the most interesting, enlightening, and entertaining science writing sent to you.
+We're a community of scientists telling fascinating, true stories about the science that's happening now.
+© 2017 – 2020 Massive Science Inc.

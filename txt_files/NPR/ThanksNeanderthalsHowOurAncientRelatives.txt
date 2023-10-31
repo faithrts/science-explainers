@@ -1,0 +1,54 @@
+By 
+
+
+   Aaron Scott
+  
+
+, 
+
+
+   Rachel Carlson
+  
+
+, 
+
+
+   Rebecca Ramirez
+  
+
+
+        With an antimicrobial resistance epidemic looming, some researchers are looking to solutions in molecular de-extinction.
+        
+          
+          altmodern/Getty Images
+          
+        
+hide caption
+
+With an antimicrobial resistance epidemic looming, some researchers are looking to solutions in molecular de-extinction.
+Antibiotics have changed the world. 
+They've made it possible to treat diseases that used to mean anything from discomfort to death. But no new classes of antibiotics have made it to the market since the 1980s. 
+What if humans' closest, ancient relatives held the answer to antibiotic resistance? 
+Some scientists like University of Pennsylvania bioengineering professor César de la Fuente want to discover new antibiotics using machine learning ... and some very, very old relatives. 
+Antibiotics have changed the world, making it possible to treat diseases that used to mean anything from discomfort to death. 
+But now, society faces a new problem. 
+"We're facing a silent pandemic where more and more bacteria are becoming resistant to available antibiotics," de la Fuente says.
+As a post-doctorate student at MIT, de la Fuente had an idea: What if machine learning could teach a computer how to innovate at a molecular level? 
+He and his team did just that — trained a computer to execute Darwin's algorithm of evolution. In 2018, they published, to their knowledge, the first study to use AI to find a new antibiotic.
+"It took initial antibiotics that were not very effective and it was capable of evolving them to become much more effective," he says. These new antibiotics killed bacteria in mice. 
+Next, de la Fuente and his collaborators used these computer models to dig through the proteins in the human body – the proteome – in search of tiny proteins called peptides that might play a role in the immune system. 
+They discovered over 2,500 peptides with anti-infective traits, and wondered: What if they turned their attention to extinct species in this hunt for new potentially antibiotic molecules?
+De la Fuente says organismal de-extinction, the conceit of Jurassic Park, kept coming up in brainstorming sessions. But instead of dinosaurs, they set their eyes on humans' closest ancestors: Neanderthals and Denisovans. 
+"Instead of bringing back entire organisms, why not just bring back molecules from the past to solve present day problems?" de la Fuente says. 
+De la Fuente says he and his team did just that – developed a machine learning model that could mine proteomic and genomic data from Neanderthals and Denisovans. The model finds sequences from archaic humans and predicts which ones would be good antibiotic candidates. 
+The next step? Resurrection. 
+"We use a technique called solid phase chemical synthesis, which essentially is like little robots that allow us to make the peptides and they make one amino acid at the time and then they link them in a chain to essentially get your final peptide, which again is a tiny protein," de la Fuente explains. "And then we expose them to bacteria that we grow in the laboratory and we see whether they're able to kill clinically relevant bacteria or not."
+They found several peptides that effectively killed bacteria in petri dishes, and tested them in animal models. 
+"In one of the mouse models, which was a skin infection model, one of the Neanderthal peptides was able to reduce the infection to levels comparable to a standard of care antibiotic called Polymyxin B," de la Fuente says. 
+They called it "neanderthalin-1" and, while the peptide itself is not potent enough to be an antibiotic on its own, de la Fuente says he and his team hope to use it and other peptides as templates for further study of anti-microbials.
+Want more on de-extinction? We've got you! Listen to our episode on the de-extinction of entire animals, like the dodo and woolly mammoth. 
+Have a question? Email us at shortwave@npr.org.
+Listen to Short Wave on Spotify, Apple Podcasts and Google Podcasts.
+This episode was produced by Rachel Carlson. It was edited by Rebecca Ramirez. The fact checker was Anil Oza, and the audio engineer was Patrick Murray. 
+Sponsor Message
+Become an NPR sponsor

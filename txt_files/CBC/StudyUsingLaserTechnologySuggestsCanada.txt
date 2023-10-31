@@ -1,0 +1,29 @@
+The largest sources of methane emissions from oil and gas sites are not the pieces of equipment commonly thought to be the main culprits, a new study from a leading Canadian researcher suggests.
+The result is that Canada may be underestimating its emissions of the potent greenhouse gas and may be overlooking effective ways to meet its reduction targets, says Matthew Johnson, director of the Energy and Emissions Lab at Carleton University and co-author of the paper.
+"This is suggesting it is time for a rethink," he told CBC News.
+"Maybe we can be a little bit more efficient in achieving reductions in going after the things that matter."
+The research, which relied on laser technology mounted on a plane that flew over oil and gas sites in British Columbia in 2019, suggests methane emissions are 1.6 to 2.2 times higher than current federal estimates.
+Methane, the chief component of natural gas, is released during oil and gas extraction from various pieces of equipment on a production site. It is about 70 times more potent as a heat-trapping greenhouse gas than carbon dioxide, but only lasts in the atmosphere for about nine years. Canada's goal is to reduce methane emissions 40-45 per cent below 2012 levels by 2025.
+Cutting down on methane is seen as a way to get more immediate positive benefits in the fight against climate change, but Canada can only do that if it knows where the colourless and odourless gas is coming from. 
+Regulations in Canada are mostly based on surveys that use optical gas imaging (OGI) cameras at oil and gas sites to detect sources of methane leaks. But the study suggests there is a "stark difference" between what the OGI surveys find and what the new airplane-mounted technology can see, and "policy and regulations relying on OGI surveys alone may risk missing a significant portion of emissions."
+More than half of methane emissions were attributed to storage tanks, reciprocating compressors and unlit flares, according to the study. Storage tanks were found to be a particularly concerning source of emissions, since they alone accounted for a quarter of methane emissions at oil and gas sites. 
+These sources are harder to detect with OGI surveys because they are elevated and might be missed by a camera at ground level.
+"So those three sources tend to be really quite important," Johnson said. "And if your entire inventory is based on camera work, then it starts to make sense why we keep seeing these persistent differences."
+Methane currently accounts for 13 per cent of Canada's total greenhouse gas emissions, based on official estimates, but multiple studies that rely on field measurements have suggested the actual amount of methane emitted is much higher. Until this new study, it was not known exactly which pieces of equipment were causing this discrepancy.
+Tom Green, policy analyst at the David Suzuki Foundation in Vancouver, has been following the methane issue closely. He says the new study's finding that methane emissions are likely much higher than the official estimates is unsurprising but still "alarming" due to the potential climate impact.
+"Right now, we're doing something quite unfair, which is that we're reporting relatively low methane emissions to the United Nations," Green said. 
+"For such a large country globally, in terms of where we fit in the natural gas exports, we should be doing much, much more and we should be showing leadership in this file."
+Green said a key issue is that the current regulations put too much emphasis on looking for leaks in general rather than identifying more basic problems.
+"When you see that like a quarter of emissions are coming from tanks, that's not a leak," Green said. 
+"That's the tank is designed to allow the methane to off-gas. So that's a design problem." 
+B.C. has brought in limits for the leaks from tanks, but the study found leak rates with tanks that are much higher than the limits. Federal methane regulations, which form a backstop to provincial regulations, don't directly regulate the leaks from compressors and unlit flares. 
+The study was done in collaboration with the B.C. government, which along with Alberta and Saskatchewan, has its own methane regulations. The federal government has granted the three provinces equivalency agreements to have their own regulations rather than have the federal regulations imposed on them.
+"The results of the new methane study require additional research and measurement to ensure we have the most accurate estimate of total emissions from the sector and we're continuing to support that effort," the B.C. Ministry of Environment and Climate Change Strategy said in a statement.
+The ministry said it will consider the new information while developing its detailed plan to meet its 2030 emissions targets, to be released later this year.
+In a statement to CBC News, Environment and Climate Change Canada acknowledged the uncertainties in estimating methane emissions and said it is working on improving the methodology of its official estimates. 
+"ECCC will review the author's research for its relevance for both the evaluation of existing regulations, and regarding the development of new policy options to further reduce methane emissions from the oil and gas sectors."
+Audience Relations, CBC P.O. Box 500 Station A Toronto, ON Canada, M5W 1E6 
+Toll-free (Canada only): 1-866-306-4636
+It is a priority for CBC to create products that are accessible to all in Canada including people with visual, hearing, motor and cognitive challenges.
+Closed Captioning and Described Video is available for many CBC shows offered on CBC Gem.
+

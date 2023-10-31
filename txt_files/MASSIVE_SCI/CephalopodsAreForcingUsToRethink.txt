@@ -1,0 +1,129 @@
+Massive en español
+Noticias de ciencia
+COVID-19
+The facts about COVID-19, straight from scientists
+Butt Month
+The science of butts, poop, and intestines
+Surviving the Anthropocene
+Adapting to endure humanity's impact on the world
+Science Heroes
+Women in STEM you may not have heard of
+Mind Control
+Dispatches from the frontiers of neuroscience
+Food for Thought
+Making agriculture safe, healthy, and sustainable
+Breakthroughs
+Interviews with cutting-edge scientists
+
+A version of this story originally appeared on
+MiSciWriters
+
+Octopuses, squids and cuttlefish should technically be colorblind. So how do they camouflage so well?
+
+Ada Hagan
+
+
+Microbiology
+
+
+University of Michigan
+
+Cephalopods—octopuses, cuttlefish, and squids—are masters of camouflage, altering their skin color and texture to blend into their surroundings. And some cephalopods use bright colors as mating displays. But based on what scientists know about cephalopods’ eyes, they should be color-blind. So why use color to attract mates? And how can they mimic colors with such incredible accuracy?
+This question has stumped scientists for decades, and was a burning childhood question for Alexander Stubbs, a graduate student at the University of California at Berkeley. In a recent journal article, he and his father, a Harvard astrophysicist, report that they may have stumbled on the answer. According to the pair, their findings “may force us to rethink what it means to be a color-blind animal.”
+The anatomy of a human eye.
+Matticus78 via Wikimedia Commons
+Shifting our eyes to focus on objects near, far, and near again is something we do all the time. Human eyes function by focusing a single source of light through our cornea to a single point on the retina. When light hits our eyes, the cornea, pupil, and lens work together to focus the light on the retina at the back of the eye. Photoreceptor cells in the retina interpret color (cones) and contrast (rods), and direct the signal to the brain. To switch focus between objects at different distances, like from the screen of your phone to the crosswalk, small muscles in the eye contract, altering the curve of the lens to correct for distance.
+Like human eyes, cephalopod eyes are also “camera-like,” and include a lens and a retina. However, the human eye has a small pupil centered in the middle of the eye. Cephalopods have large pupils that are either centered in the eye, in the case of octopuses or squids, or oddly U-shaped, like with cuttlefish. And while human eyes have multiple types of photoreceptor cells, cephalopods only have one type.
+The realization that cephalopods have only one type of photoreceptor cell put scientists in an awkward position, since earlier studies indicated that cephalopods could distinguish between colors. Scientists have spent the last 20 years trying to reconcile those seemingly conflicting pieces of data and concluded that instead of colors, cephalopods were distinguishing between shades of grey. However, Stubbs and Stubbs believe that cephalopods perform a process called chromatic blurring to see colors, making them far from color-blind.
+From left to right: octopus, squid, and cuttlefish
+Octopus: Mgiganteus. Squid: wildxplorer. Cuttlefish: Alexander Vasenin.
+When light passes through a lens or prism, each color of light is refracted at a different angle. Consider a rainbow. The separation of sunlight into the familiar ROYGBIV color spectrum occurs because it is refracted through raindrops. But because each color of light is refracted at a different angle, it causes them to come into focus at different distances from a lens, like your eye or a camera. This is called chromatic aberration. You don't notice this effect because a rainbow is so far away that your brain doesn't recognize the colors are out of focus.
+Left: chromatic aberration, where each wavelength of light has a different focal point after being refracted. Right: Microscopes correct for this by creating an achromatic doublet, combining two different lenses.
+Illustration by Bob Mellish via Wikimedia Commons
+For scientists, however, chromatic aberration is a source of frustration because it can cause images under a microscope to appear blurry. We correct for that by combining two lenses of different materials which refract light differently. These lenses, which are called an achromatic doublet, bring the focal points of colors closer together.
+But cephalopods may have turned this property of light to their advantage. Instead of adjusting the lens and shifting focus between objects at different distances, like we do, the structure of the cephalopod eye might cause them to instead shift focus between different wavelengths, or colors, of light.
+Cephalopod eyes seem to have two traits that make this possible. First, their cornea isn't effective at refracting light underwater, and doesn't correct for chromatic aberration (whereas human eyes do). Second, they have large pupils that let in lots of light. That's helpful for seeing at all in cephalopods' dimly lit, underwater habitats, but it may also help enhance the process by increasing their field of vision.
+Neither Stubbs studies cephalopods in the lab, so the authors built a computer model to test their hypothesis. They looked at lots of variables, including features of cephalopod eyes, pupil types, and even how light travels through seawater. When given information about light coming from theoretical fish, the program “modeled” a cephalopod eye and brain, reporting what it might see. The authors demonstrated that they could determine a fish’s color based on when its image went in and out of focus.
+The pair explained that using chromatic blurring as a form of color vision "is more computationally intensive than other types of color vision, such as our own, and likely requires a lot of brainpower." And because this experiment didn’t include live animals, it doesn’t prove that this is how the cephalopod brain interprets what the eyes see.
+Can you spot the camouflaged cephalopod?
+Collage via PNAS July 19, 2016 vol. 113 no. 29 8206-8211
+However, the authors noted that their results could be easily tested with live animals by seeing how they respond to three-dimensional colored surfaces that increase chromatic aberration instead of the two-dimensional surfaces typically used in the lab. Their data also fit well with previous studies demonstrating that cephalopod lenses don't correct for chromatic aberration like human eyes do and that cephalopods can alter their camouflage according to different colors. To date, this is the best explanation available for the contradicting data regarding cephalopod ability and eyesight.
+The authors go on to suggest that other species may also take advantage of chromatic aberration. Dolphins and some spider species have eyes with uncorrected chromatic blurring and seem to be able to distinguish between colors under certain conditions. It's a common myth that cats and dogs are color-blind. In fact, they merely have a more limited color spectrum compared to humans due to fewer photoreceptor cell types. But if the authors are correct, the pupils of cats may enable them to also take advantage of chromatic aberration, which might be particularly advantageous at night when there is less light.
+If cephalopods are using a natural property of light to see color despite their biological limitations, we should rethink what it means to be color-blind. I'm starting to wonder if it's even possible for animals to be truly color-blind, or if nature will always find a way to visualize the world in multiple wavelengths.
+With 500 million neurons dispersed throughout the body, some say they have 9 brains
+Julia A Licholai, Brown University
+
+November 12, 2021
+
+Ashley Marranzino, University of Rhode Island
+
+March 8, 2020
+
+Allan Lasser
+
+November 14, 2018
+
+
+May 3, 2017
+
+Meredith Schmehl, Duke University
+
+July 31, 2020
+
+Anisha Kalidindi, Ohio State University
+
+March 7, 2020
+
+Brittney G. Borowiec, Wilfrid Laurier University
+
+January 22, 2018
+
+Claudia López Lloreda, University of Pennsylvania
+
+May 28, 2021
+
+Elliot Eva Ping, Ohio State University
+
+May 26, 2020
+
+The CRISPR gene therapy for Leber's Congenital Amaurosis is injected directly into the body
+Ankita Arora, University of Colorado
+
+April 17, 2020
+
+Briley Lewis, University of California, Los Angeles
+
+October 11, 2021
+
+Dori Grijseels, University of Sussex
+
+June 3, 2020
+
+Sarah Anderson, Northwestern University
+
+November 15, 2019
+
+Sarah Heidmann, University of the Virgin Islands
+
+November 4, 2021
+
+Keira Monuki, University of California, Davis
+
+March 28, 2021
+
+Brittney G. Borowiec, Wilfrid Laurier University
+
+August 25, 2020
+
+Olivia Box, University of Vermont
+
+May 22, 2020
+
+Seth Sykora-Bodie, Duke University
+
+August 16, 2019
+
+Fascinating science stories, as told by scientists
+We're a community of scientists telling stories about all the truth and beauty in the universe. Subscribe to get the most interesting, enlightening, and entertaining science writing sent to you.
+We're a community of scientists telling fascinating, true stories about the science that's happening now.
+© 2017 – 2020 Massive Science Inc.

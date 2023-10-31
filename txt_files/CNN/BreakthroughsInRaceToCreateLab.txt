@@ -1,0 +1,154 @@
+
+Sign up for CNN’s Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.
+
+
+   It’s still one of the biggest mysteries in science: How does a human cell — too small to see with the naked eye — divide and reproduce to ultimately become a human body made up of more than 30 trillion cells?
+
+
+   From the moment sperm fuses with an egg, human embryo development involves a string of complex and little understood processes. Much of what is known about embryo development comes from animals such as mice, rabbits, chickens and frogs, with research on human embryos very tightly controlled and regulated in most countries.
+ 
+
+   But animal studies can only tell researchers so much. What happens during human embryo development, particularly in the crucial first month, remains largely unknown.
+ 
+
+   “The drama is in the first month, the remaining eight months of pregnancy are mainly lots of growth,” said Jacob Hanna, a professor of stem cell biology and embryology at the Weizmann Institute of Science in Israel. “But that first month is still largely a black box.”
+ 
+
+   Being able to peer into that black box would open up a world of biomedical possibilities, allowing scientists to demystify a previously obscure window of embryo development — ultimately leading to a better understanding of miscarriages, congenital birth defects and the side effects of medications taken during pregnancy. And some researchers believe they’ve found a way to do it that bypasses the need for eggs or sperm.
+ 
+
+   Harnessing advances in stem cells, labs around the world are making embryo-like structures — a group of cells that acts like an embryo but can’t grow into a fetus.
+ 
+
+   Recent breakthroughs in the field, the culmination of years of painstaking lab work, have generated hope and some alarm, raising urgent questions about the ethical status of these models, to what extent they should be treated like human embryos and whether they are open to misuse.
+ 
+
+   The embryo-like structures are essentially clumps of cells grown in a lab, which are smaller than a grain of rice and represent the very earliest stages of human development, before any organs have formed. They don’t have a beating heart or a brain.
+ 
+
+   The most advanced models, revealed in September by an Israeli team that Hanna was part of, show all the cell types that are essential for an embryo’s development — the placenta, yolk sac, chorionic sac (outer membrane) and other tissues that an embryo needs to develop.
+ 
+
+   The structures were left to develop for eight days — reaching a developmental stage equivalent to day 14 of a human embryo in the womb — an important moment when natural embryos acquire the internal structures that enable them to proceed to the next stage: developing the progenitors of body organs.
+ 
+
+   Hanna said they were the most accurate models developed so far and, unlike those created by other teams, no genetic modification had been made to turn on the genes necessary to generate the different types of cells, only chemical nudges.
+ 
+
+   “It’s not only you put the cells together, and they’re there,” he said. “But you see the architecture, you start also seeing very fine details,” Hanna said.
+ 
+
+   Hanna’s team made no use of fertilized eggs. They started out with human cells known as pluripotent stem cells, which have the potential to be programmed into many cell types and are widely used in biomedical research. Some of them were derived from adult human skin cells.
+ 
+
+   The team then reprogrammed these cells into what they term a “naïve state” — corresponding to day seven in the development of a natural human embryo, around the time it implants itself in the womb. These “naïve” cells were divided into three groups.
+ 
+
+   One group, intended to become the embryo, was left untouched. The two other groups were “nudged” with the use of certain chemicals that turn on specific genes to develop into the tissues needed to sustain the embryo, such as the placenta. After two days, the three groups are then put together, Hanna said.
+ 
+
+   “In the first three days, you don’t see much, you just see a clump of cells that is growing,” he explained. “But by day four, you start seeing … this has a structure, you know, you can see where the embryo is going to form … and see where the yolk sac is going to be.”
+ 
+
+How human gene editing is moving on after the CRISPR baby scandal
+
+
+   At the stage equivalent to day seven, the synthetic human embryo models were aggregates of about 120 cells, together measuring some 0.01 millimeter across. By day 14, they contained about 2,500 cells and measured 0.5 millimeters.
+ 
+
+   Hanna and his team say the models faithfully emulate the way an early embryo gains all the structures it needs to begin its transformation into a fetus. The inner organization matched images in embryology atlases produced in the 1960s, and when they applied secretions from the cells to a commercial pregnancy test it came out positive.
+ 
+
+   However, only 1% of the aggregated cells went on to self-organize into an embryo-like structure. A much higher percentage would be needed to make the embryo models a useful tool for scientists, something that is possible, Hanna said, but would likely take years to perfect.
+ 
+
+   “I think we will be able to learn an awful lot from these stem-cell based embryo models. There are some drawbacks at the minute. They’re very inefficient to make … so clearly the efficiency has to be increased to really maximize what we can learn from these models,” said Peter Rugg-Gunn at a news briefing this week. Rugg-Gunn is group leader and head of public engagement at the Babraham Institute, which focuses on life science research.
+ 
+
+   To date, none of the embryo models have been grown beyond the equivalent of 14 days, largely because of the limitations and challenges involved in culturing these structures.
+ 
+
+   However, 14 days is an important milestone because it is when permitted lab research on cultured human embryos routinely ends. The boundary was established by the United Kingdom’s Fertilisation and Embryology Act in 1990 in the wake of public concern about test tube babies before in vitro fertilization was widely accepted, as well as worries that scientists were ignoring the special moral status of human embryos. The 14-day rule was subsequently adopted by several other countries, eventually becoming an internationally recognized ethical limit.
+ 
+
+   This limit, which some scientists want to extend, doesn’t apply to stem-cell based embryo models, which the International Society for Stem Cell Research said should not be considered as embryos. However, the organization did recommend that research involving the models have required ethical oversight. 
+
+
+   It’s possible in the future that these models could be used to study human development well beyond the 14-day point. Hanna and other groups have grown mouse embryo models to a later equivalent point. He said, in the future, it might be possible to go as far as 40 days with human embryo models.
+ 
+
+   However, dystopian fears that scientists studying the models are trying to create an alternative way to produce human life are the stuff of science fiction, Hanna said.
+ 
+
+   “People think immediately we’re trying to, you know, replace pregnancy or gestation with this embryo model, but it’s really not, not only is it not the goal but also I don’t think it’s ever going to be possible,” he said.
+ 
+
+   As current research stands, embryo models are still rudimentary, with clear scientific differences from a human embryo and no potential to form a fetus.
+ 
+
+   Also, the International Society for Stem Cell Research prohibits the transfer of any embryo model to the uterus of a human or an animal in its guidelines.
+ 
+
+   “I want to stress that these models are not embryos and every jurisdiction and society… that’s been looking at this have said it should be illegal to attempt to plant any stem cell-based embryo into a woman or human ones into an animal uterus. That should be forbidden,” said Robin Lovell-Badge, a professor and head of the Laboratory of Stem Cell Biology and Developmental Genetics at the Francis Crick Institute in London, who helped draft the guidelines, at the briefing.
+ 
+
+   Many scientists argue that human embryo models, especially if they can be produced in great numbers, offer an ethical alternative to research on scarce and precious human embryos that are usually obtained as a by-product of IVF.
+ 
+
+   “Because of their stem cell base, we can scale everything up. We can do experiments on them that we are not able to do on precious, rare (human) embryos. And so it just changes the types of experiments we can do and the questions we can answer,” said Naomi Moris, group leader at the Francis Crick Institute’s Developmental Models Laboratory in London.
+ 
+
+Scientists create mice from two dads after making eggs from skin cells
+
+
+   One potential application could be drug screening and research. Pregnant people have often been excluded from drug trials because of concerns about the safety of the parent and unborn child.
+ 
+
+   In her lab, Moris has conducted experiments with embryo models to see how they respond to medications like thalidomide, a drug that was once marketed as a treatment for morning sickness that is already known to cause birth defects.
+
+
+   The goal was to find out “are they susceptible to these drugs that we know are going to be toxic to the early embryo and then can we use (the embryo model) to screen drugs we actually don’t know about?” she said.
+ 
+
+   Moris agreed that the models shouldn’t be classified as embryos given their stem-cell origins and because they still lack certain features, however, she noted it was impossible to know for sure.
+ 
+
+   “We can’t do the golden experiment which would be to put it into uterus and see if it can carry on growing, and without being able to do that experiment — quite rightly — how can we as researchers decide whether we’ve crossed that boundary and tipped over into what we would call an embryo? I think this is a big question. And it’s not an easy one to answer,” Moris said.
+ 
+
+   Some in the field envision a “tipping point” wherein human embryo models might be afforded some protection like those surrounding human embryos, as scientific advances diminish the differences between the embryo models and their real-life counterparts.
+ 
+
+   It’s also possible that future stem cell-based models could replicate the development of milestones such as the emergence of primitive neural folds, arms buds and early heart-like regions, which may have the potential to develop into beating heart tissue, circulating blood and neurons, according to a paper on the need for national policy and governance on human embryos published in the journal Genetics & Development in August.
+ 
+
+   “With yet further advances, it will become increasingly difficult to be certain that the models could not reach the point of pain perception, consciousness or viability,” the paper’s authors noted.
+ 
+
+   “Thus the public will soon ask, quite rightly, whether … (embryo models) are appropriately regulated? Are scientists using them in ethically responsible, socially acceptable and suitably accountable ways?”
+ 
+
+   Hanna believes that it will be possible to design and genetically modify human embryo structures so that they will be developmentally limited — unable to produce brain cells or heart tissue — allowing scientists to navigate some of the ethical issues.
+ 
+
+   Researchers agree that the emerging field needs better regulation as the research advances, addressing what should and should not be permitted.
+ 
+
+   “The law is obviously lagging way behind the science and technology,” Moris said.
+ 
+
+   “I think that we’re quite keen as researchers to be pushing at the forefront … to get regulation in place,” she added. “Because scientists like working within lines, we feel much more comfortable if we know we’re on the right side of the public perceptions of the field. We’d be a lot happier if we had a clear set of guidelines and regulations that we should all work under.”
+ 
+
+Human DNA can now be pulled from thin air or a footprint on the beach. Here’s what that could mean
+
+
+   In the UK, the Governance of Stem-Cell Based Embryo Models project, which Moris is involved in, has convened academic researchers, legal scholars, bioethicists and research funders to prepare a set of guidelines for working with the technology. The group expects to publish a draft governance framework in the new year, Moris said.
+ 
+
+   Bobbie Farsides, a professor of clinical and biomedical ethics at Brighton and Sussex Medical School, who is also part of that group, said that what was remarkable to her was that scientists themselves are deeply engaged with the ethical issues.
+ 
+
+   “When I first worked in these sorts of spaces, it very much felt like society or the public that were worried and the lawyers and the regulators were trying to sort out the scientists,” Farsides said. “What we’ve got now is the scientists themselves saying, ‘OK, how are we going to reassure the public? How are we going to self-regulate? Where are we going to draw red lines?’ And I think that’s a huge sea change.”
+ 
+© 2023 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved. CNN Sans ™ & © 2016 Cable News Network.

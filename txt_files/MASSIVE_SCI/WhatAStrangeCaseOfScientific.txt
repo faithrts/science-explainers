@@ -1,0 +1,145 @@
+Massive en español
+Noticias de ciencia
+COVID-19
+The facts about COVID-19, straight from scientists
+Butt Month
+The science of butts, poop, and intestines
+Surviving the Anthropocene
+Adapting to endure humanity's impact on the world
+Science Heroes
+Women in STEM you may not have heard of
+Mind Control
+Dispatches from the frontiers of neuroscience
+Food for Thought
+Making agriculture safe, healthy, and sustainable
+Breakthroughs
+Interviews with cutting-edge scientists
+ Photo by freestocks.org on Unsplash
+New research shows that BPA-free plastic might still be harmful
+
+Jackie Grimm
+
+
+Molecular Biology
+
+
+Princeton University
+
+Plastic is everywhere: water bottles, dental sealant, the odd floating trash island. Over the years, researchers have raised the alarm about how chemicals from plastics might affect human health, often focusing on one chemical in particular: bisphenol A (BPA).
+BPA is used to make a hard, clear type of plastic called polycarbonate. It's so ubiquitous that a 2009 study conducted by the Centers for Disease Control found that of the 2,517 people they tested, nearly all of them had detectable levels of BPA in their urine. The story of how BPA came under suspicion is a weird one, and new research hints that BPA-free plastic alternatives may not actually be any safer. 
+BPA is found in many plastic products that we use every day.
+ Photo by Jonathan Chng on Unsplash
+It all started 20 years ago, when researchers in the lab of geneticist Patricia Hunt realized that something was very wrong with their mice.
+The process of making a healthy egg cell involves a series of cell divisions, during which chromosomes (the long strands of DNA that make up an organism's genome) are divided up into the newly-formed cells. If something goes wrong and the cells end up with an abnormal number of chromosomes, that's usually a very serious problem. The researchers in Hunt's lab were studying this process when suddenly the egg cells of their mice--including the ones that were supposed to be normal--started showing major genetic abnormalities. Something in the environment of these mice was causing their egg cells to have problems dividing. It turned out that the problem was the plastic cages.
+The mice were living in cages made of polycarbonate. A worker had accidentally used a harsh detergent to clean them, which caused them to release BPA. When the researchers replaced the cages, the egg cells went back to normal, and when they tried giving the mice BPA on purpose, the egg cells had the same problems as before. The researchers concluded that BPA, a chemical found in everything from water bottles to cash register receipts, is capable of causing genetic abnormalities in mice.
+Since then, there's been a flurry of research into whether BPA also affects human health, and if so, at what dose? The cardinal rule of toxicology is "the dose makes the poison." Almost anything can be toxic at high doses and many substances that are lethal in large quantities are perfectly safe in trace amounts. But chemicals like BPA, which is similar to the hormone estrogen, can behave very differently. Typically, if a substance is toxic, one expects that as the dose increases, its effect will become more and more severe. But hormones can behave in less predictable ways. They can have big impacts at very small doses, less of an impact as the dose increases, and then a big impact again at a high dose--which makes them harder for toxicologists to pin down.
+The current perspective of the United States Food and Drug Administration is that BPA exposure is safe at typical levels, based in part on research showing that humans break down and excrete BPA much more quickly than rodents. But over the past decade, due to consumer concern, plastic manufacturers have started to replace BPA with other, similar types of chemicals and market this "BPA-free" plastic as a safer alternative. That's when the story gets even more bizarre.
+Just this past year, researchers in Hunt's lab had another shock when, yet again, they noticed a sudden spike in genetic abnormalities. This time, they knew exactly where to look. When they checked the cages, they realized that they were covered in a white residue, indicating that the plastic had been damaged and was breaking down.
+The potential health impacts of BPA and BPS are still under investigation.
+ Photo by Drew Hays on Unsplash
+The new cages were made of a different type of plastic called polysulfone, which is harder to break down than polycarbonate. But when it does get damaged, it can break down to form both BPA and a similar chemical called bisphenol S (BPS). When they tested the white residue on the cages, that's exactly what they found.
+The researchers wanted to test whether BPS, like BPA, could also cause genetic abnormalities. Unsurprisingly, since the chemicals are similar, they found that it could, in both males and females, and that BPS didn't just affect the animals that were directly exposed, but resulted in abnormalities that persisted for several generations.
+So, does this mean we should all go home and throw out all our plasticware? Maybe, maybe not. Humans have different metabolisms than mice, so it's completely possible that consuming the same substance could have a different impact on us, or have no impact at all. The potential health impacts of BPA and related chemicals are a major topic of research and the question of whether they are truly dangerous is still a matter of some debate. At the very least, it's a good idea to throw away plastic that is visibly damaged and switching to glass, metal, or paper whenever possible certainly can't hurt. And when it comes to plastics that are marketed as safer alternatives to BPA--think twice before believing the hype.
+We ask other scientists from our Consortium to respond to articles with commentary from their expert perspective.
+
+Kevin Pels
+
+
+Chemical Biology
+
+
+Dana-Farber Cancer Institute
+
+Definitely the type of finding that raises more questions, such as how widely adopted are BPS crosslinkers used in consumer products that are marketed at BPA-free? Is that sort of information easily accessible to consumers? Here’s my n-of-1 attempt to answer: I looked up my own Tritan (copolyester, not polycarbonate) water bottle that I use every day, but I couldn’t find the chemical formulation. There are probably dozens of formulations with varying crosslinker ratios for different properties all called Tritan, and I wasn’t able to easily discern which one was used in molding my bottle. For what it’s worth, Eastman says Tritan is both BPA- and BPS-free…but this line from the research article was particularly ominous to me: 
+“Further, as replacement bisphenols illustrate, it is easier and more cost effective under current chemical regulations to replace a chemical of concern with structural analogs rather than determine the attributes that make it hazardous.”
+
+Laetitia Meyrueix
+
+
+Nutrition
+
+and Epigenetics
+
+
+University of North Carolina - Chapel Hill
+
+The issue you bring up is really a big case of deja vu and a huge issue with environmental health and toxicology. In order to ban substances like BPA, there is a long process of research to prove a substance causes harmful effects. Once you prove a substance is harmful, a policy needs to be created to regulate the substance in industry. This process can take several years and even when you do get a policy in place, those substances can be easily reformulated and the whole cycle has to start over from scratch. In North Carolina, we are dealing with a situation similar to BPA with PFOAs. PFOAs were shown to be harmful to human health and its successor was GenX. GenX is being shown to be just as harmful as PFOAs. Big case of deja vu. Thanks for the piece! 
+New study identifies the molecules of a key lemur scent, but experts hesitate to call them pheromones
+Max G. Levy, Science and Health Journalism
+
+April 16, 2020
+
+Fiona Scott, University of Sussex
+
+October 6, 2019
+
+Hannah Norman, Kaiser Health News
+
+April 2, 2021
+
+Joris Wijnker, Utrecht University
+Paul Overgaauw, Utrecht University
+
+March 27, 2021
+
+Francesco Zangari, University of Toronto
+
+March 7, 2021
+
+Michele Cohen Marill, Kaiser Health News
+
+February 16, 2021
+
+Carl Philpott, University of East Anglia
+
+October 5, 2020
+
+JoNel Aleccia
+
+February 20, 2020
+
+Matthew Bomkamp, University of Florida
+
+November 29, 2021
+
+Fasting reduces high blood pressure in rats by changing the gut microbiota composition. But fasting still shouldn't be a go-to yet
+Mihaela Bozukova, Max Planck Institute for Biology of Ageing
+
+November 15, 2021
+
+Carolyn Wilke, Science Journalism
+
+June 28, 2021
+
+Darcy Shapiro, Rutgers University
+
+August 31, 2020
+
+Dan Samorodnitsky, Senior Editor
+
+June 8, 2020
+
+Shefali Oza, London School of Hygiene and Tropical Medicine
+
+April 27, 2020
+
+Soren Emerson, Vanderbilt University
+
+September 20, 2021
+
+Anna Wernick, University College London
+
+January 19, 2021
+
+Josseline Ramos-Figueroa, University of Saskatchewan
+
+June 18, 2020
+
+Juliette Strasser, University of Texas
+
+February 11, 2021
+
+Fascinating science stories, as told by scientists
+We're a community of scientists telling stories about all the truth and beauty in the universe. Subscribe to get the most interesting, enlightening, and entertaining science writing sent to you.
+We're a community of scientists telling fascinating, true stories about the science that's happening now.
+© 2017 – 2020 Massive Science Inc.

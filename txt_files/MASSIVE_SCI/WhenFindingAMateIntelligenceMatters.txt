@@ -1,0 +1,134 @@
+Massive en español
+Noticias de ciencia
+COVID-19
+The facts about COVID-19, straight from scientists
+Butt Month
+The science of butts, poop, and intestines
+Surviving the Anthropocene
+Adapting to endure humanity's impact on the world
+Science Heroes
+Women in STEM you may not have heard of
+Mind Control
+Dispatches from the frontiers of neuroscience
+Food for Thought
+Making agriculture safe, healthy, and sustainable
+Breakthroughs
+Interviews with cutting-edge scientists
+ Uschi_Du on Pixabay
+A new study finds that female budgies are attracted to smarter partners
+
+Therese Koch
+
+
+Neuroscience
+
+"Survival of the fittest" can’t explain all animal traits. Take bright-colored patterns or bird songs, for example. If anything, these should make animals more obvious prey. There's another explanation for ostentatious colors and loud singing though. Female mating preferences are an essential driver of evolution, and a recent paper has revealed the first direct link (in a non-human species) between female mating preference and intelligence. 
+According to the research, published in the journal Science, female budgerigars (or budgies), small, colorful parrots native to Australia, prefer spending time with males that can solve puzzles. This evidence that female birds can and do assess male cleverness when selecting mates confirms an important hypothesis that Charles Darwin made back when he first proposed the theory of evolution.
+A pair of budgies clean each other's feathers
+ Kadisha on Pixabay
+Producing babies and taking care of them requires a lot of time and energy, for female animals in particular (at least in most species), so it is in their best interest to find a mate that will help produce the best possible offspring. Females can use cues like complex songs and feather color to see how healthy, clever, and well-fed a potential mate is, indicating that he is more likely to have healthy, clever, and well-fed children. Over generations, this will lead to animals with brighter feathers and better songs, since the best birds will have more offspring that will inherit their attractive traits and continue passing them on. 
+This idea - which Charles Darwin called intersexual selection or mate choice - is one of the main drivers of evolution, and can explain some of the most impressive traits in the animal kingdom, from peacock feathers, to lions’ manes, to dancing spiders. The most impressive trait where it may have played a role, however, is in the evolution of intelligence. Darwin thought that this was quite likely because intelligent mates could take better care of their partners and offspring, and because the brain is so complex that any genetic or developmental issues are likely to be apparent in the brain’s ability to function. 
+This idea that female animals would prefer smarter mates seems simple, but it is actually quite challenging to test, for a number of reasons. First, it’s hard for us as humans to compare the intelligence of different animals; all species have different types of tasks they particularly excel at, so we need specially tailored tests for every species. Second, even if we can tell that a certain male is smarter than another, it’s hard to tell if that intelligence is what a female is basing her mating decisions on. The new study, conducted by researchers at Leiden University in the Netherlands and the Chinese Academy of Sciences, came up with an ingenious solution to both of these issues; instead of just trying to find smarter or dumber birds, the scientists trained birds to solve a "puzzle box" to get food, a skill which the birds could then show off to the female.
+First, they showed a female budgie two different male budgies, and looked at who she spent more time with as a way to tell who she liked better. Then they took her less-preferred male and trained him to solve the puzzle box. A few days later, the female could watch her favorite male struggle and fail to solve the puzzle while her formerly less-preferred male figured it out. When they tested her preference again after that demonstration, she spent more time with the puzzle solver. This shows that the puzzle-solving specifically is what made her change her mind. 
+Flashy peacock feathers are easy to spot by predators, but they also attract female peacocks
+Adrian Pingstone on Wikimedia Commons
+They also tested females on a version of this experiment where she could see her less-preferred male eating seeds without having to solve any puzzles while her preferred male didn’t get any seeds. Without the puzzle box component, this didn’t change the female’s mind, suggesting that she wasn't just paying attention to who was eating, she was paying attention to how they got the seeds. To be sure that this preference was a mating preference and not just friendliness or curiosity on the part of the female, they also tested her preference with a pair of female demonstrators; the test female wasn’t swayed by the puzzle-solving in this situation, suggesting that she is specifically interested in potential mates’ puzzle-solving skills. Unfortunately, this still doesn’t rule out the possibility that the male solving the puzzle didn’t show off some other skill (like strength in lifting the lid in the final step) that swayed the female, rather than intelligence. That said, this is the best evidence to date that non-human animals prefer smarter mates. 
+Armed with the knowledge that female budgies prefer clever mates, there are a few more key questions to answer in order to complete our understanding of Darwin’s mate choice theory. We need evidence that smarter mates are actually better mates, and that females do base mating decisions on the intelligence of males in the wild. A number of studies have shown that different traits linked to intelligence (like brain size) can be passed down genetically, which lends support to the first remaining idea. More studies are needed on different species both in controlled lab settings and in the wild to assess the extent to which mate choice and intelligence are linked in a broader context. 
+We ask other scientists from our Consortium to respond to articles with commentary from their expert perspective.
+
+Maiko Kitaoka
+
+
+Cell Biology
+
+
+UC Berkeley
+
+This is really cool! Well-written and brings up a lot of questions about mate selection.
+This is species-dependent, but I’m wondering how much male preference for females is also considered in mate selection? The study only shows a female-based preference for males, but do males also prefer smarter females? There are also many species where the male does not take care of the offspring, so the argument that more intelligent males will take better care of their offspring is not necessarily true for those species - how does male intelligence affect female preference in that case?
+More specifically to the methods of the study, did they consider the male’s memory of learning the puzzle repeatedly as a factor? A male might complete the puzzle faster if they are familiar with it, and speed might influence a female’s choice or interpretation of a male’s intelligence.
+
+Sophie Okolo
+
+
+Health Technology
+
+Great piece! Do we know why the budgies species place more emphasis on intelligence? Do other female species prefer intelligence to the same extent? I’m also curious whether other species compare intelligence and mate selection! Just like Maiko said, there are many species where the male does not take care of the offspring, take the male lion for instance. Males take no part in helping to raise the young and females don’t seem to care. Perhaps intelligence is linked to protecting the lion pride against other males, which in itself, takes great effort, skill, and hard work. 
+Needles are everywhere in nature, evolving independently many times in a variety of organisms
+Hayden Waller, Cornell University
+
+November 22, 2021
+
+Sree Rama Chaitanya, Molecular Biology
+
+November 7, 2021
+
+Rita Ponce, Polytechnic Institute of Setúbal
+
+June 27, 2021
+
+Brittany Kenyon-Flatt, North Carolina State University
+
+April 27, 2021
+
+Francesco Zangari, University of Toronto
+
+March 7, 2021
+
+Attabey Rodriguez Benitez, Science Friday
+
+January 20, 2021
+
+Kareem Clark, Virginia Polytechnic Institute and State University
+
+October 8, 2021
+
+Fernanda Ruiz Fadel, Advanced Identification Methods GmbH
+
+October 7, 2021
+
+Hayden Waller, Cornell University
+
+September 30, 2021
+
+Male butterflies want monogamy. Females, not so much.
+Lauren J. Young
+
+February 2, 2021
+
+Allison Fritts-Penniman, Ecology
+
+November 22, 2020
+
+Kendall Powell, Knowable Magazine
+
+July 9, 2020
+
+Sahana Sitaraman, National Centre for Biological Sciences, India
+
+May 2, 2021
+
+Sukanya Ramani, Prayoga Education Research Centre
+
+October 11, 2020
+
+Sahana Sitaraman, National Centre for Biological Sciences, India
+
+November 17, 2021
+
+Tom Langen, Clarkson University
+
+December 14, 2020
+
+Sam Zlotnik, University of Florida
+
+November 1, 2020
+
+Maddie Bender, Yale University
+
+September 25, 2020
+
+We think you'll like this
+Keep your mind sharp with the smartest science around. Get new stories about the science behind brains and mental health delivered right to you.
+We're a community of scientists telling fascinating, true stories about the science that's happening now.
+© 2017 – 2020 Massive Science Inc.

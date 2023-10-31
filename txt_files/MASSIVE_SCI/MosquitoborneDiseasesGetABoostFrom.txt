@@ -1,0 +1,130 @@
+Massive en español
+Noticias de ciencia
+COVID-19
+The facts about COVID-19, straight from scientists
+Butt Month
+The science of butts, poop, and intestines
+Surviving the Anthropocene
+Adapting to endure humanity's impact on the world
+Science Heroes
+Women in STEM you may not have heard of
+Mind Control
+Dispatches from the frontiers of neuroscience
+Food for Thought
+Making agriculture safe, healthy, and sustainable
+Breakthroughs
+Interviews with cutting-edge scientists
+ Sgt. Jose Diaz-Ramos from the U.S. Dept. of Defense
+Bugs like it hot, and evolve faster when there's lots of carbon dioxide
+
+Max G. Levy
+
+
+Science and Health Journalism
+
+and Chemical Engineering
+
+We often think of climate change in terms of extreme weather, but the impacts of global warming will extend far beyond natural disasters. Scientists suggest climate change will also make more of the world hospitable to mosquitoes—and the diseases they carry. To make matters worse, new research shows that climate change may also be supercharging mosquito evolution.
+Zika, West Nile, and dengue are just a few of the deadly viruses that depend on mosquitoes to spread. Human diseases like these are also carried by animals like birds and rodents, who don't always show symptoms. But if a mosquito bites an infected animal, it can later transmit the disease to other animals, including humans. That's why many disease prevention efforts focus on controlling mosquito populations—a task that's about to become a lot harder.
+Mosquito species differ in exactly how, and where, they lay their eggs—but they all like water. Some species lay their eggs in soil, others directly in ponds or in flooded containers. The eggs are sensitive to humidity, and, in the case of soil-bound eggs, heavy rainfall actually causes them to hatch. As climate change makes many places warmer, wetter—and more prone to extreme weather—mosquito habitats are changing. This is spreading diseases to new places, as well as making outbreaks worse in places already afflicted. 
+A perfect place to settle down and raise some larvae.
+ VOA on Wikimedia Commons
+According to a 2014 report by the World Health Organization, more than half of the world is already at risk of mosquito-borne disease. And that number is rising. In a recent study, scientists predict that up to 1 billion more people may become susceptible to mosquito-borne disease by 2080. The study tracked how Aedes aegypti and Aedes albopictus mosquitoes could spread, as rising temperatures provide them new habitats. These species are the most common vectors for dengue, Zika, chikungunya, and other emerging diseases.
+These viruses were mainly found in tropical areas, but they've now begun popping up in new places, according to Sadie Ryan, lead author of the study, and professor of medical geography at the University of Florida. “Humans are very good at moving both bugs and their pathogens around the globe,” she said in a press release.
+Dengue incidents, for example, have risen 3,000 percent in the past 50 years alone, and the virus continues to spread to new countries. Another study estimated that disease-carrying mosquitoes are expanding their range by over 150 miles every year. In 2016, Centers for Disease Control (CDC) investigated how many US counties had the A. albopictus and reported a 10 percent increase within a single year. 
+The threat has motivated researchers like scientists at the CDC to develop better ways to predict outbreaks. "There has been a lot of work on forecasting,” says Gabriela Paz-Bailey, an epidemiologist at the CDC office in Puerto Rico, where she's responsible for monitoring mosquito-borne diseases such as dengue and Zika.
+Paz-Bailey and her family had just moved to the island when Hurricane Maria hit. “We were worried that there could be increases in vector-borne diseases after the hurricane,” she says. Paz-Bailey was particularly concerned about dengue and Zika outbreaks, as both diseases are ongoing threats to the island
+Stagnant pools of water are full of baby bloodsuckers
+ James Gathany, CDC from Wikimedia Commons
+“There are some theories about strong winds actually reducing the number of mosquitoes shortly after a hurricane,” Paz-Bailey says. But while windstorms do typically kill adult mosquitoes, their eggs can survive. And the standing water tropical storms bring helps insect populations rebound quickly. “Not only the humidity and the moisture, but all the debris that is left after the hurricane provide ideal breeding sites.” 
+After Hurricane Florence devastated communities in North Carolina last September, for example, many residents reported a rise in active mosquitoes. Scientists suspect that floodwaters accelerated the hatching of otherwise dormant mosquito eggs found in the soil. Two weeks after the storm passed, an entomologist noted the population of one particular species, Psorophora ciliata, had ballooned by more than 15 times.
+This giant mosquito species, affectionately known as 'gallinipper,' infamously delivers a memorable bite that aphoristically “nips a gallon of your blood.” Fortunately, the gallinipper rarely carries dangerous pathogens. But what if it started to? After all, mosquitoes (and viruses) evolve.
+Mosquito species that have been considered no more than annoying may soon become a public health threat. A recent study published in the journal Communications Biology, shows that climate change can actually accelerate mosquito evolution. Matthew Wills, a paleobiologist at the University of Bath, collaborated with scientists in York and Beijing to understand how climate influences the speed of evolution, a process known as speciation.
+Mosquitos spread a variety of infectious diseases
+ CDC/ Prof. Frank Hadley Collins from the Public Health Image Library
+“If we look at the last 195 million years—[back] to when mosquitoes originate—we can see there are times when the rates at which they speciate are much higher than others,” says Wills. The researchers were interested in the effects of temperature, as well as the amount of carbon dioxide in the atmosphere, as climate change is altering both.“We found that there is a link with temperature," Wills says, but surprisingly, "the link with carbon dioxide seems [even] stronger.”
+During the study, the team combed through 550 previously published evolutionary family trees. These described different species of mosquitoes, how they were related to each other, and when each split off from their predecessors. But the forest of data was full of contradictions. So the team digitized each tree, and then combined the data to come up with a more comprehensive and accurate "supertree" of mosquito relationships.
+The team then used known fossil records and mutation rates to assign dates to major changes in mosquito evolution. Fossil records provided physical evidence, and known mutation rates confirmed how quickly mosquitoes could adapt over time. This revealed a conclusive link: historically high temperatures and carbon dioxide levels both increased the rates of mosquito speciation.
+While the researchers aren't exactly sure why, they speculate that increased carbon dioxide rates are good for plants.“We think of [mosquitoes] taking blood meals from us, but many species feed on plants as well.” Wills' team proposes that carbon dioxide bolsters mosquito food supplies, and that abundant resources support more more species, providing the chance for more evolution.. 
+According to Wills, diversity in mosquitoes means more avenues for transmitting disease. “More species of mosquito can produce more species of parasites."
+To be clear, accelerated evolution does not necessarily mean that all mosquitoes will suddenly fly around with incurable viruses. It just means that there will be more opportunities for mosquitoes to spread disease.
+So far, scientists have not found evidence that the speciation rate has already increased. Wills suggests that could happen within a few decades—but it could also occur much more slowly. “Part of the problem is we don't know,” he says. The team’s method looked back at data from the last several thousand years, but it can’t predict the near future. “Of course, it’s a concern." To some extent, exactly when rapid evolution begins is not really the point: Science predicts we'll soon have a problem, whether it happens tomorrow or fifty years from now.
+When Hurricane Maria plowed through Puerto Rico, the island suffered, but fortunately, there wasn't a post-storm outbreak of dengue or Zika. That doesn't mean the next hurricane won't bring an outbreak. It's time to treat climate change—and its impact on diseases—like the serious public health threat it is. 
+To explain where SARS-CoV-2 came from, look at processes with scientific explanations and precedents
+Dan Samorodnitsky, Senior Editor
+
+May 26, 2021
+
+Dan Samorodnitsky, Senior Editor
+
+May 8, 2021
+
+Sara May Bergstresser , Columbia University
+
+April 19, 2021
+
+Hannah Norman, Kaiser Health News
+
+April 2, 2021
+
+Lauren Sara McKee, KTH Royal Institute of Technology
+
+December 10, 2020
+
+Jennifer Tsang, Microbiology
+
+September 14, 2020
+
+Sree Rama Chaitanya, Molecular Biology
+
+November 7, 2021
+
+Lila Westreich, University of Washington
+
+September 8, 2021
+
+Rita Ponce, Polytechnic Institute of Setúbal
+
+June 27, 2021
+
+Scientists previously thought that animals' color patterns were either warning signs or camouflage — on these snakes, they are both
+Sam Zlotnik, University of Florida
+
+August 2, 2020
+
+Jennifer Tsang, Microbiology
+
+April 3, 2019
+
+Marnie Willman, University of Manitoba Bannatyne
+
+April 29, 2021
+
+Amanda Rossillo, Duke University
+
+March 25, 2021
+
+Lila Westreich, University of Washington
+
+September 27, 2020
+
+Hannah Thomasy, University of Washington
+
+December 20, 2018
+
+Gabriela Serrato Marks, Massive Science
+
+August 2, 2018
+
+Madeline Barron, University of Michigan
+
+August 22, 2021
+
+Alejandro Rossi, Universidad Nacional de Córdoba
+
+October 26, 2020
+
+Fascinating science stories, as told by scientists
+We're a community of scientists telling stories about all the truth and beauty in the universe. Subscribe to get the most interesting, enlightening, and entertaining science writing sent to you.
+We're a community of scientists telling fascinating, true stories about the science that's happening now.
+© 2017 – 2020 Massive Science Inc.

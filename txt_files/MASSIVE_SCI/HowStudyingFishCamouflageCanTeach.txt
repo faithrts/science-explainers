@@ -1,0 +1,129 @@
+Massive en español
+Noticias de ciencia
+COVID-19
+The facts about COVID-19, straight from scientists
+Butt Month
+The science of butts, poop, and intestines
+Surviving the Anthropocene
+Adapting to endure humanity's impact on the world
+Science Heroes
+Women in STEM you may not have heard of
+Mind Control
+Dispatches from the frontiers of neuroscience
+Food for Thought
+Making agriculture safe, healthy, and sustainable
+Breakthroughs
+Interviews with cutting-edge scientists
+
+A version of this story originally appeared on
+OceanBites
+
+The human perspective isn't always the most useful one.
+
+Andrea Schlunk
+
+
+Marine Biology
+
+
+University of Rhode Island
+
+Do you see the peacock flounder?
+Dr. Dwayne Meadows, NOAA/NMFS/OPR
+The image above isn’t just a picture of sand. Do you see the flounder hiding out? These bottom dwelling fish can change their body patterns to match the ocean floor, making them notoriously hard for humans to spot. As a result, flounder have been the subject of many studies over the years. 
+These visual magicians have managed to trick our eyes, so it’s no wonder we’re curious about the mechanics of their illusions. But what about other animals? Are flounder as deceiving to the eyes of predator and prey as they are to ours? Until recently, studies of flounder have largely ignored this question, even though it’s important for understanding how and why they evolved to blend in.
+Philosophy, of course, has a word for this concept: qualia. It’s the notion that we sense and process things through our own unique perspectives. For example, differences between my taste buds and yours might influence the way we each experience the flavor of strawberries. We might describe the taste similarly, and our perceptions might actually be identical. But we’ll never be able to truly know, because we can’t switch perspectives.
+The concept of qualia creates real challenges for scientists. If our subjective experiences do cause us to perceive the world in individual or human-centric terms, that could mean the studies we design investigate problems from the wrong perspective.
+Studies of camouflage illustrate this problem perfectly. Flounder might be difficult for humans to see, but how do predators and prey see these vanishing creatures? We experience the world quite differently than, say, squid. How can we be sure the flounder disappearing act is as effective to their eyes as it is to ours?
+A recent study by Derya Akkaynak and Lydia Mäthger at the Marine Biological Laboratory in Woods Hole, MA started asking this question by examining how other creatures perceive two flounder species commonly found in coastal waters of the Northwestern Atlantic.
+Human eyes are trichromatic, meaning we can see three wavelengths of color: red, green and blue. Trichromacy isn’t limited to primates, but it’s not common among marine species, which makes it a bit odd that flounder are so good at deceiving our eyes.
+It turns out that one natural flounder predator, the guitarfish, is an exception, capable of seeing blues, greens, and muddled yellows. Akkaynak and Mathger’s team wanted to know how a guitarfish might perceive flounder, so they used previous studies of its eyes to create a model of the wavelengths that it can see. They repeated the process for two creatures flounder prey on: dichromatic green grabs that see only blue and green, and monochromatic longfin squid, which experience the world entirely in hues of blue.
+Spectral response curves of mono-, di- and trichromatic observers used in the study, normalized to have a value of 1 at peak wavelength.
+Royal Society Publishing
+The team had their prey and predator models. But they needed a flounder model to compare them to. This isn’t as straightforward as it seems, because flounder are better at hiding against some backgrounds than others. To make these models, Akkaynak and Mathger’s team brought live flounder into the lab, set them against varying backdrops, waited for them to camouflage, and then used spectrometers – basically artificial eyes – to record the spectrum coming from the camouflaging flounder. They repeated this process for the background alone, and compared the spectral values from the two scans to see how well flounder camouflage themselves against different substances.
+(a) Images of flounder and substrates (top) and granularity plots (bottom) of P. dentatus. (b) Same as (a) for S. aquosus.
+Royal Society Publishing
+By comparing the two lines in the graphs above, you can see that flounder do pretty well in three of the four backgrounds. Rocks, however, posed a problem. You can clearly see the fish in the image itself, and you’ll notice that the two graphs look quite different, too. Flounder have evolved to blend into certain backgrounds, but the mechanism they use – chromatophores that spread pigment in a cell to create a splotch of color – are still limited. The fish must selectively choose backgrounds that are within its mimicry repertoire. 
+The researchers then overlaid the spectral values of colors reflecting from the flounder against various backgrounds with the models of squid, crab and guitarfish eyesight to see the differences in what each organism can see. They also modeled what an “ideal” camouflage would look like to each animal against the actual results. As you can see from the chart below, while camouflaged flounder were virtually indistinguishable for crabs and squid in most cases, a guitarfish could theoretically notice a difference between flounder and each background.
+There’s no guarantee that these conclusions would be born out in the wild, since the study relied on very specific conditions in the laboratory. But the work has provided important stepping-stones for considering an organism’s adaptations from the perspective of other relevant species.
+“Frankly, no one had ever approached flounder camouflage this way,” Dr. Mäthger recounted in an interview. “All previous research was purely descriptive. We had volumes of notes without any quantitative data about the flounder’s ability to blend in, and only a few studies where the visual capabilities of other species were considered.”
+We now have some quantitative idea about the flounder’s camouflage. But does knowing the specific wavelengths of browns, yellows, and reds reflecting off chromatophores truly equal seeing what these predators and prey perceive? We’ve gone full circle and arrived back at qualia. Seeing the world through the eyes of another animal will always be impossible, but reducing descriptions of color into numbers we can analyze brings us one step closer to understanding what other animals experience, and how their perspectives impact the world around them.
+Akkaynak D, Siemann LA, Barbosa A, Mäthger LM. (2017) Changeable camouflage: how well can flounder resemble the colour and spatial scale of substrates in their natural habitats? R. Soc. Open Sci. 4: 160824. http://dx.doi.org/10.1098/rsos.160824
+How emergency forces innovation & one Italian scientist advanced our understanding of COVID variants.
+Peter Weinberg, Biology
+
+December 17, 2021
+
+Dan Samorodnitsky, Senior Editor
+
+November 30, 2021
+
+Kevin Bird, Michigan State University
+
+November 29, 2021
+
+Matthew Bomkamp, University of Florida
+
+November 29, 2021
+
+Lois Parshley
+
+November 28, 2021
+
+Charlie Wood
+
+November 28, 2021
+
+Malosree Maitra, McGill University
+
+November 26, 2021
+
+Reinack Hansen, Materials Science
+
+November 26, 2021
+
+Rita Ponce, Polytechnic Institute of Setúbal
+
+November 25, 2021
+
+Astrobiologists search for molecular oxygen as an indicator of life on other planets, but finding them isn't that straightforward
+Derek Smith, University of Michigan
+
+November 23, 2021
+
+Pamela Hirschberg, Rutgers University
+
+November 23, 2021
+
+Cassie Freund, Wake Forest University
+
+November 22, 2021
+
+Hayden Waller, Cornell University
+
+November 22, 2021
+
+Siddhant Pusdekar, University of Minnesota 
+
+November 19, 2021
+
+Briley Lewis, University of California, Los Angeles
+
+November 18, 2021
+
+Sahana Sitaraman, National Centre for Biological Sciences, India
+
+November 17, 2021
+
+Soren Emerson, Vanderbilt University
+
+November 16, 2021
+
+Mihaela Bozukova, Max Planck Institute for Biology of Ageing
+
+November 15, 2021
+
+Fascinating science stories, as told by scientists
+We're a community of scientists telling stories about all the truth and beauty in the universe. Subscribe to get the most interesting, enlightening, and entertaining science writing sent to you.
+We're a community of scientists telling fascinating, true stories about the science that's happening now.
+© 2017 – 2020 Massive Science Inc.

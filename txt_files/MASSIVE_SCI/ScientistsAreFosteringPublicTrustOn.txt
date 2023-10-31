@@ -1,0 +1,154 @@
+Massive en español
+Noticias de ciencia
+COVID-19
+The facts about COVID-19, straight from scientists
+Butt Month
+The science of butts, poop, and intestines
+Surviving the Anthropocene
+Adapting to endure humanity's impact on the world
+Science Heroes
+Women in STEM you may not have heard of
+Mind Control
+Dispatches from the frontiers of neuroscience
+Food for Thought
+Making agriculture safe, healthy, and sustainable
+Breakthroughs
+Interviews with cutting-edge scientists
+NASA
+A new study finds empirical evidence that #ScientistsWhoSelfie is an effective communication tool
+
+Farah Qaiser
+
+
+Molecular Genetics
+
+
+University of Toronto
+
+What's more visually appealing to you: a photo of a bubbling beaker, or a selfie of a scientist holding said beaker, with gloved hands and a grin on their face?
+If you picked the selfie, you're not alone. Without ever being taught how, we're already fluent in the language of pictures - and in particular, faces engage us. 
+Take Instagram as an example. Back in 2014, Georgia Tech researchers analyzed likes and comments in a set of one million Instagram images and found that selfies were 38% more likely to receive likes and 32% more likely to receive comments. 
+Buzz Aldrin took the first space science selfie in 1966
+NASA/Buzz Aldrin on Wikimedia Commons
+While Instagram is barely nine years old, it is already home to over 1 billion active accounts, more than half of which belong to users under the age of 35 and over 80% of which are based outside of the U.S. This is the market that advertisers, companies, and influencers are aggressively exploring to share their content, products, and campaigns with users - and slowly, scientists are too.
+Yes, scientists.
+In recent years, many scientists have flocked to Instagram and other social media platforms to share science more accessibly. But while viral campaigns such as #ThisIsWhatAScientistLooksLike have been an empowering way for scientists to combat stereotypes, what had remained unknown was whether such selfies actually make a difference. 
+Now, a new study published in preprint form in February (Update: And out today, May 10th, in PLOS One) provides the first evidence that researchers' selfies on social media do successfully challenge public stereotypes of scientists.
+In 2017, a group of researchers from the United States and Canada came together to launch a research project dubbed "Scientist Selfies." Paige Jarreau, a communications professional and the lead researcher for the Scientist Selfies project, comments that “it struck me [that] of all the platforms, Instagram seemed to be one where scientists are visually presenting themselves to others in ways that showed them as human.” It was a phenomenon she and her fellow researchers wanted to learn more about - the idea that selfies may humanize scientists, and whether Instagram could be used as a tool to build trust in science - especially in light of a 2014 study that reported the American public viewed scientists as competent, but not necessarily warm (which is a key component of trust). And so, the Scientist Selfies project sought to examine whether such selfies changed stereotypes of scientists' warmth versus competence.
+Massive Community and Audience Developer Gabi Serrato Marks shows off her selfie game in a cave in Mexico
+It's worth highlighting how unique this project is. Traditionally, research is carried out by academic groups based at one or more institutions, with grants to support salaries of those involved and any costs associated with carrying out the research. But in this case, the study was led by scientists, active science communicators and science communication researchers, who were pursuing various roles outside of this project. For example, throughout the study, both Imogene Cancellare and Samantha Yammine carried out science communication across a variety of platforms (including Instagram and other social media) while conducting research in the fields of conservation and molecular genetics respectively.
+Despite a grant rejection, the authors remain undeterred and turned to crowdfunding instead to support this study, raising $10,704 (122% of the project's intended goal). Jarreau and Becky Carmichael, an instructor at Louisiana State University, came up with the idea of promoting the #ScientistsWhoSelfie hashtag to both build support for their crowdfunding campaign, and as a fun challenge for scientists to participate in - similar to the ice bucket challenge. 
+“It took off like wildfire,” says Jarreau. “It started off as a promotional campaign, but it obviously resonated a lot further than people liking our experiment.” Today, the #ScientistsWhoSelfie hashtag is used almost daily on social media platforms, and has over 13,000 public posts on Instagram.
+Inspired in part by the crowdfunding that made the research possible, the authors have been openly sharing updates throughout the study, including a rejection from PNAS. "By crowdfunding this research - by having other scientists and people who are not scientists help fund this project - we feel some amount of responsibility to communicate openly about the study," says Jarreau.
+With funding in hand, the study recruited 1,620 participants through a paid Qualtrics panel, where 55% of the participants were female, with an average age of 46 years. And while a majority were social media users, only 30% had received a Bachelor's degree.
+Massive consortium member Monica Javidnia selfies (with a cellfie!) in her cat beanie while looking at fluorescent staining in brain slices
+The participants were then divided into five groups and assigned to view "control" (i.e. either Humans of Southeastern or Humans of Broadway) or male or female scientist-produced Instagram posts (which included science-only posts, such as images of various equipment, including bioreactors and lab coats, or the same science-only posts featuring the faces of male and female scientists). In essence, Jarreau says that the study decided to "look at, essentially, the presence of a human face or not with everything else being equal."
+After viewing their assigned Instagram account, participants filled out surveys to share their impressions of the Instagram accounts, evaluate the warmth and competence of the Instagrammers, and how they perceived scientists in general.
+Perhaps unsurprisingly, the Scientist Selfies study found that participants considered scientists posting selfies to be warmer, more trustworthy, and no less competent than scientists posting science-only photos on Instagram. In particular, participants who viewed female scientist selfies were less likely to perceive scientists as being largely male. It's worth noting that the science-only photos posted by female scientists did not shift gender stereotypes - which may be because the gender of the posts was not immediately clear or memorable to viewers.
+For Jarreau, these findings make sense - it was what they had hypothesized would happen. What is interesting to her is the fact that despite stereotypes generally associated with women, there was no drop in competence for female scientists. "That was very surprising to us and very encouraging," says Jarreau. "[Women scientists] were perceived as very competent and very warm."
+Heidi Gardner - a health services researcher who has been exploring how scientists can communicate with the public through blogging as a 2018 Winston Churchill Memorial Trust fellow - agrees that the study results are not surprising and are in line with her past experiences with outreach activities. But Gardner adds that "so often in the scientific community, Instagram is seen as 'less than' and posting selfies online can be looked down upon; [so] it's wonderful to see that the scientists behind this work are as passionate about measuring the empirical effect of their outreach activities using rigorous scientific methods."
+Massive Assistant Editor Cassie Freund and her research team in Peru are #ScientistsWhoSelfie in the field
+Chantal Barriault, the Director of the Science Communication Graduate Program at Laurentian University, echoes Gardner's comments, and adds that with the explosion of science communication on the internet, many communicators relied on their intuition and gut feelings to guide their practices. This study provides empirical proof, and Barriault says that scientist selfies are now another strategy to add "to our toolbox of evidence-based strategies and tools to communicate effectively."
+But before you dash off to Instagram to post your scientist selfie, it's important to note that while this study demonstrates that selfies humanize scientists, it isn't clear how selfies increased the perceived warmth of scientists. The answer may lie in how different factors interact in an Instagram post - including gender, ethnicity, facial expressions, and the content of the Instagram caption itself. More subtle image manipulation - such as posing with different types of facial expressions in selfies - may help tease out the mechanism behind how selfies increase the overall perceived warmth of scientists, or any selfie taker.
+Gardner, however, wonders about where scientists and science communicators will draw the line between their work and their personal life. "Is personality now a prerequisite for good science communication?" asks Gardner. "That seems like a slippery slope to begin moving down - are we happy moving towards an 'influencer' model with science communication, or does that level of trust begin to erode when a certain threshold or volume of experiences/personality is shared?"
+But Barriault points out that science communication isn't about selling a product but instead focuses on engaging the public — especially in cases where the very well-being of our society is at stake as a result of misinformation being spread by influencers such as Gwyneth Paltrow and the anti-vaccine movement. Barriault says that if our goal is to engage a population that isn’t otherwise engaged, then we should "embrace the strategies that work."
+Science communication focuses on engaging the public, and that requires building trust
+ Photo by Vlad Tchompalov on Unsplash
+Overall, Jarreau says that a lot of their findings boil down to the fact that most people don't know scientists on a personal level - or at least, they may know someone who is a scientist, but aren't aware of their profession. 
+"We've taken one little step towards the idea of scientists being more open. There's many ways you can do that, but one way is to show yourself in the vulnerable state - that is what a selfie is. That human communication - especially through a visual - is what we were trying to get at in this study."
+We ask other scientists from our Consortium to respond to articles with commentary from their expert perspective.
+
+Gaius J Augustus
+
+Anecdotally, selfies do better for me in terms of likes most of the time (though not always), especially on Instagram, since it was built around that. Twitter is a little less so, and if I widen the definition of engagement to comments, also less so. But my audience is mostly scientists, so that data is not really representative.
+I personally think it has to do more with interesting visuals. As humans, we’re drawn to faces, finding faces even where there are none (which the article notes). If you can catch someone’s eye with something that makes them look for as long as 3 seconds, you can get more engagement.
+This can be done with text, too, of course. But the 3 second rule seems to hold up well for engagement.
+This is somewhat separate from the article’s point. I absolutely love the idea of “warmth” and trust building because that’s becoming increasingly important in communicating science, but I have a different concern. I think the biggest issue actually comes down to does increased engagement = more effective science communication? 1,000 likes doesn’t mean that 1,000 people read the accompanying text or went to the article to learn the science or made a change in the way they think, right? But increased engagement does mean that the algorithm shows your post to more people who potentially will read on further.
+Thoughts on this topic would be great to hear and read more about!
+
+Celia Ford
+
+
+University of California, Berkeley
+
+I would love to gain a deeper understanding of who is actually accessing science communication content on social media. I worry that, while this study encouragingly showed that #relatable selfies warmed participants up to scientists, that these participants are not representative of the demographic Instagram SciCommers are actually targeting.
+For example, Samantha Yammine (whose Instagram account I adore!), mentioned in this piece, has 36.9K followers on Instagram. How many of those followers are also PhD students in STEM fields (or postdocs, or undergraduates, or industry professionals)? If social media campaigns like #ScientistsWhoSelfie aren’t gaining mainstream exposure beyond science social media bubbles, how much of an impact are they having on those who originally reported viewing scientists as “competent, but not necessarily warm”? Social media campaigns can have so much power, and I hope that science communicators continue thinking of ways to reach the science-curious public more broadly!
+Las barreras de pago y lingüísticas hacen de los resultados científicos algo inaccesible para gestores y residentes
+Maria Gatta, University of the Witwatersrand, Johannesburg
+
+June 23, 2020
+
+Maria Gatta, University of the Witwatersrand, Johannesburg
+
+May 24, 2020
+
+Farah Qaiser, University of Toronto
+
+June 21, 2019
+
+Devang Mehta, University of Alberta
+
+November 3, 2017
+
+Susanna Harris, University of North Carolina - Chapel Hill
+Juan Pablo Ruiz, University of Wisconsin - Madison
+
+May 9, 2019
+
+Reyhaneh Maktoufi
+
+July 16, 2021
+
+Adriel John Orena, University of British Columbia
+
+May 19, 2021
+
+Shelby Bradford, West Virginia University
+
+December 21, 2020
+
+Max G. Levy, Science and Health Journalism
+
+April 16, 2020
+
+Speaking with Kate Marvel about the importance of — and the nuances involved in — talking about climate change
+Maryam Zaringhalam, Molecular Biology
+
+September 23, 2019
+
+Marina Olle Hurtado, MDPI
+
+April 14, 2021
+
+Adithi Ramakrishnan, College of William and Mary
+
+November 15, 2020
+
+Simone Eizagirre, University of Cambridge
+
+May 15, 2020
+
+Bhavya Singh, McMaster University
+
+January 23, 2020
+
+Maddie Bender, Yale University
+
+September 25, 2019
+
+Brianna Bibel, Cold Spring Harbor Laboratory
+
+July 19, 2018
+
+Jenny Howard, Wake Forest University
+
+July 12, 2018
+
+Karen Kwon, Chemistry
+
+March 31, 2020
+
+Fascinating science stories, as told by scientists
+We're a community of scientists telling stories about all the truth and beauty in the universe. Subscribe to get the most interesting, enlightening, and entertaining science writing sent to you.
+We're a community of scientists telling fascinating, true stories about the science that's happening now.
+© 2017 – 2020 Massive Science Inc.

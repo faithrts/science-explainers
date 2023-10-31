@@ -1,0 +1,123 @@
+Massive en español
+Noticias de ciencia
+COVID-19
+The facts about COVID-19, straight from scientists
+Butt Month
+The science of butts, poop, and intestines
+Surviving the Anthropocene
+Adapting to endure humanity's impact on the world
+Science Heroes
+Women in STEM you may not have heard of
+Mind Control
+Dispatches from the frontiers of neuroscience
+Food for Thought
+Making agriculture safe, healthy, and sustainable
+Breakthroughs
+Interviews with cutting-edge scientists
+Illustration by Allan Lasser
+You'll never look at a rose the same way again.
+
+Claire Meaders
+
+
+Biology
+
+
+Harvard University
+
+If you’ve ever purchased a rose from a store, you’ve bought a mutant. Throughout history, people have encountered, admired, and been mystified by mutant flowers. The Greek philosopher Theophrastus described double flowers in roses over 2000 years ago. Since then, double flowers like roses, peonies, geraniums, marigolds and garnations have become sought after and valued as garden plants.
+We now know that all of these flowers (and many more) are genetic mutants. The extra petals we covet are actually mutated sex organs. It's taken us thousands of years to go from Theophrastus' observations to a scientific understanding of how these flowers became so beautiful.
+In the late 18th century, the German writer and poet Goethe recognized that mutants could be used to study how flowers developed. Goethe had developed an interest in botany while serving in the court of Weimar, and later while observing different types of flora in Italy in the late 1780s. He came to believe that there was a single unifying body part of every plant, the leaf, which he laid out in his seminal 1790 paper, “The Metamorphosis of Plants."
+Open up any flower and you can see where Goethe got this idea. Most flowers contain four concentric, nested circles of organs, which we call whorls. You can identify what organ you are looking at based on its position within this blueprint. From outer whorl to inner whorl the organs are: sepals (usually green and leaflike), petals (typically showy and attractive), stamens (the male reproductive organs and pollen producers), and finally carpels (the female reproductive organs). The carpels contain eggs, and after fertilization grow into fruits that surround seeds. 
+Based on his observations of double roses, Goethe proposed that the various parts of flowers were all equivalent, which explained why organs were so easily converted into one another. Biologists had mixed reactions to Goethe’s theory. While some hailed him as the father of morphology, others believed he was trying to artificially bend nature to conform to his views. 
+It took almost 200 years to experimentally verify his theories about floral organ development at genetic level. But scientists didn't use roses to do it. They turned to a common roadside weed.
+In 1873, Alexander Braun described a “double-flower” mutant in the common plant Arabidopsis, also known as thale cress. By the 1980s, scientists realized that the plant was perfect for genetic study thanks to its small genome, short generation time, knack for mutating easily, and ability to take up and express foreign DNA. 
+Thanks to work done with Arabidopsis thaliana and Antirrhinum majus in the 1980s, we finally got an answer to the question Goethe had begun asking centuries before: why do flowers look like they do? We now know that four classes of genes overlap to form the four different floral organs. Organ transformations happen because each organ identity in a flower is specified by the presence of particular combinations of proteins. Change the combinations, change the organs created.
+Research on Arabidopsis thaliana in a seminal paper published in 1991 deepened our understanding of how normal and abnormal flowers develop. The well known ABC model emerged out of this paper, marking the beginning of a field of study linking genetics and development in flowers.
+When researchers tested different versions of mutations in the four genes, they found a spectacular array of physical changes in the organs of the flower. In one mutation, sepals developed as either carpels or leaves and petals developed as stamens. Two versions of mutations in one gene caused petals to develop as sepals, and stamens to develop as carpels. Another two mutations in a third gene caused stamens to develop as petals, and an entirely new flower to develop in place of carpels. 
+Based on the data collected from their single mutant lines, the authors proposed a model where sepals were formed by A class genes only, petals by an overlap of A and B genes, stamens by B and C genes, and carpels by C alone. 
+
+Using this model, they then predicted what they would see if they made plants with mutations in multiple classes of genes. They crossed plants with different mutations together, generating what are called “double” or “triple” mutant lines. Those mutant lines confirmed that the genes function across whorls. Without B and C genes, only A genes are expressed and all of a flower's whorls develop as sepals. Without A and C genes there are no floral identity genes in the outer whorl, so there are only leaves, no petals. Having only B genes leads to development of hybrid petal/stamens in the second and third whorls The absence of C genes leads to the initiation of another flower in the forth whorl in place of the carpel. Based on their results, the authors concluded that these genes are essential for organ identity in flowers. 
+Over time, different flower lineages have made tweaks and adjustments to the body plan. But the ABC model still fits the 300,000 species of flowering plants that exist today, even ones that have made radical departures from the basic plan. 
+The plant that I study, the columbine (Aquilegia), has five whorls instead of four. It evolved an additional whorl with a different type of organ, the staminodium, in between the stamens and carpels. 
+In Aquilegia, duplications in the B class genes allowed for multiple copies of a B gene to divvy up the work, evolving a new function. Traditionally, B genes are expressed in petals and stamen whorls. In Aquilegia, one copy of the B genes is expressed primarily in the petals, one copy is stamen specific, and one copy was left to create a whole new whorl, the staminodium. 
+From ancient philosophers to 18th-century poets to today, we've come a long way in understanding how flowers develop. It’s been especially fascinating to me to learn how mutations in this one universal body plan, which was itself inherited from cones, lead to the incredible diversity in floral form that we see today. Yet we still have much to learn. I suspect the next 30 years of plant biology research will reveal entirely new connections between the beauty we so admire and the genetic code that lies beneath.
+
+A barrier-breaking scientist with no formal training, she has been repeatedly left out of science history
+Brittany Kenyon-Flatt, North Carolina State University
+
+February 9, 2021
+
+Yewande Pearse, LA Biomed
+
+May 11, 2018
+
+Gabriela Serrato Marks, Massive Science
+
+May 3, 2018
+
+Baird Langenbrunner, UC Irvine
+
+January 10, 2018
+
+Kylla Benes, Ecology
+
+January 4, 2018
+
+Brittney G. Borowiec, Wilfrid Laurier University
+
+October 23, 2017
+
+Lila Westreich, University of Washington
+
+September 8, 2020
+
+Lila Westreich, University of Washington
+
+May 17, 2020
+
+Abrahim El Gamal, Scripps Institution of Oceanography
+
+July 21, 2017
+
+Large study shows that enormous "haplotypes" account for the enduring variation 
+Max Barnhart, University of Georgia
+
+January 4, 2021
+
+Max G. Levy, Science and Health Journalism
+
+November 3, 2020
+
+Loy Xingwen , Emory University
+
+June 24, 2020
+
+Devang Mehta, University of Alberta
+
+February 14, 2018
+
+Andrew Scarpelli, National Louis University
+
+August 16, 2017
+
+Massive Staff
+
+March 17, 2017
+
+Darcy Shapiro, Rutgers University
+
+May 25, 2019
+
+Sruthi Sanjeev Balakrishnan, National Centre for Biological Sciences
+
+July 19, 2020
+
+Lauren Mackenzie Reynolds, McGill University
+
+October 2, 2017
+
+Fascinating science stories, as told by scientists
+We're a community of scientists telling stories about all the truth and beauty in the universe. Subscribe to get the most interesting, enlightening, and entertaining science writing sent to you.
+We're a community of scientists telling fascinating, true stories about the science that's happening now.
+© 2017 – 2020 Massive Science Inc.

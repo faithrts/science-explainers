@@ -1,0 +1,175 @@
+Massive en español
+Noticias de ciencia
+COVID-19
+The facts about COVID-19, straight from scientists
+Butt Month
+The science of butts, poop, and intestines
+Surviving the Anthropocene
+Adapting to endure humanity's impact on the world
+Science Heroes
+Women in STEM you may not have heard of
+Mind Control
+Dispatches from the frontiers of neuroscience
+Food for Thought
+Making agriculture safe, healthy, and sustainable
+Breakthroughs
+Interviews with cutting-edge scientists
+ Alonso Javier Torres on Flickr 
+Windows are a gauntlet of mirrors and invisible walls
+
+Farah Qaiser
+
+
+Molecular Genetics
+
+
+University of Toronto
+
+Thump. That was the sound Rebecca Schneider heard as a bird flew into her office window at the Virginia Tech Corporate Research Center (VTCRC) in mid-September 2013. Fortunately, the bird in question, a flycatcher, recovered immediately and flew away. But a few weeks later, Schneider heard a second bird—a scarlet tanager—collide with the glass. This time, the collision was fatal.
+As many homeowners know, such lethal events aren't uncommon in our increasingly urban habitat. After cats, the biggest threat that birds face today are actually glass windows, which often result in so called "fatal bird window collisions" (BWCs). In the U.S. alone, estimates suggest that glass windows account for a staggering 365 to 988 million bird deaths a year.
+The office bird drama spurred Schneider and her colleagues at the VTCRC into action. With approval from management, the group soon launched a study in October 2013 to survey the extent of bird collisions at the 22 buildings on campus.
+"I didn't know much about bird-window collisions before I initiated the study," says Schneider. "I had no idea that it was such a problem at the [VTCRC]."
+Thump.
+ Ted on Flickr
+Why do birds have such a hard time avoiding glass windows? The simple answer is that birds are not always able to perceive windows as a barrier. Depending on the time of day, the season, the surrounding landscape, and features of the building itself, it can be difficult for birds to recognize the obstacle. In fact, over four decades of research shows that fatal BWCs can occur with glass windows of all sizes, at any time of year and in various types of buildings.
+During the day, birds may collide with windows because greenery is reflected by the glass, suggesting they are safe habitat to fly into, a phenomenon known as the mirror effect. Reflections may also suggest there is a seemingly clear path to greenery visible through an opposite window, known as the fly-through effect. At night, birds can become disoriented as a result of nocturnal lights emitted by buildings—these crashes are a result of fatal light attraction. Season also plays an important role in BWCs, as an overwhelming majority—around 90 percent—of collisions take place during the spring and fall migratory periods, when birds are migrating through unfamiliar habitats.
+While many kinds of buildings can pose a threat, a structure's height and glass surface area—often dubbed the building's 'mortality signature'— are important risk factors to consider. The more glass a building has, in other words, the more lethal it tends to be. Similarly, building height plays a role; high-rise buildings, those over 12 stories tall, account for less than 1 percent of BWCs in the U.S., while low and medium-rise buildings are responsible for 44 percent and 56 percent of BWCs respectively.
+These findings helped structure Schneider's study design, leading the team to consider the potential effect of seasons, building characteristics, and the surrounding landscape on bird mortality. Volunteers surveyed a large area of campus looking for victims within two meters of a building. If a dead bird was found, it was carefully photographed, and relevant details were recorded, such as the species it belonged to, and the time of the day the bird was found. 
+Bird vs. window rarely works out for the bird
+Farah Qaiser
+Schneider and her colleagues chose to conduct surveys throughout the year, instead of focusing solely on the fall and spring migratory seasons. "It turned out to be a good idea; we found the majority of collision deaths in July," says Schneider. She adds that these bird deaths were likely newly fledged or juvenile birds, who tend to be unfamiliar with their surrounding landscape and the threat posed by glass windows. 
+The team recorded 47 dead birds in 2013 and another 198 in 2014. The fatalities prompted Schneider to launch a blog, Hope Is The Thing With Feathers, to post photos and keep a running tally of birds found on the VTCRC campus. Initially, Schneider had only intended to survey BWCs for a year, but there was such continued interest that they kept the study going until May 2015.
+Overall, Schneider's team found a total of 240 birds, including 55 different species, who died as a result of running into windows. This was much higher than Schneider expected—and in fact, Schneider comments that "the numbers are likely even higher, due to how quickly the carcasses were scavenged." 
+In keeping with previous reports, the results showed a correlation between glass surface area of a building and the number of fatal collisions. In particular, the Ruby-throated Hummingbird (Archilochus colubris) made up 10 percent of fatal BWCs in this study, making it the most common species found.
+Hummingbirds were the most common collision fatality 
+ Pslawinski on Wikimedia Commons
+Armed with conclusive evidence of the problem, Schneider's next step was to try to make structural changes to help. Fortunately, there are some simple solutions to bird window collisions. One of the quickest fixes is the application of netting, screens, or decals (those with patterns no more than 10 cm apart) to existing windows. While they may not be aesthetically pleasing to the human eye, the purpose of such short-term solutions is to help birds recognize that glass windows are barriers.
+Long-term solutions include using novel bird-safe sheet glass in the construction of new buildings. Since birds can see ultraviolet (UV) light while humans cannot, building windows with UV-reflective film can be both bird-safe and aesthetically pleasing.
+While not all of these solutions have been systematically tested on a large-scale basis, they have been successfully used by various institutions to tackle bird mortality. For example, Northwestern University and Duke University applied films to problematic windows and glass passageways, while the University of Florida applied 'Acopian Bird Savers' curtains to the windows of two buildings prone to BWCs. 
+But on the VTCRC campus, Schneider and her colleagues have not found the support they hoped for. Acknowledging the difficulty of making every building bird-friendly, Schneider and her colleagues suggested that applying temporary measures, during peak collision times, to particularly problematic buildings seemed like a good compromise. "We identified two buildings that accounted for over half of all bird deaths," says Schneider. They also suggested field-testing potential collision deterrents. But so far, the Center's management have not taken action to reduce bird window collisions.
+Sadly, this is a typical response. Some cities and states, like Chicago and Minnesota, have enacted bird-friendly building standards, but these remain rare and do not apply to all buildings. Currently, a bill to address this problem has been introduced in both the federal House and Senate, but as of yet, it remains in the hands of smaller committees. Even if it is eventually approved, the Federal Bird-Safe Buildings Act would only enforce bird-friendly design standards on newly built or acquired public buildings—meaning that bird advocates will have to turn to other avenues, such as collecting data themselves, to encourage private institutions to implement bird-friendly design features.
+Today, Schneider no longer manages her blog, nor does she continue to survey dead birds on the VTCRC campus. "I eventually came to the conclusion that others will have to study this issue again, and build on what I started," she says. 
+"It will take more than one person and one study to get those in power to do something."
+We ask other scientists from our Consortium to respond to articles with commentary from their expert perspective.
+
+Jenny Howard
+
+
+Ecology
+
+
+Wake Forest University
+
+I have seen other articles related to bird-window collisions, but it is such a huge issue I think this is an important one to keep in the forefront. As newer buildings tend to be built with more windows, this has become a bigger issue. It is only systematic studies like this one that allow us to figure out how large a problem these huge windows are causing! One question I had was regarding the difference in the number of birds found between 2013 and 2014 (47 found in 2013 vs. 198 in 2014): did the authors speculate on what caused the difference? Did sampling effort (hours spent searching, areas covered, number of volunteers) change between the two years?
+
+
+ Farah Qaiser responds:
+I actually investigated bird window collisions on my campus during my first undergraduate research project. Holding dead birds in my hands has been a visual that’s stayed with me since then.
+Yes, sampling effort was variable throughout the entire study period depending on weather and the number of volunteers available. But the main reason re: why there’s such a large difference in the number of bird fatalities is that surveys were carried out for only a portion of 2013 (specifically from October 2013 onwards), all of 2014, and then up to May 2015. Of the survey days (298 in total), 47 bird fatalities were recorded in 2013, 198 in 2014, and 53 in 2015.
+
+Lynn Bonomo
+
+
+Ecology
+
+
+California Academy of Sciences
+
+I had a question about why there is such a big contrast in how many deaths occur between high-rise buildings and lower ones. I would have thought that it would be the opposite way. Is it because the birds can more easily see the high-rise buildings as objects (tall trees)? Or that the reflection of the sky or other buildings make it less welcoming to fly towards?
+
+
+ Farah Qaiser responds:
+It’s true that high-rise buildings are a significant risk to birds. But overall, there are fewer high-rise buildings, and instead a majority of buildings are either low- or medium-rise buildings, so the latter category results in a greater number of fatal bird window collisions.
+(And yes, birds are more likely to be influenced by the mirror effect for low rise buildings since those glass windows will be able to reflect the surrounding greenery. The fly-through effect will take place in all buildings.)
+
+Mariam Zaki
+
+
+Medicinal Chemistry
+
+and Science and Technology Studies
+
+
+RPI
+
+Great article and helpful study! It’s definitely made me think of how essential UV reflective glass is to protect birds from smashing into glass windows and skyscrapers and I wish it was more implemented in our buildings. I’ve also seen many other articles mentioning that loud noise within the city also disrupts birds, especially birdsong.
+Do you think disruptive noise can also have an effect on whether a bird can avoid a glass window?
+One of the first to recognize insect metamorphosis, she's finally getting her dues after 300 years of obscurity
+Lauren Sara McKee, KTH Royal Institute of Technology
+
+November 4, 2019
+
+Max Moritz, University of California
+Faith Kearns, University of California
+
+October 24, 2019
+
+Cassie Freund, Wake Forest University
+
+March 21, 2019
+
+Jenny Howard, Wake Forest University
+
+December 18, 2017
+
+Cassie Freund, Wake Forest University
+
+October 12, 2017
+
+Jenny Howard, Wake Forest University
+
+June 29, 2018
+
+Rita Ponce, Polytechnic Institute of Setúbal
+
+November 25, 2020
+
+Sahana Sitaraman, National Centre for Biological Sciences, India
+
+November 17, 2021
+
+Allison Fritts-Penniman, Ecology
+
+November 22, 2020
+
+A combination of landscapes, stars, and experience guide the geese & gander migrations
+Tom Langen, Clarkson University
+
+December 14, 2020
+
+Sam Zlotnik, University of Florida
+
+November 1, 2020
+
+Maddie Bender, Yale University
+
+September 25, 2020
+
+Ashley Marranzino, University of Rhode Island
+
+June 29, 2020
+
+Fernanda Ruiz Fadel, Advanced Identification Methods GmbH
+
+October 7, 2021
+
+Enzo M. R. Reyes, Massey University
+
+August 19, 2021
+
+Enzo M. R. Reyes, Massey University
+
+June 27, 2021
+
+Krystal Vasquez, California Institute of Technology
+
+March 19, 2021
+
+Krystal Vasquez, California Institute of Technology
+
+January 21, 2021
+
+Fascinating science stories, as told by scientists
+We're a community of scientists telling stories about all the truth and beauty in the universe. Subscribe to get the most interesting, enlightening, and entertaining science writing sent to you.
+We're a community of scientists telling fascinating, true stories about the science that's happening now.
+© 2017 – 2020 Massive Science Inc.

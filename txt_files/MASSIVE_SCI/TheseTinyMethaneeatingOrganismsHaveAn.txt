@@ -1,0 +1,135 @@
+Massive en español
+Noticias de ciencia
+COVID-19
+The facts about COVID-19, straight from scientists
+Butt Month
+The science of butts, poop, and intestines
+Surviving the Anthropocene
+Adapting to endure humanity's impact on the world
+Science Heroes
+Women in STEM you may not have heard of
+Mind Control
+Dispatches from the frontiers of neuroscience
+Food for Thought
+Making agriculture safe, healthy, and sustainable
+Breakthroughs
+Interviews with cutting-edge scientists
+
+A version of this story originally appeared on
+OceanBites
+
+They don't need as much oxygen as we think, and that's a big deal for climate scientists.
+
+Michael Graw
+
+
+Oceanography
+
+
+Oregon State University
+
+Human industries and their output—oil fields, smokestacks, and cars—are usually thought of as the largest contributors to greenhouse gases. But humans are not the only source of emissions. Microorganisms in the ocean floor have been producing methane, a greenhouse gas 25 times more effective at warming the planet than carbon dioxide, since long before humans evolved. In fact, microorganisms in the seafloor produce 45 teragrams of methane per year, about 10% of the total amount of methane on earth that reaches the atmosphere each year.
+
+While the amount of methane produced by microorganisms in the ocean floor is small relative to the amount produced by humans, it is no less important in driving climate change. And unlike human contributions to climate change, methane emissions from the ocean are not that well understood. This poses a problem for scientists using models to predict how the earth’s climate will change over coming centuries. Multiple small errors in a larger model can ultimately add up and lead to important differences in the model’s predictive capacity. 
+
+The biggest challenge for scientists trying to determine out how much methane is being emitted from the ocean each year is not how much methane is produced by microbes in the seafloor, but how much makes it from the seafloor to the atmosphere. That’s because other microorganisms known as aerobic methanotrophs make a living in the ocean by eating methane as it bubbles up from the seafloor towards the atmosphere. These organisms breathe air (hence, aerobic in the name) but eat methane, and their need for both oxygen and methane creates problems both for the methanotrophs and the scientists who study them.
+The amount of methane and oxygen in the coastal ocean, where most methane is produced and aerobic methanotrophy live, changes with the seasons. For aerobic methanotrophs, summer represents the time when their food source—methane—is most abundant, but the oxygen they need to breathe is most scarce. Long, sunny summer days allow coastal waters to support a huge abundance of life and a complex food web that extends all the way up to fish. Much of that life dies and sinks by summer’s end, turning into detritus that microorganisms in the water can then eat. Since many of these microorganisms breathe oxygen just like aerobic methanotrophs, the microbial feeding frenzy at the end of summer results in extremely low oxygen levels in the water. At the same time, detritus that reaches the seafloor fuels rapid methane production by microorganisms there.
+
+Winter presents the opposite problem for aerobic methanotrophs. Short days limit the ability of organisms in the coastal ocean to grow, so there is less detritus for microorganisms both in the water and in the seafloor to feed on. As a result, less oxygen is used up in the water and less methane is produced in the seafloor. For aerobic methanotrophs, oxygen is now plentiful but methane is scarce.
+
+Understanding the complicated relationship between methane levels, oxygen levels, and the ability of aerobic methanotrophs to consume methane as it travels from the seafloor to the atmosphere is a big deal for scientists trying to track ocean methane emissions. And since climate models rely on an accurate accounting of these emissions, this data is critical for scientists from many different fields. So, can aerobic methanotrophs consume the abundant methane that is produced during the summertime, or are they suffocating from the lack of oxygen?
+
+A team of researchers set out aboard a research ship bound for the coastal Eckernförde Bay in the Baltic Sea to answer this question. Eckernförde Bay has such a huge amount of methane coming out of the seafloor in the summer that methane bubbles can actually be seen with the naked eye. 
+By lowering a cage with water bottles attached to it on the ship’s winch wire, then sealing the water bottles when the cage reached the desired water depth, the researchers collected water from multiple depths in the bay. Sealing the bottles before bringing them back to the surface was critical to preventing any changes to the amount of methane and oxygen in the bay water before they could be analyzed. Back on shore, the researchers measured the amount of methane and oxygen in each water sample. They then added a tiny amount of radioactive methane to the water samples to track how quickly aerobic methanotrophs present in the water were consuming methane under environmental conditions. 
+
+The research team also manipulated the water samples to independently test how changing oxygen and methane levels affect aerobic methanotrophs. They placed the water samples under a vacuum to remove all of the oxygen and methane, then added back specific quantities of oxygen and methane. They tested everything from water samples with no oxygen and no methane, to ample oxygen and methane, and everything in between. Like before, they added a tiny amount of radioactive methane at the start of each experiment so that they could track how fast it was consumed.
+
+They found that aerobic methanotrophs are surprisingly good at surviving in the extreme low-oxygen conditions of summer in the bay. In fact, their measurements showed that aerobic methanotrophs were fastest at eating methane in the summer, when oxygen in the water was too scarce even to be measured with traditional instruments. Even more surprising, aerobic methanotrophs were so averse to high oxygen levels that more methane escaped to the atmosphere in the winter rather than the summer, even though the total amount of methane bubbling through the bay was higher in the summer.
+
+The laboratory experiments with manipulated oxygen and methane levels confirmed this result. Laboratory experiments are a necessary complement to environmental measurements, since it is critical to pin down exactly what variations are responsible for the observed results. Laboratory experiments can also provide information that would be hard to deduce from environmental measurements alone, since not every condition that researchers would like to know about actually occurs in the environment. In this case, the researchers also found out that for a given amount of oxygen in the water, the amount of methane present did not matter to aerobic methanotrophs. They consumed methane at the same rate regardless of whether there was plenty of methane available or barely any added to the water at all. Paradoxically, it seems that the amount of methane produced in the bay has little impact on what proportion of methane produced in the seafloor makes it to the atmosphere. 
+The results of this study have important implications for scientific understanding of how much methane is being emitted to the atmosphere from the ocean, both now and as the planet experiences climate change. Climate change is expected to make the summertime decrease in oxygen even more dramatic in many coastal regions, but the findings from this study indicate that this may actually reduce the amount of methane coming from the ocean as aerobic methanotrophs consume methane faster under these conditions.
+
+This result can also be incorporated into climate models. While the contribution of methane from the ocean may currently be small relative to what humans produce, it is important for scientists to know that the amount of methane that bypasses aerobic methanotrophs will not increase in the future even if summertime oxygen levels decrease. Although this will only result in small alterations to existing climate models, incremental advances such as this add up quickly to more produce more accurate models. These models are essential to predicting and preparing for the effects of climate change, so it is critical to make them as representative of real-world dynamics as possible.
+
+This study also shows how combined field and laboratory analyses can improve scientists’ abilities to predict how natural systems will respond to climate change. Questioning old assumptions and continuing to investigate how even the tiniest of organisms may play a role in global changes is fundamental to improving scientific understanding of how the earth works and how it may change during our lifetimes.
+A version of this article originally appeared on OceanBites.
+Steinle, L., et al. (2016). Effects of low oxygen concentrations on aerobic methane oxidation in seasonally hypoxic coastal waters. Biogeosciences Discuss. doi:10.5194/bg-2016-422.
+
+The task is like looking through a book with six billion letters for individual typos
+Malosree Maitra, McGill University
+
+November 26, 2021
+
+Rita Ponce, Polytechnic Institute of Setúbal
+
+November 25, 2021
+
+Mihaela Bozukova, Max Planck Institute for Biology of Ageing
+
+November 15, 2021
+
+Georgina To'a Salazar, University of Texas Health Science Center at Houston
+
+November 14, 2021
+
+Sree Rama Chaitanya, Molecular Biology
+
+November 7, 2021
+
+Xinwen Zhu, Boston University
+
+July 20, 2021
+
+Madeline Barron, University of Michigan
+
+October 19, 2021
+
+Simon Spichak, Neuroscience
+
+September 28, 2021
+
+Marnie Willman, University of Manitoba Bannatyne
+
+September 14, 2021
+
+How emergency forces innovation & one Italian scientist advanced our understanding of COVID variants.
+Peter Weinberg, Biology
+
+December 17, 2021
+
+Dan Samorodnitsky, Senior Editor
+
+November 30, 2021
+
+Kevin Bird, Michigan State University
+
+November 29, 2021
+
+Matthew Bomkamp, University of Florida
+
+November 29, 2021
+
+Lois Parshley
+
+November 28, 2021
+
+Charlie Wood
+
+November 28, 2021
+
+Reinack Hansen, Materials Science
+
+November 26, 2021
+
+Derek Smith, University of Michigan
+
+November 23, 2021
+
+Pamela Hirschberg, Rutgers University
+
+November 23, 2021
+
+Fascinating science stories, as told by scientists
+We're a community of scientists telling stories about all the truth and beauty in the universe. Subscribe to get the most interesting, enlightening, and entertaining science writing sent to you.
+We're a community of scientists telling fascinating, true stories about the science that's happening now.
+© 2017 – 2020 Massive Science Inc.

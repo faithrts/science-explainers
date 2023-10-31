@@ -1,0 +1,134 @@
+Massive en español
+Noticias de ciencia
+COVID-19
+The facts about COVID-19, straight from scientists
+Butt Month
+The science of butts, poop, and intestines
+Surviving the Anthropocene
+Adapting to endure humanity's impact on the world
+Science Heroes
+Women in STEM you may not have heard of
+Mind Control
+Dispatches from the frontiers of neuroscience
+Food for Thought
+Making agriculture safe, healthy, and sustainable
+Breakthroughs
+Interviews with cutting-edge scientists
+Patricia Prudente on Unsplash
+
+A version of this story originally appeared on
+The Conversation
+
+Just because you can, doesn't mean you should.
+
+Joel Michael Reynolds
+
+
+Philosophy
+
+
+UMass Lowell
+
+The use of self-tracking and personal surveillance technologies has grown considerably over the last decade. There are now apps to monitor people’s movement, health, mindfulness, sleep, eating habits and even sexual activity.
+Some of the more thorny problems arise from apps designed to track others, like those made for parents to track their kids. For example, there are specific apps that allow parents to monitor their child’s GPS location, who they call, what they text, which apps they use, what they view online and the phone number of their contacts.
+Counting steps before they can even walk?
+Shanice McKenzie
+As a bioethicist who specializes in the ethics of emerging technologies, I worry that such tracking technologies are transforming prudent parenting into surveillance parenting.
+Here are three reasons why.
+The first reason has to do with concerns over the tech itself.
+Tracking apps are not primarily designed to keep children safe or help with parenting. They are designed to make money by gathering loads of information to be sold to other companies.
+A 2017 report from a marketing research firm estimates that self-monitoring technologies for health alone will reach gross revenues of US$71.9 billion by 2022.
+The lion’s share of the profit is not in the device itself, but in the data drawn from its users.
+To get as much data as they can, these apps work hard to keep one constantly using them via push notifications and other design techniques.
+This data is then often sold to other companies – including advertising agencies and political campaign firms. The primary aim of these devices is not people’s well-being, but the profit that can be made off of their data.
+When parents track children, they help companies maximize their profits. Should a child’s information become de-anonymized and fall into the wrong hands, this could put one’s child at risk.
+There are also significant privacy risks.
+A 2014 study by the security firm Symantec found that even devices that do not appear to be traceable can still be tracked wirelessly, as a result of insufficient privacy features.
+That same year, a study by computer scientists at the University of Illinois at Urbana-Champaign found that many Android mobile health applications, for example, send unencrypted information over the Internet. Nearly all of these apps monitor one’s location. Researchers at MIT and the Catholic University of Louvain found that just four time-stamped locations could uniquely identify 95% of individuals, making promises of anonymity hollow.
+Information related to people’s whereabouts can reveal valuable data about them. In the case of children, their tracking data could very easily be used by someone else.
+Another reason why tracking one’s child is worrisome has to do with the risk of breaking their trust.
+#WOCinTech Chat
+Social scientists have shown that trust is central to close relationships, including healthy parent-child relationships. It is necessary for the development of commitment and feelings of security. A child’s sense of personal privacy is a crucial component of this trust.
+A 2019 study shows monitoring a child can undermine the sense of trust and bonding. In fact, it can become counterproductive to the point of pushing the child further towards rebellion.
+This risk, I would argue, is perhaps far more serious than those leading parents to track their children in the first place.
+While I think that tracking one’s child is often unethical, there are some cases where it may be warranted.
+If a parent has good reasons to suspect that their child is suicidal, involved in violent extremism, or engaged in other activities that threaten their life or that of others, the best course of action may involve breaking trust, invading privacy and monitoring the child.
+But those are the exceptions, not the rule. Think twice before tracking your kids.
+It's time to rethink computing from the ground up and model it on nature's processes
+Claire L. Evans
+
+September 29, 2020
+
+Amy R Nippert, University of Minnesota 
+
+May 12, 2020
+
+Dori Grijseels, University of Sussex
+
+February 9, 2020
+
+Alyssa Shepard, The Scripps Research Institute
+
+July 11, 2019
+
+Dan Samorodnitsky, Senior Editor
+
+November 26, 2018
+
+Sam Zlotnik, University of Florida
+
+November 1, 2020
+
+Claudia López Lloreda, University of Pennsylvania
+
+January 13, 2020
+
+Hannah Thomasy, University of Washington
+
+May 20, 2019
+
+Jack Barton, University of Manchester
+
+March 18, 2019
+
+The neurological and behavioral consequences of separating children from parents, especially mothers, can persist into adulthood
+Prabarna Ganguly, National Human Genome Research Institute
+
+August 8, 2018
+
+Stephanie Santo, Psychology
+
+November 16, 2021
+
+Jayati Sharma, Johns Hopkins University
+
+March 6, 2021
+
+Kristen Vogt Veggeberg, University of Illinois at Chicago
+
+August 11, 2020
+
+Brittney G. Borowiec, Wilfrid Laurier University
+
+June 6, 2018
+
+Brittney G. Borowiec, Wilfrid Laurier University
+
+November 17, 2020
+
+Laura Haetzel, UC Berkeley
+
+October 24, 2020
+
+David Baranger, University of Pittsburgh
+
+October 10, 2019
+
+Dan Samorodnitsky, Senior Editor
+
+May 8, 2021
+
+Fascinating science stories, as told by scientists
+We're a community of scientists telling stories about all the truth and beauty in the universe. Subscribe to get the most interesting, enlightening, and entertaining science writing sent to you.
+We're a community of scientists telling fascinating, true stories about the science that's happening now.
+© 2017 – 2020 Massive Science Inc.

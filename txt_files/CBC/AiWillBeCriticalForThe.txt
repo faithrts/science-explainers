@@ -1,0 +1,42 @@
+There won't be androids rushing through hospitals or drones hovering to triage patients just yet, but artificial intelligence is starting to make the rounds when it comes in health care in Canada.
+As the technology evolves and becomes more mainstream, while staying firmly behind the computer monitor, experts say rural Canadians may have the most to gain.
+Dr. Alex Wong is the Canada Research Chair for Artificial Intelligence.
+While he says the country at large will benefit from AI making health care work more efficient, rural Canadians will see "an even greater impact" as the science helps doctors, nurses and specialists in regions with fewer staff.
+"Resources are even more limited … that's where AI can really come in place," Wong said.
+"With their expertise having seen this big worldview of thousands, to hundreds of thousands, to millions of different patients, it's able to [take] that knowledge and bring it to rural areas to help improve diagnosis and improve treatment."
+Wong and others say artificial intelligence will help health-care providers with things like:
+Some of those tasks are already being carried out by AI health systems in Toronto and Montreal. On a panel for The National, Dr. Muhammad Mamdani, vice-president of data science and advanced analytics at Unity Health Toronto, said some tasks that "normally take two to four hours every day by a few people, it's reduced to under 15 minutes."
+Wong said doctors of the near future will use AI as a "clinical vision support system" that will give staff more insight into illness when they interact with patients.
+"When you see a doctor on a computer, they're looking at images, records and data. Now you have this additional AI that provides additional insights and information," Wong said. "Essentially you treat it as a second recommendation."
+Similar experiments are being done in Australia.
+Like Canada, it's a country that has a large landmass with many rural and remote areas, and fewer staff and specialists in those areas. 
+The country has its own unique challenges. Care units like the Royal Flying Doctors Service are regularly deployed to provide care to the most remote communities, but what AI can do in rural areas is starting to become more widely understood.
+Dr. Stefan Harrer is chief innovation officer for the Digital Health Cooperative Research Centre. He said AI will cut down significantly on the paperwork that preoccupies health care workers countrywide.
+"The degree of documentation and reporting that clinicians have to undergo everyday is overwhelming, right, so they spend way more than half their time on writing summaries, producing discharge reports… creating medical reports," he said in an interview from Melbourne.
+"That is a massive inefficiency, and eats up a lot of the potential and energy that clinicians could bring to other parts of their roles, interacting with patients, actually treating patients."
+The federal Department of Science says it is "committed to ensuring all Australians share the benefits of artificial intelligence," calling it a critical technology of national interest that could help solve health challenges.
+On the ground, a company named DrumBeat AI uses images of patients' inner ears to identify ear disease in Indigenous children in remote parts of Australia. It has made local and national news for how it's helping people.
+"To help healthcare workers with limited experience to instantly triage ear disease and detect hearing loss, our team has developed and published the first artificial intelligence (AI) algorithm for Indigenous children," said Dr. Al-Rahim Habib, project lead with DrumBeat in an email. 
+"The overarching purpose of DrumBeat.ai is to enhance the capacity of frontline healthcare workers in rural and remote areas to quickly identify ear disease, inform judgment, and improve clinical decision-making."
+Harrer said what DrumBeat and others in the field are doing is life changing for patients, and crucial to the future of health care in rural areas.
+"There aren't always experts on the ground in these rural communities to perform these checks, do this monitoring and get the diagnosis right," Harrer said.
+"That's an application where an AI-driven, cloud-based — you could call it a tele-health solution — brings immediate value and impact to improving the health of rural communities and Indigenous communities."
+The technology isn't without controversy, however. In Australia, as in Canada, there are concerns about cybersecurity, safety, regulation and how the use of AI could affect jobs. 
+Both Harrer and Wong say AI systems will need to have regulation and oversight.
+"They all help the human, right? They all assist humans in empowering them to do it better, do it faster and have more impact with what they do," Harrer said. 
+"AI does not, ever, replace humans. That is not where this is going ... if AI in health care has to be described in one word, it's 'assistance.' That's what it's there for. Not replacement."
+Wong said the goal is to help clinicians literally see and do more, and have more data in their hands quickly.
+"Doctors are indispensable, nurses are indispensable, health-care workers are indispensable," Wong said. "If we can help them better, than they can see more patients, they can have greater consistency in their diagnoses and patient treatment."
+Part of the issue Canada faces in using AI is that many rural communities still don't have stable access to high-speed internet. Infrastructure as a whole is still experiencing a "persistent digital divide," Auditor General Karen Hogan said earlier this year regarding rural connections. 
+Ottawa has set a goal of connecting 98 per cent of Canadians to high-speed internet by 2026, with universal access by 2030. 
+Health Minister Mark Holland said last week as health ministers met in Charlottetown that digital record sharing in health-care will be a huge priority for federal, provincial and territorial governments going forward.
+That would make it easier to roll out AI health care technology at a time when countries similar to Canada are thinking about the very same thing.
+"Bringing health care to these communities is a key imperative of the Australian health-care system," Harrer said.
+"We're in a very, very exciting time right now, where … the appetite to use AI is unprecedented. There is absolutely a reason to be excited, and positive and inspired by where this leads … Health care and medicine is where the stakes are highest."
+Multi-platform Journalist
+Cody MacKay is a writer, editor and social media producer for CBC News on Prince Edward Island. From Summerside, he's a UPEI history and Carleton masters of journalism grad who joined CBC P.E.I. in 2017. You can reach him at cody.mackay@cbc.ca or on social media as @CodyBMac
+Audience Relations, CBC P.O. Box 500 Station A Toronto, ON Canada, M5W 1E6 
+Toll-free (Canada only): 1-866-306-4636
+It is a priority for CBC to create products that are accessible to all in Canada including people with visual, hearing, motor and cognitive challenges.
+Closed Captioning and Described Video is available for many CBC shows offered on CBC Gem.
+

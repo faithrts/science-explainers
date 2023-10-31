@@ -1,0 +1,130 @@
+
+   The human body was not designed to live in space, but genetic experiments on the International Space Station are preparing a biological toolkit for the future of long-term spaceflight. And some of the most groundbreaking DNA investigations taking place on the orbiting laboratory were designed by students. 
+ 
+
+   The Genes in Space program, a national contest for students across grades 7 through 12, has been an incubator for these youth-led innovations. The contest challenges students to design DNA analysis experiments while keeping the ISS US National Lab and its available tools in mind. 
+ 
+
+   Students Aarthi Vijayakumar, Rebecca Li, Michelle Sung and David Li won the competition in 2018, and their project became the Genes in Space-6 experiment. The student team’s investigation made history. For the first time in space, NASA astronauts successfully edited DNA using CRISPR/Cas9 technology while working on the Genes in Space-6 investigation on May 23, 2019.
+ 
+
+   The shorthand CRISPR stands for clustered regularly interspaced short palindromic repeats – a repeated DNA sequence in genomes. Cas9, a type of modified protein, acts like a pair of scissors that can snip parts of DNA strands so that scientists can modify genetic material at a targeted site. 
+ 
+
+   “I remembered when Kate Rubins became the first to sequence DNA in space (in 2016), and then to find out that I would get to do another first in space was really exciting for me,” said NASA astronaut Christina Koch, who worked on the experiment while on the space station. “I was just amazed at the fact that they were high school students putting together something so complicated that required such dedication and scientific prowess.”
+ 
+
+   The investigation was designed to analyze how DNA breaks are repaired in the space environment. 
+ 
+
+   The student team developed their approach after recognizing that astronauts face an increased risk of cancer when they return to Earth after long-term spaceflight. This increased risk stems from DNA damage that isn’t repaired correctly, previous research has suggested. 
+ 
+
+   “We decided we wanted to really understand what happens to DNA repair pathways in space,” said Vijayakumar, now a junior at Yale University studying molecular biophysics and biochemistry. 
+ 
+
+   When we’re on Earth, DNA is protected from damage by the planet’s atmosphere and magnetic field. When astronauts leave Earth, their DNA is at risk from sustaining damage. If the DNA repairs itself incorrectly, mutations can occur.
+ 
+
+These beating heart cells went to space. This is how they could save patients
+
+
+   “The double strand breaks that this experiment simulated by using CRISPR is something that occurs with astronauts because of the galactic cosmic ray radiation component,” Koch said. “And that’s something that’s very difficult to shield against when you’re out in space.”
+ 
+
+   The experiment involved using CRISPR/Cas9 in yeast cells to create double-strand breaks at a particular place in the yeast genome. The astronauts waited to allow the cells to repair the damage they caused. Then, the team produced copies of this repaired section of the DNA using a technique known as polymerase chain reaction, or PCR, in an onboard tool called miniPCR. 
+ 
+
+   A separate device called MinION was able to sequence the repaired DNA in the copies. By sequencing the DNA, the astronauts were able to determine that it was correctly repaired – all in the absence of gravity. 
+ 
+
+   The entire experiment took place in space, without the requirement of returning any cells to Earth for further analysis. The Genes in Space-6 team waited for a visual marker as confirmation that CRISPR successfully edited the cells. When the astronauts picked up the plate, they observed a single red colony, the signal the team was hoping to see. 
+ 
+
+What it's like to attend 'Space Club' with astronauts and planetary explorers
+
+
+   The student team was able to watch the astronauts conduct the experiment in space in real time. The four students also had the opportunity to work with scientists on their experiment as well as pulling together the results for publication.
+ 
+
+   “We were able to verify for the first time that CRISPR/Cas9 does successfully cut in space and establish this amazing gene editing tool in space for the first time,” Vijayakumar said. “It helps set up this whole molecular biology toolbox and workflow that can later be used to hopefully answer our original questions and so many other questions.”
+ 
+
+   The results of the experiment were published in a study in the journal PLOS ONE in June. These findings can provide a model for future DNA research studying cell repair, as well as help facilitate countermeasures or potential pharmaceutical treatments. It also sets up the potential for enabling further genome editing in space.
+ 
+
+   “It’s something that we are very cognizant of as astronauts for both long-duration, low-Earth-orbit spaceflights but also deeper space flights going to the moon and Mars,” Koch said. 
+ 
+
+   “We set limits on the radiation exposure that a given astronaut is allowed to experience during their spaceflight career based on the science of what the implications of that radiation is, so it’s a big component of deep spaceflight missions and understanding how long we can take those missions.”
+ 
+
+   Through programs such as Genes in Space, students are able to share their approaches and potential solutions to the risks and issues astronauts may face in space. 
+ 
+
+   “Students can see these connections that you don’t see when you’re kind of steeped in specific scientific training, so it’s like a continual source of inspiration to see that we have not tapped out the pool of ideas – there are still new ideas,” said Katy Martin, Genes in Space program lead. “Even though we get hundreds each year, we see all kinds of awesome, undiscovered ideas that we never would have come up with ourselves.”
+ 
+
+Humans have been living on the space station for 20 years
+
+
+   Kristoff Misquitta, now a freshman at the Massachusetts Institute of Technology, won the 2020 Genes in Space contest with his experiment designed to understand how livers function in space. The 2020 contest was entirely virtual for the first time because of the pandemic. 
+ 
+
+   “We’re trying to develop a powerful and efficient workflow to understand the state of the liver in space, and to use that as a basis to understand some of the issues surrounding the way astronauts take medication currently and to remedy issues we find,” Misquitta said.
+ 
+
+   “Hopefully we can use this as a platform to someday develop more advanced and different types of medications.”
+ 
+
+   Misquitta’s investigation also tests out new biotechnology on the space station called the Genes in Space fluorescence viewer. 
+ 
+
+   “It basically lets you visualize the fluorescence generated by organic molecules, and we’re hoping to use that in the future as a platform for quick diagnostics and other investigations, so it’s a forward-looking experiment setting up for a lot of exciting tests in the future,” he said.
+ 
+
+   Medications can be used as countermeasures to combat health issues astronauts encounter during long-term spaceflight, but the lack of gravity or increase in radiation in space may actually change the way the human body breaks down medicine. This may mean that dosages need to be changed so they are safer and more effective. 
+ 
+
+   Little is known about liver function in space, but previous research has indicated it differs from when we’re on Earth. 
+ 
+
+The 'mighty mice' that went to space could help protect astronauts' muscles and bones
+
+
+   Proteins in the liver breakdown medications, so understanding how the liver functions and the way this breakdown occurs in space could just be the beginning. Medications may become even more important as astronaut crews undertake deep space missions where communications are increasingly delayed between their spacecraft and Earth.
+ 
+
+   “About one in five times across 79 shuttle missions, we know that those medications tended not to work perfectly effectively,” Misquitta said. “We’re looking to address those rare cases when they don’t work at all.”
+ 
+
+   NASA astronaut Megan McArthur is currently carrying out Misquitta’s investigation on the space station. The experiment involves isolated genetic materials from the livers of mice, some of which have been given acetaminophen and others that haven’t. The team will look to see whether the effects of the drug are visible on the DNA level while on the space station. 
+ 
+
+   “To know now that after so many years I get to have a part of my work, and to have a legacy on the International Space Station, still blows my mind, and it makes me so happy and optimistic for other students who really want to contribute to space travel in our future among the stars,” Misquitta said. 
+ 
+
+   Misquitta hopes that research like this could contribute to a safety net for astronauts where they have personalized medications that they can trust.
+ 
+
+   “All of our winners are responsible for incrementally pushing the envelope in terms of what type of biotechnology we have available to us to use in space in the moment,” Martin said. “The vision we work toward is making smaller, more portable, more flexible, lower maintenance laboratory equipment that can be taken to the moon and Mars.”
+ 
+
+   About 90% of the Genes in Space participants have learned about the competition from their teachers. The program has established Lab in a Box, where teachers can borrow a toolkit that includes some of the same equipment astronauts use to carry out the experiments on the space station.
+ 
+
+NASA-SpaceX launches will boost science research on the space station
+
+
+   “Genes in Space gives students this confidence to say, ‘I have an idea that can actually happen on this large of a scale,’ ” Vijayakumar said.
+ 
+
+   Astronauts see these experiments, as well as the participation of the students designing them, as invaluable.
+ 
+
+   “Diversity of backgrounds, diversity of thought and having a fresh group to look at things with new eyes is so important for coming up with solutions to the tough problems and challenges that are out there,” Koch said. “One of the important aspects of the space station is making sure that students know all of the awesome things that you can do with a STEM degree to make sure that we keep that innovative spirit alive.”
+ 
+
+   Genes in Space is funded and operated by Boeing and miniPCR bio, with additional support from the ISS National Lab and New England Biolabs.
+ 
+© 2023 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved. CNN Sans ™ & © 2016 Cable News Network.

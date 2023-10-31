@@ -1,0 +1,33 @@
+By 
+
+
+   Alejandra Borunda
+  
+
+
+        Towering smoke plumes overshadowed California's town of Paradise as the Camp Fire raced through in 2018. More than 18,000 acres burned in a matter of hours.
+        
+          
+          Josh Edelson/AFP via Getty Images
+          
+        
+hide caption
+
+Towering smoke plumes overshadowed California's town of Paradise as the Camp Fire raced through in 2018. More than 18,000 acres burned in a matter of hours.
+During some of the worst hours in Camp Fire, which in 2018 burned the town of Paradise, California to the ground, the fire was growing so fast it ate up 10,000 acres within just 90 minutes.
+Wildfires like the Camp Fire that intensify and spread enormously within a single day, hour, or even minutes, keep fire experts up at night. Now a new study, published Wednesday in Nature, uses a machine-learning model to show that climate change has nudged the risk of fast-spreading fires up by about 25% on average in California. That's compared to a time before humans heated up Earth's atmosphere by burning vast amounts of fossil fuels. 
+"We're seeing the impact of climate change for the first time on that high-resolution fire behavior," says Patrick Brown, the study's lead author and a climate scientist at Berkeley's Breakthrough Institute.
+The dangers didn't increase evenly. Of the 18,000 California fires that sprang to life from 2003 to 2020, 380 of them included at least one day when they grew by at least 10,000 acres — an area as big as most of Manhattan. Climate change ramped up the likelihood of that growth for most of the fires–but not all of them.
+The team found there were critical thresholds governing fire behavior. For fires burning near the thresholds, climate change could tip them into a more dangerous state.
+"It's kind of like if you're wondering if growing a couple inches will help you dunk," Brown explains. If you're really tall already, he says, a few extra inches won't make a big difference. But if you're 5' 10", a little boost could get you over the rim. "We see the same thing with wildfires. If you're right on the precipice of these thresholds, then warming causes them to cross over that threshold and increase the risk of danger," he says.
+The thresholds were primarily associated with the vapor pressure deficit, a fancy term for how air pulls water out of dead or live plants and other burnable materials. Hotter air –one of the hallmarks of human-caused climate change–sucks moisture more strongly out of those pieces of potential tinder. Years of prior research has shown that fires can grow much bigger and more intense when they have plenty of dry, crispy fuel to burn, a factor heavily influenced by big vapor pressure deficits.
+The new research substantiates those earlier findings, showing fires to be nearly five times likely to burn explosively if those thresholds were crossed. But when the weather was already extremely hot and dry, or by contrast very moist, climate change's extra nudge didn't make as big a difference to fire behavior.
+As much influence as a heated-up atmosphere can have, it's far from the only factor at play. "Explosive growth of fires is almost always in some way correlated with high winds," which whips small fires into enormous ones, points out Max Moritz, a fire expert at the University of California, Santa Barbara, who wasn't involved in the study. 
+Where fires start, and how, affects their behavior as well. Fires act differently in forests than in grass or shrublands, or in areas full of houses. "The things we need to continue to keep in mind are the factors alongside climate that are equally if not more important: how is the land use going to change, and how is vegetation going to change?," says Alexandra Syphard, a fire scientist with the Corvallis, Oregon-based nonprofit Conservation Biology Institute.
+The researchers trained a machine learning model on California's 18,000 fires over the past two decades and the weather conditions under which they burned so that the model could pick out the weather factors that influence fire behavior. Using climate models, they simulated that same world, but minus human-caused climate change. Then they compared fire behavior in the simulated, un-warmed world with the real, overheated one. 
+Risks of explosively growing fires are almost certainly going up, the research found, even if global emissions are reduced quickly and decisively. Global temperatures will continue to rise even after emissions slow or stop, continuing to push fires into more dangerous territory. The number of fast-growing fires could almost double by the end of the century, the researchers found. 
+But, says Brown, those climate-driven increases in risk can be nearly–or entirely–offset by smarter management of the non-climate parts of the fire story. Clearing extra fuel from overcrowded forests via strategies like prescribed fire, for example, means there's less fuel to burn. More than 80% of U.S. fires are started by people, and those fires burn faster and wider than naturally ignited ones. Getting that number in check could greatly lessen risks.
+To Mortiz, the challenge now is partly about considering climate's influence on wildfire risk while figuring out how to minimize the risks of fire for people and their homes and communities. 
+His research group has looked at how human-scale decisions, like neighborhood design or house placement, affects wildfire risks to communities. "We realized the strength of housing densities on fire activity rivals the strength of climate variables in some parts of California," he says. Those choices are well within peoples' ability to control, through zoning policy, or building codes, or fire-smart neighborhood design. "We have to be more holistic in our understanding of 'risk,' to look at the human side as well," Mortiz says.
+Sponsor Message
+Become an NPR sponsor
