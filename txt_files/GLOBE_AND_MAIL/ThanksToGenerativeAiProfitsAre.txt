@@ -1,0 +1,132 @@
+Generative AI has already started to save companies millions, upending workflows, changing hiring plans and shifting investment criteria. And the enthusiasm shows little sign of abating, despite the caution signs
+Ever since OpenAI released ChatGPT in November, 2022, companies such as Shopify Inc. and Thomson Reuters Corp. have looked to capture the potential benefits of generative AI by launching new products and services.iStockPhoto / Getty Images
+Most companies have labour-intensive, mundane yet unavoidable tasks that contribute little to the bottom line. For Certn (Canada) Inc., one of the country’s fastest growing technology companies, that includes conducting reference checks for corporate customers when they hire employees. The Victoria company offers the service as part of its business performing online background checks. At a hackathon in July, a team of employees had an idea: What if generative artificial intelligence could call references instead of humans?
+Using large language models, or LLMs, the same technology underpinning OpenAI’s ChatGPT, Certn employees devised an AI-powered bot that would automatically schedule – and conduct – phone calls with references, asking questions provided by the client. The references would be told they were talking to a machine, but to add a degree of normalcy to the conversation, Certn tailored the bot to offer the odd “Hmm” or “I see.” The conversation would be transcribed and summarized by an LLM, and the AI would offer a sentiment analysis of whether the conversation was positive, neutral or negative in tone.
+Certn has now used the bot a few hundred times, and it has proved to be so much faster and effective that trial customers don’t want the company to go back to the old way. Plus, “it’s turned what was a zero gross margin product into a 99-per-cent gross margin product,” said Certn chief executive officer Andrew McLeod. “If we roll this out to all customers using voice references, it will equal $1-million a year or more” in profit contribution to his company.
+An extra $1-million in resources for a startup, especially during an economic slump, is a big deal. With savings such as those, at just one company, it’s easy to see why generative AI’s arrival has been heralded as a step-change equivalent to the spread of the internet in the 1990s or smartphones in the 2000s.
+Ever since OpenAI released ChatGPT in November, 2022, companies everywhere, from tiny startups to established technology firms such as Shopify Inc. SHOP-T, Lightspeed Commerce Inc. LSPD-T, Thomson Reuters Corp. TRI-T, BlackBerry Ltd. BB-T, Coveo Solutions Inc. and D2L Inc. DTOL-T have looked to capture the potential benefits of generative AI by launching new products and services.
+Not only that, but a wide swath of companies have unleashed generative AI on their own operations. A global survey of technology leaders by MIT Technology Review Insights in October found that nearly 90 per cent already use generative AI, while KPMG’s 2023 global tech report found 55 per cent of Canadian technology leaders surveyed cited AI and machine learning as the most important technology to help them achieve short-term business goals. From April to July alone, the number of generative AI projects among customers of Google Canada’s cloud computing business surged 150 per cent.
+In less than a year, generative AI has started to save companies millions of dollars, upending workflows, causing firms to reconsider hiring plans and venture capital funds to shift their investment criteria. For startups, generative AI is proving to be equivalent to a shot of phantom venture capture, boosting their ability to scale up with less outside financing while delivering savings and freeing up resources. “I strongly believe that disproportionately startups will benefit,” said Jas Jaaj, managing partner of AI and data for Deloitte Canada. “They’ll be able to do more with less when it comes to their work force.”
+It amounts to one of the most broad-based technology arms races in years, and companies are being told by experts they can’t afford to wait, lest they get left behind. George Colony, CEO of market analysis company Forrester Research Inc., said last month his firm typically advises clients to wait until a new technology matures before adopting it. “In the case of generative artificial intelligence, we are not giving you that advice,” he said. “We are saying, ‘You must do this now.’ ”
+But as the corporate world goes all in on generative AI, there are some serious pitfalls alongside the opportunities. “Generative AI is superhyped, but not supertrustworthy,” said Gary Marcus, a Vancouver-based entrepreneur who previously sold an AI company to Uber Technologies Inc.
+Applications that write text are adept at mimicking human prose but prone to making things up and producing factual errors, while lacking the capability to reason. The data used to train such applications could amplify biases and stereotypes, violate copyright and create new privacy risks.
+And then there are cost considerations. Generative AI, depending on the use case, can be cheap to implement. But that could change as providers of LLMs such as OpenAI, Google and Toronto’s Cohere seek to profit.
+Over the past year, some companies and individuals rushing to implement the technology have become case studies in what not to do. That includes news site CNET running AI-generated finance articles replete with factual errors, a New York lawyer who relied on ChatGPT and cited fake legal cases, and Samsung Electronics Co. Ltd. employees who uploaded sensitive code to the chatbot. At a conference in September, Royal Bank of Canada CEO Dave McKay noted that generative AI is “an incredibly exciting technology that’s not ready for prime time.”
+Mr. Marcus says new advances in AI may be necessary before we can fully trust the output of such systems, especially in tasks for which accuracy is crucial. “I see a lot of promises that may be hard to keep,” he said. Even Silicon Valley’s Sequoia Capital, which has backed AI companies, said in a September report that proponents now have to show how the technology can solve real problems for businesses. “A lot of AI companies simply do not have a product-market fit or a sustainable competitive advantage,” according to the VC firm.
+But for narrow uses, such as producing computer code, handling some customer service inquiries and automating rote tasks, many companies are already seeing the benefits – and they expect more. “A year from now my answer [to how we are using generative AI] will be 10 times what we’re talking about today,” said Jean-Philippe Durrios, CEO of Vancouver-based Bench Accounting Inc.
+And the enthusiasm shows little sign of abating, despite the caution signs. As Ottawa intellectual property lawyer Natalie Raffoul puts it, “It’s a tsunami that you won’t be able to stop.”
+In April, Greg Smith sent an urgent memo to all of his employees at Thinkific Labs Inc., a Vancouver-based maker of software used by online course creators to run their businesses. The topic, of course, was generative AI. “We must act and act fast on this opportunity or risk failing our customers and becoming obsolete in our industry,” the company’s CEO wrote. AI was different from other hyped technologies such as blockchains, virtual reality and NFTs; AI could actually be useful. “It’s not a hammer looking for a nail.”
+Before the term generative AI entered the lexicon, AI was a more abstract and less visible phenomenon. Algorithms could be trained on copious amounts of data to glean patterns and make recommendations, such as predicting when machines should undergo maintenance to head off costly breakdowns. Its role, at least as far as the public was concerned, was mostly confined to the background.
+“We had a lot of ideas of how AI could be used, but not a lot of examples of how companies actually used it,” said Carole Piovesan, co-founder of Toronto-based INQ Law, which advises companies on AI governance and risk assessments. “That is not where we are today.”
+Indeed, generative AI applications that create text, images, audio and video are easy to use, highly visible and produce instant results, helping capture the public’s imagination. The LLMs that underpin applications such as ChatGPT have been trained on huge amounts of data, much of it pulled from the internet, and can produce text by predicting the next word in a sequence. Partly owing to the amount of data involved, and by using feedback from humans who rate the quality of the models’ output, the capabilities of generative AI have leapt forward rapidly.
+There are three core uses for the technology, according to Mr. Jaaj at Deloitte: Generative AI can synthesize information to make certain processes faster and cheaper; act as a companion to offer advice or complete tasks for knowledge workers; and create new content.
+That portends a huge change in the business software market, U.S. venture capitalist Sarah Tavel said in an August blog post. Rather than delivering productivity gains for existing jobs as software has done traditionally, generative AI will now offer much cheaper and more effective alternatives for a long list of tasks now handled by humans – performing financial analyses, processing mortgages, accounting, producing legal documents and more. “Any of these, I imagine, are vulnerable to automation leveraging AI,” Ms. Tavel wrote.
+One of the most popular applications so far is GitHub Copilot, which uses OpenAI’s technology to help programmers write and test computer code. Copilot predicts code as programmers type out script, or it can be directed to produce simple code based on plain English instructions.
+The legal field is also embracing generative AI, using the technology to draft documents and contracts, answer questions and create research memos, complete with case citations.Photo illustration by The Globe and Mail/iStockPhoto / Getty Images
+At Montreal commerce software firm Lightspeed, the productivity of developers has improved by 20 per cent to 40 per cent thanks to Copilot, providing a boost to a company that has pledged to reach profitability this year. “If I can save hiring 30 per cent more developers because we’re using AI, I can have my developers be 30 per cent more productive, it’s happy days for everyone,” said CEO Jean Paul Chauvet.
+Copilot automated more than 17,000 lines of code in the third quarter alone at Thinkific, while every programmer at Certn who adopted Copilot received higher performance reviews than those who didn’t. They also received promotions, according to Mr. McLeod.
+Customer service tasks are ripe for automation, too. Lightspeed’s English-speaking staff in the Philippines are using ChatGPT to answer questions from German-speaking customers by text, for example. The translation is of such high quality that Lightspeed no longer needs to hire local agents in Germany for $100,000 each year, according to Mr. Chauvet. “I can do that at a third of the cost with someone in the Philippines with the same quality,” he said. There’s been no change to customer satisfaction scores either. All told, Mr. Chauvet estimates generative AI has already saved his company millions of dollars.
+Toronto-based company Ada Support Inc. has been using AI to build customer service chatbots for clients such as Block Inc. (formerly Square) and Verizon Communications Inc. for years, but the sophistication of LLMs has led the company to build in more capabilities. In April, Ada launched an AI-powered bot that can converse with customers over the phone and resolve some issues. So far, Ada the voice bot has conducted some 220,000 conversations with clients’ customers that have resulted in more than US$100,000 in savings, according to the company. For some clients, the bot has been able to resolve customer issues, such as processing refunds, without human intervention.
+Canadian digital bank challenger Wealthsimple Technologies Inc. worked with Ada to build a text-based chatbot that now handles about 70 per cent of customer inquiries, while leaving human advisers to tackle more difficult tasks related to investment decisions, for example. “We’re also very intentional that more sensitive questions should immediately be escalated to an adviser,” said Sam Talasila, LLM lead at Wealthsimple.
+The legal field is also embracing generative AI, using the technology to draft documents and contracts, answer questions and create research memos, complete with case citations. “I believe generative AI will be as important for the legal technology industry and the tech industry as the invention of the internet,” said Matt Proud, CEO of Toronto-based legal software company Dye & Durham Ltd. DND-T, which is launching a generative AI-based product that automatically drafts wills.
+Bench, which provides online bookkeeping to small businesses, is applying generative AI across the organization. The Vancouver-based company is using the technology to assist in processing documents, equip marketing associates to better answer customer questions and to deliver insights to customers, such as how expenses are trending compared with peers. “One thing we can confidently assert is that AI will remain the largest driving force behind our future growth,” said CEO Jean-Philippe Durrios.
+Shopify Inc., Canada’s most valuable tech company, is taking the same approach, integrating AI into many internal processes – from design and development to legal teams and other support staff. Recently, Shopify built a tool using an LLM from OpenAI for employees to pull up content from the company’s internal knowledge base. Workers can ask questions and receive responses from the AI tool, making company information more accessible.
+“For all types of work, AI can often help reduce the time it takes to get tasks done,” said Farhan Thawar, vice-president of engineering at Shopify. “We believe that employees should reach for AI early and often.”
+Some people who have worked with artificial intelligence for years are looking at the boom in generative AI with skepticism. Nicole Janssen has been selling AI products and services for five years through her Edmonton-based company, AltaML Inc. The fast-growing company generates $20-million in annual revenues, with customers such as Suncor Energy Inc. SU-T, TransAlta Corp. TA-T and ATB Financial. AltaML has saved the Alberta government millions of dollars a year by predicting the best place to position firefighting resources during wildfire season, sped up medical imaging reporting for a health care client, and saved millions in fuel and maintenance costs for industrial customers.
+But AI hasn’t always been an easy sell. Vendors often peddle solutions for problems that aren’t necessarily priorities for potential clients, and organizations typically need help getting their data in order for algorithms to mine it for insights. The corporate world has also talked about the potential of AI for years, but progress was slow.
+Increasing mentions of AI
+Hits for keywords “artificial iIntelligence” in S&P 500 company filings
+800
+700
+600
+500
+400
+300
+200
+100
+0
+Jan.
+Jan.
+Jan.
+Jan.
+Jan.
+2019
+2020
+2021
+2022
+2023
+the globe and mail, Source: scotiabank
+ 
+Increasing mentions of AI
+Hits for keywords “artificial intelligence” in S&P 500 company filings
+800
+700
+600
+500
+400
+300
+200
+100
+ 
+0
+Jan.
+Jan.
+Jan.
+Jan.
+Jan.
+2019
+2020
+2021
+2022
+2023
+the globe and mail, Source: scotiabank
+Increasing mentions of AI
+Hits for keywords “artificial intelligence” in S&P 500 company filings
+800
+700
+600
+500
+400
+300
+200
+100
+ 
+0
+Jan.
+Jan.
+Jan.
+Jan.
+Jan.
+2019
+2020
+2021
+2022
+2023
+the globe and mail, Source: scotiabank
+ChatGPT changed all of that. Rather than being pushed on companies by vendors, AI adoption is now driven organically and internally within firms. Over the past six months, 70 per cent of contracts AltaML has signed started out as inbound inquiries about generative AI – even though most of the work Ms. Janssen’s company has done has used different types of AI.
+“I struggle with this,” she said with a slightly pained expression following her appearance on a panel that discussed the AI Renaissance at a technology CEO summit in Ottawa last month. “Generative AI is hype. It is not always the best AI to be using for business problems. It’s the one people know because they’ve seen it through ChatGPT and they understand it. But there are a lot of issues with generative AI. It’s not the silver bullet today that people believe it is.”
+Indeed, generative AI creates new risks. Any company using the technology needs to put in place guardrails and policies to prevent sensitive, customer or proprietary data from leaking out. Companies also have to protect themselves against producing copyright-infringing content and take additional cybersecurity measures. “With LLMs now becoming part of the enterprise architecture of companies, the attack surface for hacks goes up as well,” said Deloitte’s Mr. Jaaj.
+Several companies, such as Bench, D2L and Lightspeed, say they’ve already put in place such measures. But smaller companies may be farther behind. “There’s still a transition period where small companies have to understand how they can use these technologies in a way that is not superrisky but is still beneficial,” said Ms. Piovesan.
+Generative AI, like humans, can make mistakes and produce factual errors while still sounding confident. That’s even true of GitHub’s Copilot, which occasionally produces buggy code. Companies that grant access to Copilot run the risk of introducing reams of shoddy scripts. “The core of this problem is that a lot of code can be quickly generated,” said Mei Nagappan, an associate professor of computer science at the University of Waterloo. “The fear is also that these tools can be given to undertrained or ill-equipped professionals who may not know what they are accepting as suggestions.”
+As a result, the ability of programmers to read and understand code is more important than ever, Mr. Nagappan said, while companies can avoid some of the risks of relying on generative AI by beefing up coding review practices, and ensuring that developers are responsible for the suggestions they accept. “They should be able to explain the code and be able to defend it,” he said.
+Meanwhile, Certn’s AI reference-check bot isn’t perfect either. It sometimes struggles to interpret accents, and the transcriptions can include mistakes, though Mr. McLeod said the AI-generated summaries are higher-quality. The company has an employee review one out of every 10 reports generated by the bot, and Mr. McLeod hopes to reduce that to one out of 100. To prevent people from trying to mess with the bot by getting it to say inappropriate things on phone calls, Certn provides a disclaimer that doing so could lead to a negative outcome for the job candidate.
+For Certn, a larger question is whether anyone should rely on AI to conduct something like a sentiment analysis at all. A mistake could influence the chances of a candidate landing a job. Mr. McLeod said that the analysis is meant to serve as a sign to review the reference, not to reject a candidate outright. Plus, given that references generally have favourable things to say, it’s unlikely to be an issue. “If you’re giving someone as a reference, hopefully you know that they’re going to say good things,” he said.
+Companies also have to consider the costs of generative AI. For LLM providers such as OpenAI, Google and Cohere, building, training and maintaining these models is enormously expensive given the amount of computing power involved. GitHub’s Copilot, which relies on technology from OpenAI, loses money on many customers, according to The Wall Street Journal.
+It’s not clear how LLM providers will adjust pricing down the road to compensate for computing costs, but jacking up fees could erode some of the cost savings customers are seeing today. Mr. McLeod at Certn said that, for now, the reference bot is dirt cheap. “I imagine we will probably see price increases as quality increases, but I think we’re also going to see increased value,” he said.
+Beyond cost, there are larger moral implications to generative AI, particularly how the technology will affect employment. Fears of a robot takeover have existed for decades, but there will undoubtedly be an impact from AI. “If you’re an average knowledge worker doing what a machine can do, that becomes problematic,” said Stephan Pretorius, global chief technology officer with British marketing giant WPP PLC. “That’s a category of knowledge work that is going away.”
+While the impact of automation will take years to play out, some companies are already reassessing hiring plans owing to the gains they’ve seen with generative AI. Klue Labs Inc., a Vancouver-based maker of competitive intelligence software, is using generative AI in all kinds of ways. Developers use Copilot, and sales reps rely on AI-generated scripts and mockups of customized content for client pitches. “We previously spent 35 hours customizing that,” for each of hundreds of demos a year, said CEO Jason Smith. “It now takes us 15 minutes.”
+Because staff can do so much more in less time, Klue might not need to hire as many people. “We’re in full embrace of generative AI,” Mr. Smith said. “It’s slowing my need to add the next 100 people because the existing team is producing more.”
+Workers themselves might not have a choice but to adopt generative AI. “I don’t think generative AI replaces any roles we have. But I do think developers, marketers, anyone using generative AI will replace people who aren’t,” said Thinkific’s CEO Greg Smith. “[If] you’re not taking advantage of it, you’ll struggle to compete.”
+Generative AI is also changing what it means to build and run a business. Take James Clift, who after starting a slew of companies over the past 13 years, decided to set up a venture to help other entrepreneurs deal with the mundane tasks involved in running their businesses. His Durable Technologies Inc. in Vancouver offers a generative AI tool to build and launch websites and online marketing campaigns within minutes. Durable has built more than five million websites in the past year, mostly for free. (Mr. Clift would not disclose how many customers are on the paying plan, which starts at $15 a month).
+What’s more, he’s applying the same principles at his own company. Durable has just 12 employees doing work Mr. Clift estimates would have taken more than 30 to do without the help of generative AI. He’s used the technology in every corner of the company – customer support, drafting documents, automating responses to client inquiries and writing code. Most of the US$6.25-million in seed financing he raised last year is still in the bank. “If you hire really great people and give them the tools, they can be so much more productive,” he said.
+Venture capitalists who fund early-stage companies already expect startups seeking funding to have a plan for using AI. “Every one of our portfolio companies and every company pitching us needs to think about what their AI strategy is going to be,” said Angela Tran, a San Francisco-based partner with Canadian seed-stage financier Version One Ventures. “It doesn’t have to be their identity, but you need a strategy.”
+Meanwhile, more mature companies that have already raised money recognize the need to catch up quickly. Inovia Capital, one of Canada’s largest venture capital firms, has a “red team” that started reaching out proactively to all portfolio companies in late 2022. “We said, ‘Now is the moment you need to build a small team to play with these models and see where generative AI can impact your business,’ ” said Inovia co-founder and partner Shawn Abbott. “The metric of success is: as many experiments in as small a unit of time as possible.”
+Many established tech companies have instructed every corner of their organizations to explore how to embed the technology in their workflows. Wealthsimple rolled out an “LLM booster pack” to all employees earlier this year comprised of tools they could use to experiment with generative AI. “Since ChatGPT came rushing onto the scene, we’ve seen incredible excitement within the company from all functions, whether operations, engineering, marketing, client support, all the levels,” said Wealthsimple chief technology officer Diederik van Liere.
+But the impact could be the most extreme on the youngest of companies. A generation ago, commentators noted the advent of “digitally native” people who grew up in a world where the internet was the norm, and were best positioned to create business models that reshaped the world, for better or worse.
+Today, we could be seeing the dawn of so-called “generative AI-native” companies, such as Durable. If Mr. Clift is right, that could mean the organization of the future is significantly faster, leaner and far cheaper to build than previous startups.
+“You will see much larger companies with much smaller teams,” Mr. Clift said. At some point in the future, he predicts there will be one-person companies making hundreds of millions in revenue. “I’d love to be a 30-person team with $100-million of revenue,” he said. “That’s actually feasible.”
+With reports from Temur Durrani in Toronto
+Build your personal news feed
+Build your personal news feed
+© Copyright 2023 The Globe and Mail Inc. All rights reserved.
+Andrew Saunders, President and CEO

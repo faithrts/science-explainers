@@ -1,0 +1,42 @@
+A close up of liver cells, with cells colour-coded according to the genes they are expressing.NanoString Technologies, Inc.
+In a memorable short story by Argentine author Jorge Luis Borges, the cartographers of a certain empire become so dedicated to precision that they create a map exactly the same size as the empire itself, duplicating reality at every point.
+For Aviv Regev, a computational biologist and head of research at U.S. biotech company Genentech, the point of the story is to illustrate what a good map is not.
+“A map is an abstraction,” Dr. Regev said. “It reduces something in the original dimensionality of the world, but it still preserves the salient and relevant information.”
+That is what she and a host of international collaborators hope to achieve with the Human Cell Atlas, a sweeping effort to map the human body at the level of individual cells.
+The project’s overarching goal is to create a fine-grained picture of a healthy individual, along with an understanding of how that picture differs between men and women, across population groups, and how it changes throughout life. The result promises to shed light on the diverse causes and effects of disease.
+More broadly, the project’s participants see the atlas as a bridge across the vast gulf in scale between the molecules and genes studied by biologists and the tissues and organs that preoccupy physiologists and clinicians. Its keystone is the cell.
+“The basic unit of life is the cell,” Dr. Regev said during an interview last month at Toronto’s MaRS Centre, where she was attending the project’s annual meeting. “Life can be more than a cell, but it is not less than a cell.”
+Aviv Regev, head of research and early development at Genetech and co-leader of the Human Cell Atlas project, addresses participants at the project's annual meeting, in Toronto, in July.Jenna M Wakani
+In fact, the human body is made up of an estimated 37 trillion cells, a number that would easily overwhelm the project’s resources without the help of some recent technical advances.
+Chief among them is single-cell RNA sequencing, a way to eavesdrop on the instructions a cell’s genome is sending to its protein-making machinery.
+Since an individual’s cells all carry the same DNA, a DNA sequence alone does not offer insight into what makes cells different from one another. But by extracting and sequencing the cell’s messenger RNA, researchers can determine which particular genes are active in different cell types.
+When the technique was developed in 2015, Dr. Regev and Sarah Teichmann, a researcher based at the Wellcome Sanger Institute in Cambridge, England, immediately began thinking about the possibilities.
+Just as microscopes once aided biologists in identifying cells based on their shapes, it was clear that single-cell RNA sequencing could be used to distinguish between cells that look the same but turn out to be doing different things based on the genes they are expressing. That made it possible to imagine a map of cell function in relation to cell location within an organ or tissue and to identify new types of cells based on the roles they play.
+“We are discovering all sorts of interesting new cells and getting new ideas about how the body works and how things fail in disease,” said Gary Bader, a project member and researcher with the University of Toronto’s Donnelly Centre.
+Working with Sonya MacParland, a senior scientist with the Ajmera Transplant Centre, part of Toronto’s University Health Network, Dr. Bader and his team have been mapping liver cells derived from deceased donor tissue.
+In such an endeavour, there is limited time to capture what the cells are doing as part of a living system. What helps is having all the expertise required close at hand, Dr. Bader said, so that as soon as a sample becomes available it can be put through a process that breaks down its connective elements, allowing individual cells to be isolated and then sequenced.
+“The faster we can go from the patient to those measurement devices, the better the quality of the data will be,” Dr. Bader said.
+The liver is particularly amenable to mapping because it’s composed for the most part of repeating units known as lobules. That allowed the Toronto team to produce its first liver map in 2018, while the larger goal of the Human Cell Atlas was still taking shape. But a more detailed version is under way, and other organs are following suit.
+In June, teams feeding into the project in Germany and elsewhere combined data from almost 40 studies to release an integrated atlas of the lung. The result is based on information from 2.4 million cells and 486 individual donors.
+In total, the Human Cell Atlas project has now accumulated data from about 120 million cells, with each cell potentially providing information on the expression of thousands of individual genes.
+Other efforts have been moving in similar directions. Tabula Sapiens, a California-based initiative supported by Facebook founder Mark Zuckerberg, has already created a first-draft human cell atlas of almost 500,000 cells derived from 15 donors.
+And in July, another mammoth project, the Human BioMolecular Atlas Program (HuBMAP), supported by the U.S. National Institutes of Health, published its mapping results for the human intestine, kidney and placenta.
+A high-resolution electron micrograph of liver cells called hepatocytes. Each each cell is separated from its neighbours by a cell wall (purple). The red bodies are mitochondria.Gary Bader/University of Toronto
+A key feature of the work is that cells are not simply being described as individual units but rather in relation to others, as a way to better understand how the body assembles itself in three dimensions for healthy functioning.
+“There’s been a lot of emphasis on discovering how cells are organized,” said Michael Snyder, a HuBMAP project participant based at the Stanford University school of medicine. He said the approach has put a spotlight on the importance of cell neighbourhoods – collections of cells that are co-located and work together in the service of an organ.
+At the Toronto meeting, Dr. Regev said one of the biggest challenges her project faces is integrating all the information it gathers at multiple scales.
+“Together, cells make tissues, tissues make organs and organs make the body. And for this to be a full atlas, all of these things need to connect together,” she said.
+To deal with the growing reams of data, the project has been working with experts in machine learning and artificial intelligence to design algorithms that can ferret out useful knowledge from the atlas.
+One way AI can aid the project is with “reference mapping,” in which an algorithm looks at the pattern of gene expression in a cell to determine how well it matches cell types that are already in the database. This allows cells to be categorized or, when there are no good matches, identified as potentially new types of cells.
+Going further, Bo Wang, a computer scientist at Toronto’s Vector Institute who is working with the project, has been developing an algorithm dubbed Single Cell GPT, which can recognize aspects of cell function in the same way ChatGPT can recognize what a passage of written language is about.
+“This really creates a new direction for researchers to integrate this massive amount of data,” Dr. Wang said.
+The prospect is that such an algorithm will learn from the database and be able to spot recurring patterns, even across very different locations in the body, that help tease apart the various ways a disease can manifest.
+Dr. Regev said that is the outcome she and her colleagues are most excited about: an atlas that is more than a collection of specific locations for a particular type of cell, but a guide to the ways in which genes are expressed in different ways at different sites as part of the astonishing and complex process of making a living being.
+“Let me ask about the whole body. See where the cells are. Maybe there are surprises,” she said. “And there will be surprises.”
+Follow Ivan Semeniuk on Twitter: @ivansemeniukOpens in a new window
+Report an error
+Editorial code of conduct
+Build your personal news feed
+Build your personal news feed
+© Copyright 2023 The Globe and Mail Inc. All rights reserved.
+Andrew Saunders, President and CEO

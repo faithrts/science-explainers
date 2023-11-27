@@ -1,0 +1,35 @@
+Studying army ants for a living comes with certain occupational hazards.
+"They're very aggressive," says Isabella Muratore at the New Jersey Institute of Technology. "They have venom, so they will sting you and they will bite you. It's not that bad. It's just that you're usually getting stung by hundreds of them at once."
+The ants are fierce predators, devouring other insects – sometimes even frogs, lizards and birds. But what's even more remarkable about them is their architectural prowess.
+Muratore has been studying how army ants build bridges by linking their bodies, which could give scientists insights into controlling swarms of robots. She presented her work at a meeting of the Entomological Society of America in early November.
+Commonly found in Central America, South America and Africa, the ants scour forest floors in long foraging lines. 
+When they encounter obstacles – like a gap between leaves or branches – they build a bridge, linking themselves together like a barrel of monkeys.
+"The workers will string themselves across that gap, and then other workers will walk on top of them," Muratore told NPR. "Basically, they create shortcuts to make things easier for the other ants or just to allow them to traverse something that they otherwise couldn't."
+
+        Biologist Isabella Muratore is studying how the ants optimize their bridge building to find the most efficient paths around obstacles.
+        
+          
+          Isabella Muratore
+          
+        
+hide caption
+
+Instead of taking a convoluted path around an obstacle, she says, the ants make their hunts more efficient, allowing them to collect more food. 
+But building bridges comes at a cost to the colony: the ants occupied with supporting the bridge aren't available to hunt.
+Despite individually having small brains, the ants collectively weigh the costs and benefits of a bridge, Muratore said. 
+Muratore studied the ants' decision-making by deliberately placing obstacles in their way as they navigated the forest. She filmed them, then analyzed the ant traffic.
+She says the ants build bridges where they get the greatest benefit for the least amount of bodies – and she identified a sweet spot where the gap is large enough to justify building a bridge, but not so large that it takes too many ants to do so. She also found that a string of bridges can influence how much ant power the ants are willing to invest in each individual bridge. 
+
+        Muratore studied the ants by placing obstacles in their path, then filming them and analyzing the traffic.
+        
+          
+          Isabella Muratore
+          
+        
+hide caption
+
+"Just like people, we don't just build one bridge, we have to decide: 'How is this whole road going to look like across many different obstacles?'" says David Hu, a professor of engineering at the Georgia Institute of Technology, who has extensively studied how fire ants build rafts to survive flooding. 
+Hu says this type of research is shedding new light on the collective intelligence of army ants. He compares the individual ants to "neurons in a big moving brain," with no singular ant deciding where to build bridges.
+The collective decision making of ants also has implications for human technology. Engineers have already applied swarm behaviors learned from ant research to building algorithms for self-assembling robots. 
+"It was the grand challenge of robotics for a long time to take a bucket of robot parts and dump it out and have that robot be able to piece itself together and solve sort of bigger problems," Hu said. 
+"Ants are kind of existence proof that such a robot would actually be able to survive and have a lot of interesting problems to solve in the real world," Hu said. "[Ants are] really capable at solving these things with really, really little brainpower."

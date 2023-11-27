@@ -1,0 +1,70 @@
+
+   Footprints left on a beach. Air breathed in a busy room. Ocean water. 
+ 
+
+   Scientists have been able to collect and analyze detailed genetic data from human DNA from all these places, raising thorny ethical questions about consent, privacy and security when it comes to our biological information. 
+ 
+
+   The researchers from the University of Florida, who were using environmental DNA found in sand to study endangered sea turtles, said the DNA was of such high quality that the scientists could identify mutations associated with disease and determine the genetic ancestry of populations living nearby. 
+ 
+
+   They could also match genetic information to individual participants who had volunteered to have their DNA recovered as part of the research that published in the scientific journal Nature Ecology & Evolution on Monday.
+ 
+
+   “All this very personal, ancestral and health related data is freely available in the environment and is simply floating around in the air right now,” said David Duffy, a professor of wildlife disease genomics at the University of Florida.
+ 
+
+   Environmental DNA has been obtained from air, soil, sediment, water, permafrost, snow and ice cores and the techniques are primarily being used to help track and protect endangered animals. 
+
+
+   Human DNA that has seeped into the environment through our spit, skin, sweat and blood could be used to help find missing persons, aid in forensic investigations to solve crimes, locate sites of archaeological importance, and for health monitoring through DNA found in waste water, the study noted.
+ 
+
+   However, the ability to capture human DNA from the environment could have a range of unintended consequences — both inadvertent and malicious, they added. These included privacy breaches, location tracking, data harvesting, and genetic surveillance of individuals or groups. It could lead to ethical hurdles for the approval of wildlife studies.
+ 
+
+DNA analysis of soil from paw prints could help save Sumatra's tigers
+
+
+   Matthias Wienroth, a senior fellow studying social and ethical aspects of genetics in forensics, surveillance and human health at the University of Northumbria in the UK, said the scientists involved in the study had taken the “ethical aspects of their work seriously” and “identified some key issues that are likely to emerge with their findings.” 
+ 
+
+   “It is important to preserve human autonomy, dignity and the right to self-determination over personal data. This is difficult if you can’t ask those whose DNA may be collected in the environment (for permission), because there’s probably no way to avoid losing DNA to the environment via skin, hair, and breath,” Wienroth, who was not involved in the research, said via email. 
+ 
+
+   He emphasized the need to develop and deploy foresight in genetics and genomics research: “A key issue is that such incidental eDNA findings may make their way into databases that can be compared with user data at other genetics databases, thus undermining informed consent and even customer confidentiality.”
+ 
+
+   The team at the University of Florida’s Whitney Laboratory for Marine Bioscience and Sea Turtle Hospital were using environmental DNA — recovered from turtle tracks made on sand — to study endangered green sea turtles and the viral cancers they are susceptible to, when they noticed that they were also picking up human DNA from sand and in the ocean and rivers surrounding the lab. 
+ 
+
+   They termed this information “human genetic bycatch” and decided to study the phenomenon in greater depth. 
+ 
+
+   In addition to the samples from subtropical Florida, Duffy tested water from the Avoca River in County Wicklow in temperate Ireland, finding human DNA as it flowed through the town of Arklow — although not in the river’s uppermost reaches where there was no human habitation. 
+ 
+
+Oldest DNA sheds light on a 2 million-year-old ecosystem that has no modern parallel
+
+
+   They also retrieved DNA from footprints made in sand by four volunteers. With permission, they were able to sequence part of the participants’ genomes. Next, the researchers took samples of air from a 280-square-foot room in an animal clinic where six people worked as they went about their normal daily routines. The team recovered DNA that matched the staff volunteers, animal patients and common animal viruses. 
+ 
+
+   From the genetic information the scientists collected, they were able to identify genetic variants associated with European and Latino populations and variations associated with a range of disorders and diseases such as autism, diabetes, eye diseases, cancer and cardiac diseases.
+ 
+
+   “These sequences recovered both the nuclear and mitochondrial regions of the human genome, which means that we can easily determine if a male or female (was) walking in the sun or (their) presence in a room depending on whether or not we sequenced the X or Y chromosome,” Duffy explained at a news briefing. 
+ 
+
+   “Using the mitochondrial genome, we were able to investigate the genetic ancestry of our samples.”
+ 
+
+   Yves Moreau, a professor at the University of Leuven in Belgium who studies artificial intelligence and genetics and has shone a light on China’s DNA sampling of Tibetan and Uyghur minorities, said that while it was possible to imagine a scenario where “a mafia or dictatorship would track a protected witness or a political refugee” using waste water sequencing, it remained “a bit far fetched.”
+ 
+
+   “We need a political discussion of expectations of privacy in the public space, in particular for DNA. We cannot avoid shedding DNA in the public space,” Moreau, who was not involved in this study, said via email.
+ 
+
+   “We should however not panic, and I am always afraid of precautions that would make research grind to a halt. It is a delicate balance to find.”
+ 
+© 2023 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved. CNN Sans ™ & © 2016 Cable News Network.

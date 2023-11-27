@@ -1,0 +1,70 @@
+
+   What would happen if aliens contacted us? It’s a longstanding question that now has at least a partial answer, after a transmission designed to mimic correspondence from an extraterrestrial civilization made its way to Earth from Mars.
+ 
+
+   The event — organized by SETI, a nonprofit organization with a mission to search for extraterrestrial intelligence and explore the origin of life in the universe — straddles the line between art project and technical rehearsal. It is meant to explore the process of decoding and interpreting an intelligent signal from the cosmos and how it would impact humanity.
+ 
+
+   The message went out on May 24 from the ExoMars Trace Gas Orbiter, a spacecraft launched in 2016 that is currently orbiting Mars to study its atmosphere. The transmission traveled across space for 16 minutes before being successfully picked up by three observatories: the Allen Telescope Array in Northern California, the Green Bank Telescope in West Virginia, and the Medicina Radio Astronomical Station near Bologna, Italy.
+ 
+
+   Once received, the raw data containing the message was released on the internet via Filecoin, a large decentralized storage network, to give everyone a chance to decode it and interpret its meaning. A few days on, the collaborative effort is still ongoing, and a Discord channel has been set up for public discussion.
+ 
+
+   “I can’t really say anything about the content of the message, and we’ll only start giving some hints if we see that people really struggle,” said SETI member Daniela de Paulis, the artist who created the message, in a phone interview. “It will take some time, because it requires people with different expertises to collaborate with each other, which was really the objective of the project: an extraterrestrial message would belong to all humanity, so we should all have the ability to contribute to its interpretation.”
+ 
+
+   De Paulis, who is also a licensed radio operator, started working on the project, called “A Sign in Space,” in 2021.
+ 
+
+   “I was working with astronomers, anthropologists and other scientists, it was a very interdisciplinary group, and we also had artists from different fields,” she said. “We were meeting on a monthly basis, brainstorming ideas on what a possible extraterrestrial civilization would send to us. After that, I narrowed the group down to five people, and then eventually down to three — because it was really important that not many people knew about the content.”
+ 
+
+   The message, which is only a few kilobytes in size, had to be disentangled from the rest of the raw data received during the transmission, which might have included background noise, telemetry data and spurious information. This first step in the process, according to dePaulis, requires very specific technical knowledge. “But then, everyone can join in for the cultural interpretation, which for me is the most exciting part,” she said.
+ 
+
+   The event also served as a general rehearsal of all the steps involved in identifying and correctly processing a signal of extraterrestrial and intelligent origin.
+ 
+
+   “It’s not as trivial as people think,” de Paulis said. “NASA and ESA do two-way communication with their spacecraft all the time, but they have their own dedicated equipment. We had to establish (the transmission) completely from scratch … That was actually quite complex and took almost two years of work.”
+ 
+
+   According to Wael Farah, a radio astronomer and data analyst at the SETI Institute who participated in the event, it’s important to spread the knowledge that receiving an alien transmission does not equate to understanding its meaning, and that while an intelligent signal would be easy to recognize, the process would still be laborious.
+ 
+
+   “There’s a whole series of rigorous testing that might take months,” he said. “It’s not like the movie ‘Contact,’ where Jodie Foster has her headphones on and suddenly she picks up something. We don’t want to cry wolf.”
+ 
+
+NASA announces team of scientists who will study mysterious 'UFO' events in the sky
+
+
+   Among the checks would be making sure that the transmission doesn’t come from any human spacecraft and that it can be received in the exact same form by different telescopes, which is why the test involved three of them. But the event also correctly simulates the fact that it wouldn’t be SETI’s role to decipher the message, just to point out its reception.
+ 
+
+   “From the perspective of a radio astronomer, I don’t really care what the signal contains — what I’m interested in is to pick up a signal that does not look natural,” Farrah said.
+ 
+
+   The experiment, which is believed to be the first of its kind, has a logical home at SETI, which was founded in 1985 and has been hoping to catch a message from E.T. ever since. However, neither SETI nor any other organization on Earth has yet picked up any intelligent signal from the stars.
+ 
+
+   Among SETI’s original trustees was Frank Drake, an American astrophysicist who brought the discourse about extraterrestrial life into the mainstream and co-designed the plaques that were aboard the Pioneer 10 and Pioneer 11 probes, sent into space by NASA in 1972 and 1973. They featured a pictorial message — intended for extraterrestrials — that included nude female and male human bodies and a map of the solar system.
+ 
+
+   In 1974, Drake also composed an interstellar radio message that was ​​sent on April 16, 1974, toward a cluster of stars known as Messier 13, during a ceremony to mark the completion of upgrades to the Arecibo Observatory in Puerto Rico.
+ 
+
+   The message, which contained just 1,679 bits of data, included information about basic numbers, chemical compounds, human DNA and the Arecibo telescope itself, but it was intended more as a proof of concept than an actual attempt to contact aliens, much in the same vein as last week’s event.
+ 
+
+   Neill Sanders, from British amateur astronomy group Go Stargazing, is participating in the global effort to decode the transmission, and he said they’ve already reached a milestone in the initial, disentangling part of the process.
+ 
+
+   “The hidden message within the transmission has been obtained. However, the challenge now is to make sure what has been obtained is accurate,” he said.
+ 
+
+   Attempting to verify accuracy is a really interesting scenario, he added, as the sender of any message — in this case the Trace Gas Orbiter probe orbiting Mars — would want to ensure the message is not misinterpreted by the recipient, either by errors during transmission or processing.
+ 
+
+   Now that the layers are peeled back and the message has been uncovered, an even more delicate part of the process begins. “We got to the data pretty soon, but as to deciphering the message and what it means, that might take a lot longer. I think they’ve set up a significant challenge.”
+ 
+© 2023 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved. CNN Sans ™ & © 2016 Cable News Network.

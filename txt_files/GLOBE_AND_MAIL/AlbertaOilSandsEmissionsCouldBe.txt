@@ -1,0 +1,29 @@
+A Suncor tailings pond oil sands in Fort McMurray, Alta., on June 13, 2017.JASON FRANSON/The Canadian Press
+New federal research suggests greenhouse gas emissions from the Alberta oil sands may be significantly underestimated, adding to a growing pile of studies that say our understanding of what is going into the atmosphere is incomplete.
+In a paper published last week in a prominent U.S. science journal, Environment and Climate Change Canada researchers used new ways of measuring oil sands emissions that resulted in figures at least 65 per cent higher than those reported by industry.
+“We found that (emissions) are higher than the CO2 estimates that are reported in the greenhouse gas reporting program,” said lead author Sumi Wren of Environment Canada.
+The paper, published in the Proceedings of the National Academy of Sciences, describes how the researchers combined measurements from overflights, satellites and historical data to reach their conclusions.
+In 2018, the team made 30 flights over the oil sands region to establish the ratio of nitrogen oxides to carbon dioxide in the industry’s emissions. That ratio matched one derived from similar flights in 2013. They then developed estimates for nitrogen dioxide emissions from 2005 to 2020 by combining satellite data with industry-reported values.
+Using that historical record and the constant ratio of those gases to carbon dioxide, the team could then calculate how much carbon dioxide had been released over the years.
+Their figures suggest the oil sands could be releasing about 31 million tonnes of unreported carbon dioxide into the atmosphere a year. As well, that potential under-reporting goes back to at least 2018.
+Their margin of error is eight million tonnes either way.
+But the difference between their numbers and the industry-reported figures is big enough to suggest something is going on.
+“The discrepancy is quite large,” said Wren. “It’s large enough to point to the need to understand why we’re seeing this.”
+Industry typically estimates its emissions by comparing known inputs against outputs, with allowances for leakage and other fugitive releases – a so-called “bottom-up” approach. The method is considered reliable and accurate, said co-author John Liggio, also of Environment Canada.
+“Bottom-up is quite good,” he said.
+But when researchers use atmospheric measurement – the “top-down” approach – they consistently get higher readings of whatever it is they’re looking for. That pattern has emerged in papers on emissions of methane, soot, volatile organic compounds and sulphur dioxide.
+Mark Cameron of the oil sands group Pathways Alliance criticized the study.
+“We strongly caution against interpreting from this study that aerial air sampling … is a better emissions-estimating approach,” he said, adding industry uses standard practices in use around the world.
+“Inherent weaknesses in the research methods diminish our confidence in its findings.”
+Cameron called the use of a single ratio simplistic. He said the number of flights was inadequate and the study didn’t take into account days when oil sands sites were shuttered for reasons such as maintenance.
+But Liggio said the difference between the two measuring systems is big enough to need explanation.
+“Bottom-up and top-down both have their inherent uncertainties,” he said. “Top-down is a complementary way to identify if there are gaps.
+“We need to start thinking about using atmospheric measurements with the bottom-up approach. It’s coming, but we’re not quite there yet.”
+Without reconciling those differences, it’s hard to set targets for emissions reductions or know if they’re being met – a key issue for government and industry climate plans. For example, the 31 million tonnes of unreported carbon is about three times the total amount stored since 2015 through carbon capture and storage, the fix industry hopes will eventually make it carbon-neutral.
+More work is needed, said Wren.
+“What this work does is point to the importance of having atmospheric measurement to ensure that what is being reported is accurate.”
+Report an error
+Build your personal news feed
+Build your personal news feed
+© Copyright 2023 The Globe and Mail Inc. All rights reserved.
+Andrew Saunders, President and CEO

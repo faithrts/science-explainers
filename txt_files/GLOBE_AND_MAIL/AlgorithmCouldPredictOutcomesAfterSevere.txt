@@ -1,0 +1,29 @@
+Western University neuroscientist Adrian Owen, one of the paper’s co-authors, said the result was so unexpected that the research team ran the results several times.Nicole Osborne/The Globe and Mail
+Deciding the fate of a patient on life support with a severe brain injury is an agonizing choice for family members, and a challenging one for doctors.
+Left too long, a person can slide into a vegetative state, a self-sustaining, unconscious limbo that their loved ones know they would never want. Another patient, unresponsive for days or weeks, and even years, might wake up, fully aware of the world around them. The brain is so complex that outcomes are hard to predict.
+But what if artificial intelligence can find hope that even the most expert human eye might miss?
+Researchers at the University of Western Ontario have developed a promising algorithm to find hidden patterns in functional brain scans that could predict a patient’s eventual recovery in the early days of their injury. It’s an AI tool they now want to test in intensive-care units across Canada and around the world.
+In a small-scale study published in the Journal of Neurology, the researchers used the algorithm to analyze brain-scan data on 25 retrospective Canadian cases of unresponsive ICU patients with severe brain injuries. Eighty per cent of the time, the algorithm was able to accurately predict which patients had good or poor outcomes six months later.
+A poor outcome, accurately predicted 12 out of 15 times, meant a patient had died, was in a vegetative state or had a severe disability. A good outcome, which the algorithm got right eight out of 10 times, meant the patient could look after themselves even with some physical or cognitive impairments, or had fully recovered. The finding was based solely on a resting-state fMRI, a brain-function scan accessible to trauma centres and intensive-care units.
+“Nobody in the world can predict with 80 per cent likelihood who is going to recover based on any existing clinical indicators,” said Adrian Owen, an internationally recognized neuroscientist, and one of the paper’s co-authors.
+The result was so unexpected, Dr. Owen said, that the research team, which included graduate students Matthew Kolisnyk and Karnig Kazazian, and neuroscientist Loretta Norton, ran the results several times.
+“I don’t think we’ve ever scrutinized a data set more than this one to make sure that we were absolutely right,” Dr. Owen said. The sample size is small, he acknowledged, so the algorithm needs to be tested with many more patients. But ideally, with more data, the accuracy rate might even improve.
+Dr. Owen is best known for his groundbreaking research showing that many patients in chronic vegetative states can see, hear and understand the world around them. He’s been able to have simple conversations by asking people to imagine certain images – such as playing tennis – while their brains are being scanned. Often, however, there is little to be done for those patients, beyond making them more comfortable.
+More recently, his lab at Western has focused on patients with acute brain trauma in intensive care where, Dr. Owen said, roughly 70 per cent of deaths are the result of withdrawing life support. “People don’t generally die of natural causes,” he said. “They die because a decision is made that they are not going to live a meaningful life. That’s the same all over the world.”
+But while doctors can generally predict who won’t survive in catastrophic circumstances, Dr. Owen said there’s no reliable method for predicting recovery in less clear-cut cases.
+Even when structural damage looks severe, the brain can potentially find a 100 million different workarounds – obscure patterns that a powerful AI tool may find quickly, if trained to analyze brain scans properly.
+That kind of clinical data would give families and doctors more guidance to make life-or-death decisions. In some cases, Dr. Owen said, it might mean patients with seemingly devastating injuries are given the extra time they need to recover. “This could save thousands of lives a year,” he said.
+Rick Swartz, a neurologist at Sunnybrook Health Sciences Centre who was familiar with the study, said the algorithm was intriguing and outperformed existing clinical methods, but needs more testing.
+“If this can be confirmed in other settings and with larger numbers,” he said, “it does have the potential to help inform these really important clinical decisions.”
+Marat Slessarev, a critical-care doctor in London, Ont., who was not involved in the paper, was cautious about the early results given the diversity of brain-injury cases. But he said that machine-learning approaches like this hold exciting potential for intensive-care clinicians.
+“It can help us see things we won’t usually be able to see ourselves,” he said. “We can focus on actually interpreting the results.”
+Ultimately, as the doctors note, that still means weighing the clinical findings against more patient-centred considerations.
+Having seen many devastated families wrestle with uncertainty, Dr. Slessarev said his most important advice is for individuals to pro-actively talk to their family members, often and deliberately, about their values and wishes.
+Whatever calculated prognosis well-trained AI may some day provide, he said, “this is the very human way of taking care of your loved ones.”
+Follow Erin Anderssen on Twitter: @ErinAnderssenOpens in a new window
+Report an error
+Editorial code of conduct
+Build your personal news feed
+Build your personal news feed
+© Copyright 2023 The Globe and Mail Inc. All rights reserved.
+Andrew Saunders, President and CEO
