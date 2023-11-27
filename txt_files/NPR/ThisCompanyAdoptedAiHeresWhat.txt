@@ -1,8 +1,3 @@
-
-
-   Greg Rosalsky
-  
-
 Lately, it's felt like technological change has entered warp speed. Companies like OpenAI and Google have unveiled new Artificial Intelligence systems with incredible capabilities, making what once seemed like science fiction an everyday reality. It's an era that is posing big, existential questions for us all, about everything from literally the future of human existence to — more to the focus of Planet Money — the future of human work.
 "Things are changing so fast," says Erik Brynjolfsson, a leading, technology-focused economist based at Stanford University.
 Back in 2017, Brynjolfsson published a paper in one of the top academic journals, Science, which outlined the kind of work that he believed AI was capable of doing. It was called "What Can Machine Learning Do? Workforce Implications." Now, Brynjolfsson says, "I have to update that paper dramatically given what's happened in the past year or two."
@@ -38,5 +33,3 @@ But — and Brynjolfsson seemed a bit skeptical about this — it's also possibl
 Of course, it's also possible that AI could end up increasing inequality even more. For one, it could make the Big AI companies, which own these powerful new systems, wildly rich. It could also empower business owners to replace more and more workers with intelligent machines. And it could kill jobs for all but the best of the best in various industries, who keep their jobs because maybe they're superstars or because maybe they have seniority. Then, with AI, these workers could become much more productive, and so their industries might need fewer of these types of jobs than before.
 The effects of AI, of course, are still very much being studied — and these systems are evolving fast — so this is all just speculation. But it does look like AI may have different effects than previous technologies, especially because machines are now more capable of doing "non-routine" tasks. Previously, as stated, it was only "routine" tasks that proved to be automatable. But, now, with AI, you don't have to program machines with specific instructions. They are much more capable of figuring out things on the fly. And this machine intelligence could upend much of the previous thinking on which kinds of jobs will be affected by automation.
 Next week, in the Planet Money newsletter, we speak with MIT's David Autor, who pioneered much of the economic thinking about technological change, automation, inequality, and upward mobility in the past few decades. What's he thinking now? Stay tuned!
-Sponsor Message
-Become an NPR sponsor

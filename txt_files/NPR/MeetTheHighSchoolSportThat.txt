@@ -1,24 +1,3 @@
-By 
-
-   Mark Leong
-  
- 
-, 
-
-
-   LA Johnson
-  
-
-
-        Claire Montegut (second from right), 16, and Anika Zhou (right), 17, are members of the Space Cookies, a FIRST Robotics Competition team composed of all Girl Scouts. Here they fix their robot's roller "claw" designed to pick up cones and cubes to score points.
-        
-          
-          Mark Leong for NPR
-          
-        
-hide caption
-
-Claire Montegut (second from right), 16, and Anika Zhou (right), 17, are members of the Space Cookies, a FIRST Robotics Competition team composed of all Girl Scouts. Here they fix their robot's roller "claw" designed to pick up cones and cubes to score points.
 On a Thursday night inside a NASA hangar in Mountain View, Calif., a group of teenage girls cluster around two large tables strewn with wires, hex wrenches and laptops. As they work, a machine rises in their midst — a black aluminum frame loaded with advanced tech like high-powered brushless motors and 3D vision systems. Say hello to the Space Cookies, aka FIRST Robotics Competition Team 1868, a Girl Scout troop that builds tournament robots.
 Right now, over 3,300 high school and community teams like the Space Cookies are assembling around the world in anticipation of the upcoming season of the FIRST (For Inspiration and Recognition of Science and Technology) Robotics Competition. This giant non-profit/sport league started in 1989 as a local program to inspire New Hampshire teens in engineering and technology fields. It has grown to encompass more than 83,000 high schoolers in 31 countries.
 Through the fall, students meet outside the school day to develop skills in areas like component milling, gear ratios and Java coding as tools for problem-solving, gamesmanship and intelligence — both human and artificial. Local engineering and IT professionals volunteer as mentors, but older students also teach their younger teammates. 
@@ -43,7 +22,6 @@ The tournaments are a whirring, banging combination of science fair, Pac-Man and
         
 hide caption
 
-Team 5419 Berkelium team members, from Berkeley High School in Berkeley, Calif., test a prototype system to shoot cones onto poles. Caroline Soffer (second from left), 16, is a competitive gymnast and a designer. "I'm never going to be a pro gymnast, while there's a very, very good chance that I'm going to end up in engineering or computer science," she says.
 Robotics competitions are nothing new, but over the last few years, the FIRST Robotics Competition has evolved from a fascinating after-school activity to having a real impact on the tech and engineering world, and colleges are catching on. 
 "We like to see evidence of project-based learning, working in teams, hands-on experience and that sense of discovery," says Jennifer Cluett, dean of admissions at Worcester Polytechnic Institute. In 2022, WPI added a custom question to the Common App, asking about students' experience in competitive robotics. Cluett says 218 of 1365 enrollees in WPI's freshman class this year have participated in FIRST. 
 
@@ -55,7 +33,6 @@ Robotics competitions are nothing new, but over the last few years, the FIRST Ro
         
 hide caption
 
-"I was just blown away by these students and their robots, with team logos and t-shirts and buttons, sponsors and cheering sections. It was like Texas high school football," says Jonathan Hoster, associate admissions director at the Syracuse College of Engineering. Two years after he first saw a tournament in 2014, Syracuse earmarked ten scholarships for FIRST alumni. 
 
         Ivy Mahncke, 18, who had very little mechanical experience before joining Lowell High School Team 4159 CardinalBotics in San Francisco, Calif., will major in engineering with robotics at Olin College of Engineering. 
 
@@ -65,8 +42,6 @@ hide caption
         
 hide caption
 
-Ivy Mahncke, 18, who had very little mechanical experience before joining Lowell High School Team 4159 CardinalBotics in San Francisco, Calif., will major in engineering with robotics at Olin College of Engineering. 
-A who's-who list of FIRST sponsors — including Boeing, Dow, Coca Cola, Amazon, FedEx, Johnson & Johnson, Apple, Ford, and Disney — shows how eager big businesses are to prime the pipeline. Demand for workers in fields like automation and connectivity, against recent declines in engineering college graduates, makes a resume showing multiple years of hands-on high school robotics increasingly desirable in corporate America. 
 "Traditionally we would look very heavily at a college GPA. But increasingly companies are looking for more well-rounded employees," says Jody Howard, vice president of innovation and emerging technology at Caterpillar Inc. "What's so interesting about FIRST is that, while they may be coming out with robotic or programming skills, it's really the teaming and problem-solving that make them stand out." 
 
         The hand-like effector on Archbishop Mitty High School Team 1351 TKO's robot (left) telescopes and tilts to handle game pieces. (Right) Team 971 Spartan Robotics are known for their innovative tech.
@@ -77,7 +52,6 @@ A who's-who list of FIRST sponsors — including Boeing, Dow, Coca Cola, Amazon,
         
 hide caption
 
-The hand-like effector on Archbishop Mitty High School Team 1351 TKO's robot (left) telescopes and tilts to handle game pieces. (Right) Team 971 Spartan Robotics are known for their innovative tech.
 Howard compares a FIRST team scrambling to put a damaged robot back into the fray with a Caterpillar on-site service engineer cooperating with a client to rush one of their autonomous mining trucks back on line. "They already have experience going through the process under pressure," she says.
 
         Sophomores Adriel Lim and Daniel Kessens monitor the progress of the CNC (computer numeric control) router in the Spartan Robotics machine shop, which also serves as a repository for Team 971's previous robots above.
@@ -88,7 +62,6 @@ Howard compares a FIRST team scrambling to put a damaged robot back into the fra
         
 hide caption
 
-Sophomores Adriel Lim and Daniel Kessens monitor the progress of the CNC (computer numeric control) router in the Spartan Robotics machine shop, which also serves as a repository for Team 971's previous robots above.
 Lara Fernando is a senior leader on Team 971 Spartan Robotics at Mountain View High School, in Mountain View, Calif. — a few miles from the Space Cookies. Two years ago, she was hired as a paid intern at agricultural technology startup FarmX. "I was the youngest person in the building, 15 years old, and the first woman there. From robotics I already had the skills to be there with the college engineering majors — soldering circuit boards, assembling sensors, running 3D printers."
 Besides providing capable personnel, high school FIRST teams may also contribute tech back to the industry, from debugging open source code to coming up with innovative rapid prototyping approaches. At a higher level, engineers who mentor Spartan Robotics say John Deere's weed-killing agribots now use a middleware framework originally created for the team's 2017 robot to climb ropes and fire Wiffle Balls. 
 
@@ -100,7 +73,6 @@ Besides providing capable personnel, high school FIRST teams may also contribute
         
 hide caption
 
-Kevin Mendoza, 15, a member of Team 8048 Churrobots of East Palo Alto, Calif., cleans dust particles off a gearbox component.
 As impressive as these contributions may be, gritty problem-solving is a far more central element of the FIRST ethos. Anika Zhou, 16, quit basketball to make more time for design and mechanical work with the Space Cookies. She thinks what sets the robotics team apart from school is, "They let us make mistakes."
 Celien Bill, 17, technical manager for Team 5419 Berkelium of Berkeley High School in Berkeley, Calif., estimates he spent over 200 hours last season tuning their cone launching system. "Getting it to work the first time was super exhilarating. That feeling lasts about 10 minutes ... and then you go back to improving."
 "In the long term, winning and losing have about the same benefit — all the benefit is in the process," says Dirk Wright, lead mentor for Berkelium. "You can't overstate the importance of self-confidence. It opens up a huge amount of opportunities."
@@ -114,7 +86,6 @@ Plus, it's a lot of fun.
         
 hide caption
 
-The 2023 Sacramento Regional at UC Davis involved 46 teams and over 1,000 students.
 
         Theo Gerst, 18, checks Berkelium's targeting camera and autonomous functions before a playoff match at the 2023 Sacramento Regional.
         
@@ -124,7 +95,6 @@ The 2023 Sacramento Regional at UC Davis involved 46 teams and over 1,000 studen
         
 hide caption
 
-Theo Gerst, 18, checks Berkelium's targeting camera and autonomous functions before a playoff match at the 2023 Sacramento Regional.
 At competitions, there are team flags, zebra-striped referees, huge video screens, people dressed as vikings and penguins, facepaint, singalongs to "Sweet Caroline" and parents in funny hats cheering in the stands. There also are hundreds and thousands of other high schoolers in their team t-shirts, roaming between the pit area and playing field, checking out everybody and every machine.
 
         Team 6238 Popcorn Penguins of Santa Clara County, Calif. won the Team Spirit Award at the 2023 Silicon Valley Regional.
@@ -135,7 +105,6 @@ At competitions, there are team flags, zebra-striped referees, huge video screen
         
 hide caption
 
-Team 6238 Popcorn Penguins of Santa Clara County, Calif. won the Team Spirit Award at the 2023 Silicon Valley Regional.
 
 The finals of the 2023 Silicon Valley Regional: After rushing throughout the match to place cones on poles and cubes in slots to score, the teams earn a large point bonus at the end by cooperating with their alliance partners to balance all three robots on an unstable, tilting platform.
         
@@ -145,8 +114,6 @@ The finals of the 2023 Silicon Valley Regional: After rushing throughout the mat
         
 hide caption
 
-The finals of the 2023 Silicon Valley Regional: After rushing throughout the match to place cones on poles and cubes in slots to score, the teams earn a large point bonus at the end by cooperating with their alliance partners to balance all three robots on an unstable, tilting platform.
-Besides on-field triumph, teams vie for more than 20 other awards, in categories from Rookie All Star to Gracious Professionalism. Only one, the Engineering Inspiration Award, for which sponsor NASA will cover registration fees for the FIRST Championship in Houston, has any real material value. The prestige prizes are the blue gym banners that tournament victors and major community award winners can hang in their workshops.
 But anybody can take home that warm glow of satisfaction when, in the midst of a big competition, one of their peers walks by, nods and says, "Cool robot."
 
         Lara Fernando (upper right corner, black sleeves extended upward) and Spartan Robotics explode the moment they know they have won the 2023 San Francisco Regional and qualified for Houston.
@@ -157,7 +124,6 @@ But anybody can take home that warm glow of satisfaction when, in the midst of a
         
 hide caption
 
-Lara Fernando (upper right corner, black sleeves extended upward) and Spartan Robotics explode the moment they know they have won the 2023 San Francisco Regional and qualified for Houston.
 Photos and Reporting by Mark Leong/Redux Pictures
 Visual design by LA Johnson
 Edited by LA Johnson and Steve Drummond

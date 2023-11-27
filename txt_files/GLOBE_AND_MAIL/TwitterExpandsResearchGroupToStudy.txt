@@ -1,4 +1,3 @@
-This article was published more than 1 year ago. Some information may no longer be current.
 Twitter Inc TWTR-N plans to provide more data to external researchers who study online misinformation and moderation, the social media company said Thursday, part of what it says is an effort to increase transparency on the platform.
 The company will also open an application process to allow more people working in academia, civil society and journalism to join the Twitter Moderation Research Consortium, a group that Twitter formed in pilot mode earlier this year and has access to the datasets.
 While researchers have studied the flow of harmful content on social platforms for years, they have often done so without direct involvement from social media companies.

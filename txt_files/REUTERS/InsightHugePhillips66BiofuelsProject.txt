@@ -1,4 +1,4 @@
-RODEO, California, March 21 (Reuters) - In the oldest refining town in the American West, Phillips 66 (PSX.N) is promising a greener future as it moves to halt crude-oil processing and build a massive renewable diesel plant, leading a global trend.
+In the oldest refining town in the American West, Phillips 66 (PSX.N) is promising a greener future as it moves to halt crude-oil processing and build a massive renewable diesel plant, leading a global trend.
 That plan, announced in 2020, was initially welcomed by residents weary from a history of pollution and toxic leaks. But some have grown skeptical as the project’s details cast doubt on the environmental benefits of revamping the 127-year-old complex on 1,100 acres in Rodeo, California.
 The company’s initial claim that it would slash greenhouse gasses by half doesn’t match the project’s environmental impact report, published by county regulators, which shows a 1% reduction, according to a Reuters calculation of emissions data in the report. What’s more, refining of petroleum byproducts may continue as a side project.
 And renewable-diesel production will require a surge in marine and train traffic, increasing emissions and spill risk. The conversion also requires boosting natural-gas usage to produce hydrogen required to make the biofuel.
@@ -15,7 +15,7 @@ CONFLICTING POLLUTION ESTIMATES
 Renewable diesel is made from feedstocks such as soybean oil, beef tallow or used cooking oil. It can be used in heavy-duty trucks with no engine modifications. The Phillips 66 plant may also produce other biofuels.
 The county board of supervisors in May approved the project, which is expected to start operations in early 2024.
 Phillips 66 spokesperson Bernardo Fallas said the difference in the company and county greenhouse-gas estimates stems mostly from the fact that county regulators included pollution projections for five fossil-fuel refinery processing units for which the company intends to keep operating permits. The company excluded those units, which Fallas said would not be operating when the biofuels project starts. Phillips 66, he said, has not yet decided whether and how the fossil-fuels units would operate in the future.
-[1/6] A general view of the Phillips 66 refinery, as seen from Rodeo, California, the oldest oil refining town in the American West, U.S. March 2, 2023. REUTERS/Nathan Frandino
+[1/6]A general view of the Phillips 66 refinery, as seen from Rodeo, California, the oldest oil refining town in the American West, U.S. March 2, 2023. REUTERS/Nathan Frandino Acquire Licensing Rights
 Fallas confirmed, however, that Phillip 66 is considering a plan to process slurry oil, a heavy residual crude oil byproduct, using the refinery’s coker. Fallas said the slurry-oil processing would produce materials needed for electric-vehicle batteries.
 The county said in a statement that slurry-oil processing “would not be consistent” with the refinery revamp it approved in May, and would require additional regulatory review.
 The county’s environmental impact report estimated greenhouse gasses by assuming emissions from the coker and the four other units would remain unchanged, an approach the study called conservative. It also included emissions from the expected increase in natural-gas use and from projected increases in transportation to the plant.
@@ -33,17 +33,5 @@ Phillips 66 plans to shut a 200-mile oil pipeline to the plant, leading to a dou
 The project will also cause a projected 29% increase in greenhouse gas emissions from the plant that will be using more natural gas to produce hydrogen for biofuel processing, according to the report.
 Janet Pygeorge, 87, lives in view of the refinery’s smokestacks. She remembers a 1994 chemical leak at the refinery, then under different ownership, that sickened tens of thousands of people. A Phillips 66 predecessor company bought the refinery in 2001. Since then, the plant has had seven “major accidents,” including fires and toxic releases, through 2018, according to the latest available county data.
 That history makes the prospect of continuing fossil-fuel operations unsettling to residents who lived through it, Pygeorge said. "It just doesn't sound safe to me.”
+Reporting by Laila Kearney; editing by Richard Valdmanis and Brian Thevenot
 Our Standards: The Thomson Reuters Trust Principles.
-Mike Scott
-Oliver Balch
-Mindy Lubber
-Stefan Grabs, Sonia Stuchtey
-Reuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching billions of people worldwide every day. Reuters provides business, financial, national and international news to professionals via desktop terminals, the world's media organizations, industry events and directly to consumers.
-Build the strongest argument relying on authoritative content, attorney-editor expertise, and industry defining technology.
-The most comprehensive solution to manage all your complex and ever-expanding tax and compliance needs.
-The industry leader for online information for tax, accounting and finance professionals.
- Access unmatched financial data, news and content in a highly-customised workflow experience on desktop, web and mobile.
- Browse an unrivalled portfolio of real-time and historical market data and insights from worldwide sources and experts.
-Screen for heightened risk individual and entities globally to help uncover hidden risks in business relationships and human networks.
-All quotes delayed a minimum of 15 minutes. See here for a complete list of exchanges and delays.
-© 2023 Reuters. All rights reserved

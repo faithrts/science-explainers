@@ -1,18 +1,3 @@
-
-
-   Jon Hamilton
-  
-
-
-        Scientists have built an enormous atlas of the human brain that could help them chart a path toward preventing and treating many different neurological disorders.
-        
-          
-          Andriy Onufriyenko/Getty Images
-          
-        
-hide caption
-
-Scientists have built an enormous atlas of the human brain that could help them chart a path toward preventing and treating many different neurological disorders.
 Scientists are one step closer to understanding the 170 billion brain cells that allow us to walk, talk, and think.
 A newly published atlas offers the most detailed maps yet of the location, structure, and, in some cases, function of more than 3,000 types of brain cells.
 "We really need this kind of information if we're going to understand what makes us unique as humans, or what makes us different as individuals, or how the brain develops," says Ed Lein, a senior investigator at the Allen Institute for Brain Science in Seattle and one of hundreds of researchers who worked on the maps.
@@ -42,5 +27,3 @@ Microglia are immune cells that are known to become activated in Alzheimer's pat
 Ren's dictionary also connected one particular set of neurons to genes that raise the risk of major depressive disorder, and linked a different set of neurons to schizophrenia genes.
 "I hope our work will allow scientists to develop new strategies for treating these disorders," Ren says.
 Even when the cell atlas is complete, it will represent just one part of a much larger effort to understand the human brain. Other parts include mapping the connections between neurons, studying how brain circuits function in real time, and determining how huge networks of brain cells are able to form memories, solve problems, and produce consciousness.
-Sponsor Message
-Become an NPR sponsor

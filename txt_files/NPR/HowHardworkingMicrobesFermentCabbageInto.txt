@@ -1,18 +1,3 @@
-
-
-   Pien Huang
-  
-
-
-        Ingredients, temperature, time all affect the microbial activity that fuels fermentation — and how fermented foods taste. As kimchi ferments, the flavors will change over time.
-        
-          
-          Meredith Rizzo for NPR
-          
-        
-hide caption
-
-Ingredients, temperature, time all affect the microbial activity that fuels fermentation — and how fermented foods taste. As kimchi ferments, the flavors will change over time.
 I love fermented foods. I love that you can leave something out on the counter, in the refrigerator — forget about it, even — and it just gets better. 
 But why do some foods improve with age, while others spoil? I wanted to know how it happens. 
 So early one morning, I met Chef Patrice Cunningham at Tastemakers, a shared commercial kitchen in northeast Washington, D.C. She owns a small business, making and selling a deliciously fresh, spicy, fermented Korean condiment – kimchi.  
@@ -28,7 +13,6 @@ Over the course of two days, Cunningham will walk me through the steps of making
         
 hide caption
 
-Cunningham sorts through packaged kimchi in the fridge.
 As a child, Cunningham made kimchi with her mother. But she hadn't planned to make a living from it, until the pandemic happened — and she lost her job as a chef at a restaurant.
 She wondered what to do next — and then an old idea came back to her. "I remember eating my mom's kimchi and being like 'This kimchi is the best!'" she recalls. "And I was like, 'I should jar this one day.'"
 So, three years ago, Cunningham started her company, Tae-Gu Kimchi, named after the city in South Korea where her mother is from. Her mother says this recipe is typical of Taegu – heavy on garlic, green onions and spicy red pepper paste, packing strong flavors in every bite. 
@@ -42,7 +26,6 @@ Cunningham and her team make the kimchi fresh every week to sell at local farmer
         
 hide caption
 
-Patrice Cunningham pours brine into tubs of chopped cabbage. The salty solution helps the natural fermentation process by drawing water out of the cabbage leaves. As it sits, the leaves shrink and settle, releasing more food for the microbes.
 Cabbage leaves, like many other living things, are naturally covered in tiny yeasts and bacteria. These microbes are mostly harmless while the cabbage is living, "but as soon as we take the cabbage out of the ground – as soon as the cabbage can't defend itself – those [microbes] start using it as a nutrient source," says Justin Sonnenburg, a microbiologist and immunologist at Stanford University. 
 When the cabbage gets harvested and chopped, these microbes start eating it – i.e., fermenting it.
 In the kitchen, Cunningham helps the process by soaking the cabbage in a salty brine. She dissolves eight cups of coarse salt in a vat of water. "My mom did the measurements for me, so there's no method to this madness other than this being her recipe," she says. She pours the liquid over tubs of crisp, chopped cabbage. 
@@ -56,7 +39,6 @@ Her mom — Hong Cunningham — often stops by the kitchen to help with the proc
         
 hide caption
 
-Patrice Cunningham (left) started Tae-gu Kimchi in 2020, basing her recipe from her mother Hong Cunningham. Her mom still helps out and weighs in as the kimchi gets made.
 In four hours, the cabbage will take up just half the tub. "It just all kind of shrinks," Patrice Cunningham says. As the cabbage soaks, the salt draws water out of the cabbage leaves. It breaks down cell walls, releasing sugars that feed the kimchi-making microbes. 
 Those microbes break complex sugars and starches apart with great precision, explains Victor Ujor, a food sciences professor at the University of Wisconsin Madison. "They take a starch that contains something like 15,000 molecules of sugar — and they go snip-snip- snip-snip-snip, into individual sugars. Then they take the glucose — boom! break it down," he says. 
 The microbes turn the cabbage into energy they can use and compounds that can signal each other, which also changes how it tastes to humans. The results? "This wacky, beautiful jumble of flavor and beauty," Ujor says. 
@@ -64,9 +46,6 @@ The key to fermentation is getting the right microbes to show up at the right ti
 Salt gives the microbes key to kimchi-making a leg up, helping them grow and outcompete other microbes that could rot the cabbage into something inedible. "The difference between [spoiling] and fermenting is that you're selecting for certain microbes to grow that are beneficial to the end product," she says. 
 To get the right ferment, you need the right conditions. It's early the next day, and Chef Cunningham is back in the kitchen. She's washed and dried the cabbage, minced lots of garlic and mixed up a spicy red pepper paste. But there's a problem – "It's so hot in here," Cunningham says. 
 It's probably around 85 degrees. If it gets much hotter, harmful bacteria could start to grow.
-
-1 of 7
-
 Cunningham and her team work fast. They put on pink rubber gloves up to their elbows, add fish sauce and salted shrimp, and massage a gooey paste made with spicy red peppers and sweet rice flour into the cabbage. The sound stirs up childhood kimchi memories. 
 "On a hot summer day, my mom would be in the backyard. And you can just hear the squeakiness of rubbing the ingredients on the clean cabbage. Every time I hear it, it brings me back," Cunningham says.
 Once the kimchi is mixed, the staff works to get it bagged and sealed, to keep out oxygen – another enemy of a good ferment. Low oxygen and increasing acidity help lactic acid bacteria thrive, including Weissella koreensis, Lactobacillus sakei, and Leuconostoc gelidum which are key to making kimchi.
@@ -95,5 +74,3 @@ Back in the kitchen, Cunningham offers me a sample of kimchi from the newly mixe
 Hong Cunningham is clearly proud of her daughter Patrice. "She does pretty good," says Hong, "I just help a little bit now," coming by to chop garlic and assist with the packing. And she's proud of kimchi. 
 "For a long time, [most people in the U.S.] didn't know what kimchi was," she says. Now, like KPop and Korean dramas, she says the cabbage dish is bringing global fame to her culture. And her recipe is transforming her family's fortunes in the process.
 Photography by Meredith Rizzo. Editing and visual design by Carmel Wroth. Rebecca Davis edited the audio version of this piece.
-Sponsor Message
-Become an NPR sponsor

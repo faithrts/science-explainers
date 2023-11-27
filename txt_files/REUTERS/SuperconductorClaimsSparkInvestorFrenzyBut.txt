@@ -1,5 +1,4 @@
-A view shows one of the superconductor coils which are assembled to form the giant magnet within which the magnectic field is 11.7 T., the core component of the most powerful MRI (Magnetic Resonance Imaging) scanner in the world to be used for human brain imaging at the Neurospin facility of the CEA Saclay Nuclear Research Centre... Acquire Licensing Rights Read more
-Aug 3 (Reuters) - Last week, two papers by South Korean scientists made an extraordinary claim that sparked a social media frenzy and pushed up prices of some stocks in China and South Korea: the discovery of a practical superconductor.
+Last week, two papers by South Korean scientists made an extraordinary claim that sparked a social media frenzy and pushed up prices of some stocks in China and South Korea: the discovery of a practical superconductor.
 Superconductors are materials that allow electrical current to flow with no resistance, a property that would revolutionize power grids where energy is lost in transmission as well as advance fields such as computing chips, where electrical resistance acts as a speed limit.
 The papers, which appeared on a website used by scientists to share research before formal peer review and publication, spurred researchers around the world - including in at least two U.S. national labs and three Chinese universities - to take a closer look at the proposed material.
 Superconducting materials already exist in places like MRI machines for medical imaging and some quantum computers, but only display their superconducting properties at extremely low temperatures, making them impractical for wide use.
@@ -25,13 +24,3 @@ Still, Fuhrer and other physicists said the results are worth studying given all
 "There's lots and lots of minerals out there that we haven't looked at yet," said Argonne's Norman. "And there's probably some very interesting physics hiding in these minerals."
 Reporting by Stephen Nellis in San Francisco, Joyce Lee in Seoul and Brenda Goh in Shanghai, Krystal Hu in New York; editing by Kenneth Li and Deepa Babington
 Our Standards: The Thomson Reuters Trust Principles.
-Taiwanese chipmaker Powerchip Semiconductor Manufacturing Corp and Japanese financial firm SBI Holdings said on Tuesday they have selected Miyagi prefecture in northern Japan as the location for a planned $5.4 billion foundry.
-Reuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching billions of people worldwide every day. Reuters provides business, financial, national and international news to professionals via desktop terminals, the world's media organizations, industry events and directly to consumers.
-Build the strongest argument relying on authoritative content, attorney-editor expertise, and industry defining technology.
-The most comprehensive solution to manage all your complex and ever-expanding tax and compliance needs.
-The industry leader for online information for tax, accounting and finance professionals.
- Access unmatched financial data, news and content in a highly-customised workflow experience on desktop, web and mobile.
- Browse an unrivalled portfolio of real-time and historical market data and insights from worldwide sources and experts.
-Screen for heightened risk individual and entities globally to help uncover hidden risks in business relationships and human networks.
-All quotes delayed a minimum of 15 minutes. See here for a complete list of exchanges and delays.
-© 2023 Reuters. All rights reserved

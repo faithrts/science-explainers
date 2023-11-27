@@ -1,4 +1,4 @@
-WASHINGTON, Oct 18 (Reuters) - On May 4, 2022, NASA's InSight lander detected the largest quake yet recorded on Mars, one with a 4.7 magnitude - fairly modest by Earth standards but strong for our planetary neighbor.
+On May 4, 2022, NASA's InSight lander detected the largest quake yet recorded on Mars, one with a 4.7 magnitude - fairly modest by Earth standards but strong for our planetary neighbor.
 Given Mars lacks the geological process called plate tectonics that generates earthquakes on our planet, scientists suspected a meteorite impact had caused this marsquake. But a search for an impact crater came up empty, leading scientists to conclude that this quake was caused by tectonic activity - rumbling in the planet's interior - and giving them a deeper understanding about what makes Mars shake, rattle and roll.
 "We concluded that the largest marsquake seen by InSight was tectonic, not an impact. This is important as it shows the faults on Mars can host hefty marsquakes," said planetary scientist Ben Fernando of the University of Oxford in England, lead author of the research published this week in the journal Geophysical Research Letters. "We really thought that this event might be an impact."
 "This represents a significant step forward in our understanding of Martian seismic activity and takes us one step closer to better unraveling the planet's tectonic processes," added Imperial College London planetary scientist and study co-author Constantinos Charalambous, co-chair of InSight's Geology Working Group.
@@ -18,13 +18,3 @@ Charalambous said the location of the majority of the marsquakes detected by InS
 "Furthermore, it provides essential insights into the distribution of seismic activity on Mars, which is a vital consideration for planning future human missions to the planet."
 Reporting by Will Dunham; Editing by Daniel Wallis
 Our Standards: The Thomson Reuters Trust Principles.
-Taiwanese chipmaker Powerchip Semiconductor Manufacturing Corp and Japanese financial firm SBI Holdings said on Tuesday they have selected Miyagi prefecture in northern Japan as the location for a planned $5.4 billion foundry.
-Reuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching billions of people worldwide every day. Reuters provides business, financial, national and international news to professionals via desktop terminals, the world's media organizations, industry events and directly to consumers.
-Build the strongest argument relying on authoritative content, attorney-editor expertise, and industry defining technology.
-The most comprehensive solution to manage all your complex and ever-expanding tax and compliance needs.
-The industry leader for online information for tax, accounting and finance professionals.
- Access unmatched financial data, news and content in a highly-customised workflow experience on desktop, web and mobile.
- Browse an unrivalled portfolio of real-time and historical market data and insights from worldwide sources and experts.
-Screen for heightened risk individual and entities globally to help uncover hidden risks in business relationships and human networks.
-All quotes delayed a minimum of 15 minutes. See here for a complete list of exchanges and delays.
-© 2023 Reuters. All rights reserved

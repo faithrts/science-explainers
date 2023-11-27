@@ -1,18 +1,3 @@
-
-
-   Geoff Brumfiel
-  
-
-
-        AI similar to the kind used to make images is now being used to design synthetic proteins. Scientists say its radically sped up their research.
-        
-          
-          Ian C Haydon/ UW Institute for Protein Design
-          
-        
-hide caption
-
-AI similar to the kind used to make images is now being used to design synthetic proteins. Scientists say its radically sped up their research.
 Susana Vazquez-Torres is a fourth-year graduate student at the University of Washington who wants to someday invent new drugs for neglected diseases.
 Lately, she's been thinking a lot about snake bites: Around a hundred thousand people die each year from snake bites, according to the World Health Organization — and yet, she says, "the current therapeutics are not safe and are very expensive."
 Part of the problem is that developing new drugs for things like snake bites has been a slow and laborious process. In the past, Torres says, it might have taken years to come up with a promising compound.
@@ -35,7 +20,6 @@ AI has changed all that.
         
 hide caption
 
-Researchers at the University of Washington are using AI to design new kinds of proteins. Then they make them in the lab to see if they'll actually work.
 The particular type of AI being used is known as diffusion modeling. It's the same technology used by popular AI image generators, like DALL-E or Midjourney. The system starts with a field of random pixels, essentially white noise, and then slowly tweaks each one until it creates what the user has asked for. In the case of an AI image generator that might be a picture of a flower. In the case of this lab's AI, it's a protein with a specific shape.
 The shape of a protein often determines how well it will work, so this kind of AI is particularly well-suited for the job, Baker says. The AI also requires examples to learn from, and luckily, scientists have spent decades and billions of dollars developing a massive database full of proteins that it can study.
 "There really aren't many places in science that have databases like that," Baker says.
@@ -57,7 +41,6 @@ Because the scientific literature can span thousands of papers published over th
         
 hide caption
 
-Some researchers hope that AI could be used to find new materials for things like solar cells. There's limited data on these materials, and it's not stored centrally, so results are not guaranteed.
 "I would argue that at some point AI would be a really good tool for us to make new scientific discoveries," she says. Of course, it would still take human researchers to figure out if the scientific ideas the AI wanted to pursue were worthwhile.
 Yolanda Gil at the University of Southern California wants to develop AI that can do all of science. She envisions automated systems that can plan and carry out experiments by themselves. That will likely mean developing entirely new kinds of AI that can reason better than the current models — which are notorious for fabricating information and making mistakes.
 But if it could work, Gil believes the AI scientists could have a huge impact on research. She envisions a world in which AI systems can continuously reanalyze data, and update results on diseases or environmental change as it's happening.
@@ -65,5 +48,3 @@ But if it could work, Gil believes the AI scientists could have a huge impact on
 Gil also thinks that AI scientists could also reduce errors and increase reproducibility, because the systems are automated. "I think it would be a lot more trustworthy; I think it could also be more systematic," she says.
 But if AI scientists are the future, Susana Vazquez-Torres at the University of Washington doesn't seem worried about it. She and her labmates are attacking a wide swath of problems using their designer proteins — everything from new drugs, to vaccines, to improving photosynthesis in plants and finding new compounds to help break down plastics.
 Vazquez-Torres says there are so many problems that need to be solved, and that many exciting discoveries lie ahead thanks to AI. "We can just make drugs right now so easily with these new tools," she says. Job security isn't a worry at all. "For me, it's the opposite — it's exciting."
-Sponsor Message
-Become an NPR sponsor

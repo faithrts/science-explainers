@@ -1,19 +1,3 @@
-By 
-
-
-   Michael Copley
-  
-
-
-        Farmer Rob Stone (R) and Gregory Gingera, a canola breeder at Corteva Agriscience, walk through Stone's field in Davidson, Saskatchewan, Canada in May. Canadian farmers are looking for ways to deal with recurrent drought, including planting earlier and using seeds that are more resistant to heat.
-        
-          
-          GEOFF ROBINS/AFP via Getty Images
-          
-        
-hide caption
-
-Farmer Rob Stone (R) and Gregory Gingera, a canola breeder at Corteva Agriscience, walk through Stone's field in Davidson, Saskatchewan, Canada in May. Canadian farmers are looking for ways to deal with recurrent drought, including planting earlier and using seeds that are more resistant to heat.
 The cost of climate change is growing for companies as extreme weather disrupts manufacturing and supply chains and inflicts billions in economic losses. For the agriculture industry, the threat from rising temperatures "may be one of the greatest that we face in this lifetime," according to Corteva, an Indiana company that makes seeds and chemicals.
 But Corteva — which was previously part of DowDuPont — says it has a plan. There's money to be made producing things like biofuels to power ships and airplanes with less climate pollution, and crops that are better at resisting diseases as the planet gets hotter. And — crucially — Corteva says it is curbing some of its own emissions of the greenhouse gasses that are heating the planet. If it misses deadlines it set for operating more sustainably, the company says its relationships with customers and investors could suffer.
 However, that hasn't stopped Corteva from working alongside other American companies and lobbyists to limit upcoming regulations from the U.S. Securities and Exchange Commission (SEC) that would make businesses disclose their emissions and the risks they face from climate change. 
@@ -33,7 +17,6 @@ Yet even as companies in the United States begin adjusting to that new reality, 
         
 hide caption
 
-Securities and Exchange Commission Chair Gary Gensler testifies during a Senate Banking Committee hearing in September.
 The fight to influence the SEC's climate rules is part of a larger battle over what kinds of information financial firms should be able to consider when they're making investment decisions. In Washington and in state houses around the country, Republican officials and political operatives have been attacking investment firms that account for issues related to climate change, saying the practice is aimed at hurting the country's fossil fuel industry.
 "Let's be honest, the agenda here is not to provide investors with relevant information, but instead to redirect capital away from fossil energy," Rep. Andy Barr, a Republican from Kentucky, said of the SEC's pending climate-disclosure rules at a Congressional hearing in September. 
 The climate rules the SEC proposed in early 2022 are wide-ranging and attracted thousands of public comments. Publicly-traded companies would have to report on the threats they're facing from global warming: how extreme weather, which is being fueled by rising temperatures, is affecting their financial performance and influencing their business strategies.
@@ -52,7 +35,6 @@ In a lot of cases, businesses are already giving investors some of that informat
         
 hide caption
 
-Traffic makes its way through flood waters along the Brooklyn Queens Expressway in New York in September. Climate change makes heavy rain more common, because a hotter atmosphere can hold more moisture.
 But the climate disclosures that businesses like Corteva make vary widely, and they're scattered across company websites and in corporate reports. Experts who support stronger regulations say that investors and the public need standardized information to be able to compare the risks that different companies face from climate change, and to judge whether they're delivering on their emissions pledges. That includes promises from consumer goods businesses, like soda makers and cosmetic companies, to eliminate or offset all of their carbon-dioxide emissions. 
 "We certainly appreciate that there's been a lot of progress made by companies" voluntarily reporting information about climate change, says Aron Szapiro, head of government affairs at Morningstar, a financial services company. "But you don't have that kind of consistent, comparable, comprehensive disclosure right now. And that's where it's important to have a regulator lead."
 Without direction and oversight from federal regulators, there's also concern that companies may be engaging in greenwashing. George Georgiev, an associate professor at Emory University School of Law, says some of the climate information that companies are releasing looks more like marketing material than risk disclosures.
@@ -69,7 +51,6 @@ The American Petroleum Institute (API), which represents the U.S. oil and gas in
         
 hide caption
 
-The SEC is trying to decide whether public companies will have to disclose emissions that are linked indirectly to their businesses, including from their supply chains.
 In the coming months, the SEC is expected to announce what sort of climate information companies will have to disclose. Corporate lobbyists have been pressuring the agency to pare back its requirements. Environmentalists and investors who focus on sustainability have been pushing back, demanding aggressive regulations that they say are needed to protect everyday investors and professionals managing billions of dollars from the financial risks that are being created by global warming.
 Now, almost 19 months since the SEC proposed its climate rules, the big question is whether the agency will make companies report the most controversial level of pollution known as Scope 3 emissions.
 That's the pollution linked indirectly to the theoretical shoe company through its suppliers and distributors. For an oil company, Scope 3 emissions include the climate pollution that's released into the atmosphere when people burn its fuel driving their cars and running their lawnmowers. And for a financial firm, they are the emissions that come from the companies and projects it invests in.
@@ -83,5 +64,3 @@ Congressional Democrats echoed that message in a letter they sent to Gensler lat
 It isn't clear what the SEC will do.
 The agency's rules apply to public companies. Because Scope 3 emissions come from a business's suppliers and customers, that kind of climate pollution often traces back to private companies that aren't under the SEC's jurisdiction.
 But the SEC is also considering the impact of California's new disclosure laws. One of them will require public and private companies that operate in the state and make more than $1 billion a year in revenue to report all of their greenhouse gas pollution, including those indirect Scope 3 emissions.  
-Sponsor Message
-Become an NPR sponsor

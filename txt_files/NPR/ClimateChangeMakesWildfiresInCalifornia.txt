@@ -1,19 +1,3 @@
-By 
-
-
-   Alejandra Borunda
-  
-
-
-        Towering smoke plumes overshadowed California's town of Paradise as the Camp Fire raced through in 2018. More than 18,000 acres burned in a matter of hours.
-        
-          
-          Josh Edelson/AFP via Getty Images
-          
-        
-hide caption
-
-Towering smoke plumes overshadowed California's town of Paradise as the Camp Fire raced through in 2018. More than 18,000 acres burned in a matter of hours.
 During some of the worst hours in Camp Fire, which in 2018 burned the town of Paradise, California to the ground, the fire was growing so fast it ate up 10,000 acres within just 90 minutes.
 Wildfires like the Camp Fire that intensify and spread enormously within a single day, hour, or even minutes, keep fire experts up at night. Now a new study, published Wednesday in Nature, uses a machine-learning model to show that climate change has nudged the risk of fast-spreading fires up by about 25% on average in California. That's compared to a time before humans heated up Earth's atmosphere by burning vast amounts of fossil fuels. 
 "We're seeing the impact of climate change for the first time on that high-resolution fire behavior," says Patrick Brown, the study's lead author and a climate scientist at Berkeley's Breakthrough Institute.
@@ -29,5 +13,3 @@ Risks of explosively growing fires are almost certainly going up, the research f
 But, says Brown, those climate-driven increases in risk can be nearly–or entirely–offset by smarter management of the non-climate parts of the fire story. Clearing extra fuel from overcrowded forests via strategies like prescribed fire, for example, means there's less fuel to burn. More than 80% of U.S. fires are started by people, and those fires burn faster and wider than naturally ignited ones. Getting that number in check could greatly lessen risks.
 To Mortiz, the challenge now is partly about considering climate's influence on wildfire risk while figuring out how to minimize the risks of fire for people and their homes and communities. 
 His research group has looked at how human-scale decisions, like neighborhood design or house placement, affects wildfire risks to communities. "We realized the strength of housing densities on fire activity rivals the strength of climate variables in some parts of California," he says. Those choices are well within peoples' ability to control, through zoning policy, or building codes, or fire-smart neighborhood design. "We have to be more holistic in our understanding of 'risk,' to look at the human side as well," Mortiz says.
-Sponsor Message
-Become an NPR sponsor

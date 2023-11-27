@@ -1,18 +1,3 @@
-
-
-   Jon Hamilton
-  
-
-
-        This video still shows a view of one person's cerebral cortex. Pink areas have above-average activity; blue areas have below-average activity.
-        
-          
-          Jerry Tang and Alexander Huth
-          
-        
-hide caption
-
-This video still shows a view of one person's cerebral cortex. Pink areas have above-average activity; blue areas have below-average activity.
 Scientists have found a way to decode a stream of words in the brain using MRI scans and artificial intelligence.
 The system reconstructs the gist of what a person hears or imagines, rather than trying to replicate each word, a team reports in the journal Nature Neuroscience.
 "It's getting at the ideas behind the words, the semantics, the meaning," says Alexander Huth, an author of the study and an assistant professor of neuroscience and computer science at The University of Texas at Austin.
@@ -44,5 +29,3 @@ Neither approach can be used to read a person's thoughts without their cooperati
 "This is very exciting, but it's also a little scary, Huth says. "What if you can read out the word that somebody is just thinking in their head? That's potentially a harmful thing."
 Moses agrees.
 "This is all about the user having a new way of communicating, a new tool that is totally in their control," he says. "That is the goal and we have to make sure that stays the goal."
-Sponsor Message
-Become an NPR sponsor

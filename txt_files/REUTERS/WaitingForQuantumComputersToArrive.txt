@@ -1,4 +1,4 @@
-OAKLAND, Calif., April 17 (Reuters) - Quantum computers promise to be millions of times faster than today's fastest supercomputers, potentially revolutionizing everything from medical research to the way people solve problems of climate change. The wait for these machines, though, has been long, despite the billions poured into them.
+Quantum computers promise to be millions of times faster than today's fastest supercomputers, potentially revolutionizing everything from medical research to the way people solve problems of climate change. The wait for these machines, though, has been long, despite the billions poured into them.
 But the uncertainty and the dismal stock performance of publicly-listed quantum computer companies including Rigetti Computing Inc (RGTI.O) have not scared investors away. Some are turning to startups who are pivoting to using powerful chips to run quantum-inspired software on regular computers as they bide their time.
 Lacking quantum computers that customers can use today to get an advantage over classical computers, these startups are developing a new breed of software inspired by algorithms used in quantum physics, a branch of science that studies the fundamental building blocks of nature.
 Once too big for conventional computers, these algorithms are finally being put to work thanks to today's powerful artificial intelligence chips, industry executives told Reuters.
@@ -17,16 +17,7 @@ Jason Turner, who founded Entanglement Inc in 2017 to be a "quantum only lab," b
 Ultimately, the software inspired by quantum physics won't perform well on quantum computers without some changes, said William Hurley, boss of Austin-based quantum software startup Strangeworks.
 Still, he said companies that start using them will have engineers "learning about quantum and the phenomenon and the process, which will better prepare them to use quantum computers at the point that they do so." That moment could arrive suddenly, he said.
 Strangeworks, which also operates a cloud with over 60 quantum computers on it, raised $24 million last month from investors including IBM (IBM.N).
+Reporting by Jane Lanahee Lee in Oakland, California; Editing by Peter Henderson, Sayantani Ghosh and Nick Zieminski
 Our Standards: The Thomson Reuters Trust Principles.
 Thomson Reuters
 Reports on global trends in computing from covering semiconductors and tools to manufacture them to quantum computing. Has 27 years of experience reporting from South Korea, China, and the U.S. and previously worked at the Asian Wall Street Journal, Dow Jones Newswires and Reuters TV. In her free time, she studies math and physics with the goal of grasping quantum physics. 
-Sony Group Corp said on Thursday its semiconductor subsidiary would buy land in the southern Japanese prefecture of Kumamoto to produce image sensors.
-Reuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching billions of people worldwide every day. Reuters provides business, financial, national and international news to professionals via desktop terminals, the world's media organizations, industry events and directly to consumers.
-Build the strongest argument relying on authoritative content, attorney-editor expertise, and industry defining technology.
-The most comprehensive solution to manage all your complex and ever-expanding tax and compliance needs.
-The industry leader for online information for tax, accounting and finance professionals.
- Access unmatched financial data, news and content in a highly-customised workflow experience on desktop, web and mobile.
- Browse an unrivalled portfolio of real-time and historical market data and insights from worldwide sources and experts.
-Screen for heightened risk individual and entities globally to help uncover hidden risks in business relationships and human networks.
-All quotes delayed a minimum of 15 minutes. See here for a complete list of exchanges and delays.
-© 2023 Reuters. All rights reserved

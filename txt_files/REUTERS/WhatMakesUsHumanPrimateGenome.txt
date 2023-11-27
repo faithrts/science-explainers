@@ -1,5 +1,4 @@
-[1/5]Gihishamwotzi, 18, an endangered silverback high mountain gorilla from Sabyinyo family, rests atop trees inside the forest in the Volcanoes National Park near Kinigi, northwestern Rwanda, January 9, 2018. REUTERS/Thomas Mukoya/File Photo Acquire Licensing Rights
-WASHINGTON, June 1 (Reuters) - The most comprehensive genomic study ever on primates - a group whose membership includes lemurs, monkeys, apes and people - has revealed pivotal genetic traits that are uniquely human while refining the timeline for our evolutionary lineage's split from our closest cousins, the chimpanzees and bonobos.
+The most comprehensive genomic study ever on primates - a group whose membership includes lemurs, monkeys, apes and people - has revealed pivotal genetic traits that are uniquely human while refining the timeline for our evolutionary lineage's split from our closest cousins, the chimpanzees and bonobos.
 Researchers said on Thursday they sequenced and analyzed the genomes of 233 primate species, comprising nearly half of those alive today, and surprisingly discovered that most boast greater genetic diversity - variation within a species that is vital for adaptation to changing environments and other challenges - than humans.
 While some genetic variations previously thought to be exclusive to people were found in other primate species, the researchers pinpointed others that were uniquely human involving brain function and development. They also used the primate genomes to train an artificial intelligence algorithm to predict disease-causing genetic mutations in humans.
 "Studying primate genomic diversity is not only important in the face of the ongoing biodiversity crisis, but also has huge potential to improve our understanding of human diseases," said genomicist Lukas Kuderna of the Barcelona Biomedical Research Park's Institute of Evolutionary Biology in Spain and Illumina Inc (ILMN.O), lead author of the main paper on the research published in the journal Science.
@@ -16,13 +15,3 @@ The study covered some of the most endangered primates. These included the Weste
 "Interestingly, we find genetic diversity to be a poor predictor of extinction risk overall," Kuderna said. "This could be because primate populations of different species have declined so quickly that their genetics has not yet had time to catch up and reflect that loss of population size."
 Reporting by Will Dunham, Editing by Rosalba O'Brien
 Our Standards: The Thomson Reuters Trust Principles.
-A team of international scientists collected fish samples from a port town near Japan's crippled Fukushima nuclear plant on Thursday, seeking to assess the impact of the plant's recent release of treated radioactive water into the sea.
-Reuters, the news and media division of Thomson Reuters, is the world’s largest multimedia news provider, reaching billions of people worldwide every day. Reuters provides business, financial, national and international news to professionals via desktop terminals, the world's media organizations, industry events and directly to consumers.
-Build the strongest argument relying on authoritative content, attorney-editor expertise, and industry defining technology.
-The most comprehensive solution to manage all your complex and ever-expanding tax and compliance needs.
-The industry leader for online information for tax, accounting and finance professionals.
- Access unmatched financial data, news and content in a highly-customised workflow experience on desktop, web and mobile.
- Browse an unrivalled portfolio of real-time and historical market data and insights from worldwide sources and experts.
-Screen for heightened risk individual and entities globally to help uncover hidden risks in business relationships and human networks.
-All quotes delayed a minimum of 15 minutes. See here for a complete list of exchanges and delays.
-© 2023 Reuters. All rights reserved

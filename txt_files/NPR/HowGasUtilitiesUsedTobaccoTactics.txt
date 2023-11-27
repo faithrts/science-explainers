@@ -1,30 +1,3 @@
-
-
-   Jeff Brady
-  
-
-
-        Dr. Carl Shy, a public health researcher, cooks on his electric stove at his home. In 1970, he published a study showing that families exposed to greater levels of the air pollutant nitrogen dioxide outdoors had higher rates of respiratory illness than families in less-polluted areas.
-        
-          
-          Cornell Watson for NPR
-          
-        
-hide caption
-
-In the late 1960s, natural gas utilities launched "Operation Attack," a bold marketing campaign to bring lots more gas stoves into people's kitchens.
-The gas utilities called Operation Attack their "most ambitious advertising and merchandising program ever." But as it got underway, concerns were becoming public about indoor pollution from gas stoves, including household levels of nitrogen dioxide.
-Around the same time, Dr. Carl Shy, a federal public health researcher, was looking into the health effects of nitrogen dioxide. In 1970, Shy published a study showing that families exposed to greater levels of the air pollutant nitrogen dioxide outdoors had higher rates of respiratory illness than families in less-polluted areas. The research caught the attention of the gas utility industry, and they asked Shy for a meeting.
-
-        Dr. Carl Shy in his home.
-        
-          
-          Cornell Watson for NPR
-          
-        
-hide caption
-
-Dr. Carl Shy in his home.
 When they met, Shy heard from the gas industry something Americans are now learning about, more than 50 years later: the potential health risks from cooking with gas stoves. "They are the ones who told me that the gas stoves produce nitrogen dioxide because of their high temperature," says Shy, now 91, at his home near Durham, N.C. "They said the hoods above gas stoves were really not powerful enough to pull out the nitrogen dioxide."
 But in the following decades, the gas industry argued the opposite, asserting that range hoods could clear up this pollution. And it has contended that fumes from cooking food are more of a problem than the fossil fuel pollution of nitrogen dioxide.
 The narrative was part of a lengthy campaign by the gas utility industry to popularize gas stoves. Yet as it advertised the appliance, the industry also financed its own research into the potential harms from cooking with gas. Those industry-backed reports confused consumers and muddied the science that regulators relied on about the potential dangers of cooking with gas, according to an investigation by NPR and documents uncovered in a new report from the Climate Investigations Center (CIC), a research and watchdog group.
@@ -107,7 +80,6 @@ Eventually the outdoor nitrogen dioxide standard was tightened, nearly 25 years 
         
 hide caption
 
-Since the early 1980s, the gas industry has been more vocal in arguing against a connection between gas stoves and health problems.
 With the weight of evidence it had funded on its side, the gas industry became more vocal in arguing against a connection between gas stoves and health problems. A 1982 Gas Research Institute article concludes that it's difficult to reach "reliable conclusions" and that the industry group "believes that in structures with normal ventilation rates, emissions from unvented gas appliances do not cause any undesirable effects."
 Also in 1982, the AGA published an article, "Putting Gas Range Emissions in Perspective," written by a gas company executive. It includes a chart showing AGA-funded studies and no difference between respiratory illness rates in gas and electric homes. A chart in the article actually shows a higher rate of respiratory illness in homes with electric stoves. The article ends with "it can be concluded that the gas range's emissions are not a source of respiratory illness in the indoor environment."
 In 1986, the federal Consumer Product Safety Commission (CPSC) was investigating potential health effects from gas stoves and asked the EPA for advice on the state of science regarding the issue. The report by the EPA's Clean Air Scientific Advisory Committee says, "Human epidemiologic studies suggest that exposure may lead to increased respiratory illness rates among children." But the report also included undisclosed, industry-funded studies that highlight uncertainty in the science.
@@ -152,5 +124,3 @@ Conservatives have latched onto the issue and pulled gas stoves into the country
 Trumka and CPSC Chair Alex Hoehn-Saric tried to tamp down the controversy by saying there was no plan to ban gas stoves. While the CPSC inquiry continues, so far no plans to begin drafting regulations have been announced. Meanwhile, 11 attorneys general called on the commission to develop ventilation and emission standards for gas stoves.
 Shy, now retired from the University of North Carolina at Chapel Hill, says recent studies have reassured him that the effects he observed early in his career were correct — that cooking with a gas stove does come with potential health consequences. That's why he's always chosen to have an electric stove in his home.
 "I recently did have a choice. I had to replace my 40-year-old electric stove, and I replaced it with another electric stove. I wouldn't even have considered a gas stove," Shy says. At 91 years old, Shy says he doesn't have any preexisting conditions like asthma, but "I just didn't want to pose a risk in our home to exposure to a harmful air pollutant."
-Sponsor Message
-Become an NPR sponsor

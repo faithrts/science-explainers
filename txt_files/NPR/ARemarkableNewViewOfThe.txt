@@ -1,19 +1,3 @@
-By 
-
-
-   Rachel Treisman
-  
-
-
-        Scientists were able to map the entirety of the shipwreck site, from the Titanic's separated bow and stern sections to its vast debris field.
-        
-          
-          Atlantic/Magellan
-          
-        
-hide caption
-
-Scientists were able to map the entirety of the shipwreck site, from the Titanic's separated bow and stern sections to its vast debris field.
 A deep sea-mapping company has created the first-ever full-sized digital scan of the Titanic, revealing an entirely new view of the world's most famous shipwreck.
 The 1912 sinking of the Titanic has captivated the public imagination for over a century. And while there have been numerous expeditions to the wreck since its discovery in 1985, its sheer size and remote position — some 12,500 feet underwater and 400 nautical miles off the coast of Newfoundland, Canada — have made it nearly impossible for anyone to see the full picture.
 Until now, that is. Using technology developed by Magellan Ltd., scientists have managed to map the Titanic in its entirety, from its bow and stern sections (which broke apart after sinking) to its 3-by-5-mile debris field. 
@@ -36,7 +20,6 @@ Longtime Titanic explorer and analyst Parks Stephenson described the model as a 
         
 hide caption
 
-The effort yielded 16 terabytes of data and more than 715,000 still images, in what Magellan calls the largest underwater scanning project ever.
 Explorers and artists have spent decades trying to depict the Titanic wreck, albeit in lower-tech ways.
 After Robert Ballard — along with France's Jean-Louis Michel — discovered the site in 1985, he combined all of his photos to form the first photomosaic of the wreck, which showed the ship's bow and was published in National Geographic. Those efforts have been replicated in the years since.
 "But the problem with all that is it requires interpretation," Stephenson says. "It requires human interpretation, and there are gaps in the knowledge."
@@ -57,7 +40,6 @@ Stephenson saw an early version of the model, when Atlantic Productions brought 
         
 hide caption
 
-Experts say the model will be a valuable tool for future Titanic research and deep-sea exploration in general.
 Can there really be that much left to discover about the Titanic, more than 110 years on? 
 Stephenson says "at the end of the day, none of this matters." But there's a reason people keep visiting and talking about the wreck, he adds, and it's not because of any buried treasure. 
 "It's fame, I guess," Stephenson says. "People can't get enough of Titanic. And as long as people can't get enough of the Titanic, people will keep going to ... these mysteries."
@@ -77,7 +59,6 @@ Stephenson wants to use the model to document the extent of Titanic exploration 
         
 hide caption
 
-There have been "photomosaics" and other renderings of the shipwreck over the decades, but this is the first such 3D model.
 As a maritime archaeologist, Weirich is most interested in what the ship's condition can teach us about how to better preserve deep-sea shipwrecks in general. For example, how has it impacted the environment since it sunk, and how have the visits since its discovery impacted the site?
 The Titanic site has been designated as a maritime memorial, which makes preservation even more important. And Weirich says research on everything from its rate of deterioration to the microbial environment can be applied to other such sites worldwide.
 There are estimated to be hundreds of thousands of wrecks in the world, from ancient wooden ships in the Black Sea to World War II vessels in the Gulf of Mexico, Weirich says. 
@@ -85,5 +66,3 @@ And this kind of technology could play a crucial role in learning more about dee
 Weirich says he hopes these images of the Titanic will give people a greater appreciation for the deep ocean, and a better understanding of just how much is left to explore.
 "The story of Titanic and the shipwreck itself is extremely compelling, but it is a gateway for people to understand what we know and don't know about the deep ocean," he adds. 
 Weirich remembers being personally captivated by those first images of the shipwreck in National Geographic when he was just 10 years old. That sparked his lifelong interest in ocean exploration — and he hopes young people seeing these latest images are inspired too.
-Sponsor Message
-Become an NPR sponsor
