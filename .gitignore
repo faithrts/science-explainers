@@ -1,4 +1,3 @@
 .DS_Store
 temp.txt
-dataset/full_news_dataset.csv
-dataset/news_dataset.csv
+dataset/og_datasets/
